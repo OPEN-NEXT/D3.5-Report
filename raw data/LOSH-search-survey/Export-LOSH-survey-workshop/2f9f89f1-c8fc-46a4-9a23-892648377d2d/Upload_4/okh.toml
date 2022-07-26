@@ -1,0 +1,17 @@
+okhv = "OKH-LOSHv1.0"
+name = "OHLOOM"
+repo = "https://gitlab.com/OSEGermany/ohloom/"
+license = "CC-BY-SA-4.0"
+licensor = "Jens Meisner"
+readme = "https://gitlab.com/OSEGermany/ohloom/-/blob/3138d33b17190b27de90e8681dd431a89b55792a/README.md"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+function = "The Open Hardware Loom is a simple, hand-operated loom made of wood, screws and 3D printed plastic pieces for the most part.     It is simple to make and operate."
+
+[outer-dimensions]
+unit = "m"
+openSCAD = "13"
+
+[mass]
+value = "200"
+unit = "g"

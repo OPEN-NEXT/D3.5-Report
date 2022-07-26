@@ -1,0 +1,36 @@
+okhv = "OKH-LOSHv1.0"
+name = "Oskar"
+repo = "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar-braille-keyboard"
+release = "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar-braille-keyboard/-/tree/v.1.0.0-attested"
+license = "CERN-OHL-S-2.0"
+licensor = "Johannes Střelka-Petz"
+organisation = "-"
+readme = "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar-braille-keyboard/-/blob/assessment/README.md"
+documentation-language = "en"
+technology-readiness-level = "OTRL-1"
+documentation-readiness-level = "ODRL-1"
+attestation = "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar-braille-keyboard/-/blob/assessment/DIN-SPEC3105-Attestation-Oskar.pdf"
+function = "Oskar Zither is a open-source, mobile braille-keyboard. The arrangement of 8 keys in a braille cell block and two additional keys allows Oskar Zither to be controlled without a supporting surface."
+standard-compliance = [ "DIN-SPEC3105" ]
+source = [
+  "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar_zither_case/-/blob/assessment/zither.scad"
+]
+bom = "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar-braille-keyboard/-/blob/assessment/BOM.txt"
+
+[outer-dimensions]
+openSCAD = "cube([220, 90,25])"
+unit = "mm"
+
+[mass]
+value = "200"
+unit = "g"
+
+[[part]]
+name = "pcb"
+source = [
+  "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar_zither_pcb"
+]
+
+[[software]]
+release = "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar_firmware_arduino/-/tree/assessment"
+installation-guide = "https://gitlab.opensourceecology.de/verein/projekte/cab/oskar/oskar_firmware_arduino/-/blob/assessment/README.md"
