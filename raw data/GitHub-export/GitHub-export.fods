@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Martin Häuer</meta:initial-creator><meta:creation-date>2021-01-14T11:07:19.354245458</meta:creation-date><meta:generator>LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1</meta:generator><dc:date>2022-06-21T17:12:45.274892099</dc:date><dc:creator>Martin Häuer</dc:creator><meta:editing-duration>PT2H29M38S</meta:editing-duration><meta:editing-cycles>21</meta:editing-cycles><meta:document-statistic meta:table-count="3" meta:cell-count="497" meta:object-count="0"/></office:meta>
+ <office:meta><meta:initial-creator>Martin Häuer</meta:initial-creator><meta:creation-date>2022-07-27T21:40:52.266449993</meta:creation-date><dc:date>2022-07-27T21:41:49.464232793</dc:date><dc:creator>Martin Häuer</dc:creator><meta:editing-duration>PT57S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:cell-count="366" meta:object-count="0"/><meta:generator>LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1</meta:generator></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">23466</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">27038</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">63217</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">6321</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
-      <config:config-item-map-entry config:name="github issue export">
-       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">5</config:config-item>
+      <config:config-item-map-entry config:name="Sheet1">
+       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">26</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -24,42 +24,6 @@
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
-       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
-       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
-      </config:config-item-map-entry>
-      <config:config-item-map-entry config:name="heuristic analysis">
-       <config:config-item config:name="CursorPositionX" config:type="int">13</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">13</config:config-item>
-       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">6</config:config-item>
-       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
-       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
-       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
-      </config:config-item-map-entry>
-      <config:config-item-map-entry config:name="search terms">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
-       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">15</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -67,8 +31,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">github issue export</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1898</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1485</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -105,29 +69,19 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
    <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">tQH+/0NvbG9yLUxhc2VySmV0LUNQMTUxNG4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDb2xvci1MYXNlckpldC1DUDE1MTRuAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9Q29sb3ItTGFzZXJKZXQtQ1AxNTE0bgpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQASW5wdXRTbG90OkF1dG8ARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
-   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
    <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
-   <config:config-item-map-indexed config:name="ForbiddenCharacters">
-    <config:config-item-map-entry>
-     <config:config-item config:name="Language" config:type="string">de</config:config-item>
-     <config:config-item config:name="Country" config:type="string">DE</config:config-item>
-     <config:config-item config:name="Variant" config:type="string"/>
-     <config:config-item config:name="BeginLine" config:type="string"/>
-     <config:config-item config:name="EndLine" config:type="string"/>
-    </config:config-item-map-entry>
-   </config:config-item-map-indexed>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Color-LaserJet-CP1514n</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
@@ -139,29 +93,19 @@
    <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item-map-named config:name="ScriptConfiguration">
-    <config:config-item-map-entry config:name="search terms">
+    <config:config-item-map-entry config:name="Sheet1">
      <config:config-item config:name="CodeName" config:type="string">Sheet1</config:config-item>
-    </config:config-item-map-entry>
-    <config:config-item-map-entry config:name="heuristic analysis">
-     <config:config-item config:name="CodeName" config:type="string">Sheet2</config:config-item>
-    </config:config-item-map-entry>
-    <config:config-item-map-entry config:name="github issue export">
-     <config:config-item config:name="CodeName" config:type="string">Sheet3</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-named>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <ooo:library-embedded ooo:name="Standard"/>
-   </ooo:libraries>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
-  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Droid Sans Devanagari" svg:font-family="&apos;Droid Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
@@ -484,57 +428,9 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="6.726cm"/>
-  </style:style>
-  <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.665cm"/>
-  </style:style>
-  <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.801cm"/>
-  </style:style>
-  <style:style style:name="co4" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
   </style:style>
-  <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.759cm"/>
-  </style:style>
-  <style:style style:name="co6" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.194cm"/>
-  </style:style>
-  <style:style style:name="co7" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="6.463cm"/>
-  </style:style>
-  <style:style style:name="co8" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="5.935cm"/>
-  </style:style>
-  <style:style style:name="co9" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.011cm"/>
-  </style:style>
-  <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="5.173cm"/>
-  </style:style>
-  <style:style style:name="co11" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.764cm"/>
-  </style:style>
-  <style:style style:name="co12" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.547cm"/>
-  </style:style>
-  <style:style style:name="co13" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="6.264cm"/>
-  </style:style>
-  <style:style style:name="co14" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="6.154cm"/>
-  </style:style>
   <style:style style:name="ro1" style:family="table-row">
-   <style:table-row-properties style:row-height="0.612cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="1.236cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="0.841cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro4" style:family="table-row">
    <style:table-row-properties style:row-height="0.452cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
@@ -543,25 +439,6 @@
   <number:number-style style:name="N2">
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1"/>
   </number:number-style>
-  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:wrap-option="wrap"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:wrap-option="wrap"/>
-  </style:style>
-  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center"/>
-  </style:style>
-  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
    <style:header-style>
@@ -602,7 +479,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2022-06-21">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="13:57:43.582758508">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2022-07-27">00.00.0000</text:date>, <text:time>00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -615,838 +492,9 @@
  <office:body>
   <office:spreadsheet>
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
-   <table:table table:name="search terms" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
-    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:number-columns-repeated="1017" table:default-cell-style-name="Default"/>
+   <table:table table:name="Sheet1" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:number-columns-repeated="28" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>OHO site</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>LOSH search term</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Validation selection</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Legend</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1018"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro2">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Bicycle Trailer Carla Cargo Crowd, Blueprints, Open Source Hardware, DIY - Part II </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>cargo bike trailer</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="3">
-      <text:p>cargo bike</text:p>
-     </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>-</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>redundant entry</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1017"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Tricycle Cargo Bike, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>cargo tricycle</text:p>
-     </table:table-cell>
-     <table:covered-table-cell/>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>not taken</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1017"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro2">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Bicycle Trailer Carla Cargo Crowd, Blueprints, Open Source Hardware, DIY - Part I </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>-</text:p>
-     </table:table-cell>
-     <table:covered-table-cell/>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Hammer Mill for Corn, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>corn mill</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Cargo Bike Long André, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>cargo bike</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>-</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Hot Water Collector with Storage Tank, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>hot water collector</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Cross Flow Turbine, Blueprints Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>cross-flow turbine</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>water turbine</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Hammer Mill for Corn, Blueprints Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>-</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro2">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Brick Making Machine CETA-RAM - For Soil Bricks, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>soil brick machine</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>brick machine</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Power Hammer Krusty, Blueprints Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>power hammer</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Wood Turning Lathe, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>woodturning lathe</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>lathe</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Wind Mill Pump, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>windmill pump</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>water pump</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Lattice Tower Mast for Wind Turbine, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>lattice tower</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Homemade Concrete Mixer 250 Watts, Blueprints Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>concrete mixer</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Workshop Crane wuth Drill, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>workshop crane</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Zigzag Solar Water Heater , Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>solar water heater</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Plate Rolling Machine, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>plate rolling</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Plastic Shredder Precious Plastics, Blueprints Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>plastic shredder</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Pipe Bending Machine, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>pipe bending</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Honey Extractor, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>honey extractor</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Axial Flow Turbine 25kW, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>axial-flow turbine</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Metal Folding Machine, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>metal folding</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Solar Food Dryer for Vegetables, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>solar food dryer</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Electric Saw for Small Metal Works, Blueprints Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>electric metal saw</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Flat Bottom Boat, Blueprints Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>flat bottom boat</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Himalayan Water Wheel, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>water wheel</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Charcoal Filter for Drinking Water DIY, Blueprints Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>charcoal filter</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Fence Making Machine, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>fence making</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Hidraulic Ram Water Pump, Blueprints, Open Source Hardware, DIY </text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>hydraulic ram</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>-</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Stand for Inspection Microscope, Blueprints Open Source Hardware, DIY</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>inspection microscope</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>x</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4" table:number-rows-repeated="1048544">
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-   </table:table>
-   <table:table table:name="heuristic analysis" table:style-name="ta1">
-    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:number-columns-repeated="1010" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>search term</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>search results</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
-      <text:p>relevance of results</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>selected project</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
-      <text:p>metadata information value</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
-      <text:p>representativeness of metadata</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
-      <text:p>usefulness of selected project</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
-      <text:p>usefulness of the search functionality</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>missing search features</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1010"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>score (1…5)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>comment</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>score (1…5)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>comment</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>score (1…5)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>comment</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>score (1…5)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>comment</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>score (1…5)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>comment</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1011"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>cargo bike</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655813187179.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>good cargo bike results found, but the vast majority is unrelated</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q815015</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>short description, license and CPC class available, but no mention of production-related metadata, technology- or documentation-readiness, no image</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no misleading information, good description</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
-      <text:p>5</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>OSH according to DIN SPEC 3105-1; fully replicable, even includes additional manufacturing instructions</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>corn mill</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655814639537.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>very interesing results for CNC mills, but only one (however very relevant) matching result</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q814982</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>short description, license and CPC class available, but no mention of production-related metadata, technology- or documentation-readiness, no image</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no misleading information, good description</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
-      <text:p>5</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>complete technical documentation ready for replication, including manufacturing-specific instructions</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>hot water collector</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655815113538.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>not a single relevant result found, however this is because result are flooded by unrelated thingiverse designs; relevant project found by going through individual repo hosts by hand</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q8749</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>short description, license and CPC class available, but no mention of production-related metadata, technology- or documentation-readiness, no image</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no misleading information, good description</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
-      <text:p>5</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>OSH according to DIN SPEC 3105-1; fully replicable, even includes additional manufacturing instructions</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>water turbine</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655815430205.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
-      <text:p>5</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>mostly relevant results</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q87201</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>short description, license and CPC class available, but no mention of production-related metadata, technology- or documentation-readiness, no image</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no misleading information, good description</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
-      <text:p>5</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>OSH according to DIN SPEC 3105-1; fully replicable, even includes additional manufacturing instructions</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>brick machine</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655816692876.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>mostly irrelevant results</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q88906</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>essentially, just an informative description and a license</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>good description, however repository only contains the stand</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no bill of materials, no assembly instructions, only stand published (but with source files) and an image of the assembled machine</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>power hammer</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655817976537.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>not a single relevant result found</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q465358</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>essentially, just an informative description and a license</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>simple description + irrelevant information, but nothing misleading</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>3D printable hammer toy (best result); not matching the use case; only export files published</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>lathe</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655818469138.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>mostly results in the domain of the search term and 1 well-matching result</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q483</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>informative description, license and image</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>good description + image, however project is not hosted on Wikifactory but spreads over multiple repositories on GitHub</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
-      <text:p>5</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>complete technical documentation ready for replication</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>water pump</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655819659910.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="5" calcext:value-type="float">
-      <text:p>5</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>mostly relevant results and various alternative designs</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q832590</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>essentially, just an informative description and a license, but description contains further important metadata</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no misleading information, good description</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>relevant, validated, replicapable design, but only export files published</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>lattice tower</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655820042837.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no relevant result, but some at least qualify for ideation</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q837759</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>essentially, just an informative description and a license, but description contains further important metadata</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no misleading information, good description</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>not relevant, but qualifies for ideation to build an actual tower</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>concrete mixer</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>LOSHExploreData-1655821531891.csv</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>not a single relevant result found</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://losh.opennext.eu/detail/Q241613</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>essentially, just an informative description and a license</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>no misleading information, good description</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>not relevant, hardly even qualifies for ideation</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1013"/>
-    </table:table-row>
-   </table:table>
-   <table:table table:name="github issue export" table:style-name="ta1">
-    <table:table-column table:style-name="co4" table:number-columns-repeated="29" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro4">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>url</text:p>
      </table:table-cell>
@@ -1531,40 +579,37 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>state_reason</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>issue URL</text:p>
-     </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/140</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118/labels{/name}</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/140/labels{/name}</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118/comments</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/140/comments</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118/events</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/140/events</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/118</text:p>
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/140</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>1124501895</text:p>
+      <text:p>1320035440</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>I_kwDOFr_Chc5DBomH</text:p>
+      <text:p>I_kwDOFr_Chc5OriRw</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>118</text:p>
+      <text:p>140</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Project description in English, German and French</text:p>
+      <text:p>versions or duplicates of the same hardware are not grouped or omitted</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
@@ -1587,7 +632,7 @@
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>2022-02-04T18:39:20Z</text:p>
+      <text:p>2022-07-27T19:29:03Z</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
@@ -1599,51 +644,127 @@
       <text:p>null</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>For European patents (EP patents), claims have to be written in German, English and French to make a first patent search easier. _x000d_<text:line-break/>_x000d_<text:line-break/>Personally, I would like to see this at the LOSH-Frontend as well, so that it is easier to find a project. At least the project description as shown on the detail page should be displayed in English, German and French (automatically translated for older projects) under the original description._x000d_<text:line-break/></text:p>
+      <text:p>The exact same entry (or different versions of it) repeat multiple times in the search results_x000d_<text:line-break/>_x000d_<text:line-break/>see e.g. https://losh.opennext.eu/?page=2&amp;search=brick%20machine_x000d_<text:line-break/>_x000d_<text:line-break/>![losh-no-version-group](https://user-images.githubusercontent.com/45949491/181356026-ab9451cd-baf4-4641-861e-332a83e61a05.png)_x000d_<text:line-break/></text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118/timeline</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/140/timeline</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I2]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/118" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/118</text:p>
-     </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/139</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120/labels{/name}</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/139/labels{/name}</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120/comments</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/139/comments</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120/events</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/139/events</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/120</text:p>
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/139</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>1137492116</text:p>
+      <text:p>1320033245</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>I_kwDOFr_Chc5DzMCU</text:p>
+      <text:p>I_kwDOFr_Chc5Orhvd</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>120</text:p>
+      <text:p>139</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>[Feature] add counter for results</text:p>
+      <text:p>no option for multiple filters nor filtering out</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>open</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>false</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2022-07-27T19:26:41Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2022-07-27T19:34:22Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>NONE</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>e.g. for repo hosts, it is impossible (from the GUI) to filter out a single repo host (e.g. thingiverse), see screenshot below_x000d_<text:line-break/>![repo-host-filter](https://user-images.githubusercontent.com/45949491/181355622-ff3cd592-1914-4856-a6b4-db5dacc6fa3a.png)_x000d_<text:line-break/>. Likewise there&apos;s no option to filter for more than one repo host. The same applies for the other filters._x000d_<text:line-break/>_x000d_<text:line-break/>Practical relevance: search results are flooded by thingiverse results, making it very hard to identify relevant results from other repo hosts</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/139/timeline</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/138</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/138/labels{/name}</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/138/comments</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/138/events</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/138</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1320027890</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I_kwDOFr_Chc5Orgby</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>138</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mostly unrelated results from page 3 onwards</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
@@ -1666,7 +787,7 @@
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>2022-02-14T15:48:02Z</text:p>
+      <text:p>2022-07-27T19:20:45Z</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
@@ -1678,51 +799,127 @@
       <text:p>null</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>would be great to know the total number of results when searching OSH_x000d_<text:line-break/>_x000d_<text:line-break/>Also, when nothing is entered in the search bar, the counter could just display the total amount of items in the DB</text:p>
+      <text:p>Search results get very unrelated from page 3…5 onwards. This can be replicated with almost any search term. See e.g. for &quot;lathe&quot; here: https://losh.opennext.eu/?page=5&amp;search=lathe</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120/timeline</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/138/timeline</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I3]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/120" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/120</text:p>
-     </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/137</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121/labels{/name}</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/137/labels{/name}</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121/comments</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/137/comments</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121/events</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/137/events</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/121</text:p>
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/137</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>1138709070</text:p>
+      <text:p>1316921961</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>I_kwDOFr_Chc5D31JO</text:p>
+      <text:p>I_kwDOFr_Chc5OfqJp</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>121</text:p>
+      <text:p>137</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>filter for open file formats (source files)</text:p>
+      <text:p>`fatal error` when searching for &quot;lab&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>open</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>false</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2022-07-25T14:26:12Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2022-07-27T19:24:12Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>NONE</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>e.g. https://losh.opennext.eu/?filters=%7B%22repoHost%22%3A%22wikifactory.com%22%7D&amp;search=lab_x000d_<text:line-break/>_x000d_<text:line-break/>returns a blank page (also the controls disappear)_x000d_<text:line-break/>_x000d_<text:line-break/>whereby https://losh.opennext.eu/?filters=%7B%22repoHost%22%3A%22github.com%22%7D&amp;search=lab_x000d_<text:line-break/>_x000d_<text:line-break/>works and returns 2 relevant project (+ 2 duplicates)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/137/timeline</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130/labels{/name}</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130/comments</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130/events</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/130</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1278546164</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I_kwDOFr_Chc5MNRD0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>130</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>OSHWA missing in list of `repo hosts`</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
@@ -1745,7 +942,7 @@
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>2022-02-15T13:38:27Z</text:p>
+      <text:p>2022-06-21T14:34:43Z</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
@@ -1757,51 +954,48 @@
       <text:p>null</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>the current release of DIN SPEC 3105-1 makes no difference whether source files (especially CAD files) use an open or proprietary file format. However, in practice proprietary file formats require the use of proprietary software, which may be a significant barrier for OSH developers and makers (optional footnote: a basic CATIA license starts at $ 4.5k a year)_x000d_<text:line-break/>_x000d_<text:line-break/>→ would be very helpful if one could filter results for open file formats</text:p>
+      <text:p>may be a crawler-related issue, since [repoHost property](https://losh.ose-germany.de/wiki/Property:P112) is missing for OSHWA projects, e.g. https://losh.ose-germany.de/wiki/Item:Q15071</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121/timeline</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130/timeline</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I4]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/121" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/121</text:p>
-     </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122/labels{/name}</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129/labels{/name}</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122/comments</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129/comments</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122/events</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129/events</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/122</text:p>
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/129</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>1250934073</text:p>
+      <text:p>1278404264</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>I_kwDOFr_Chc5Kj705</text:p>
+      <text:p>I_kwDOFr_Chc5MMuao</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>122</text:p>
+      <text:p>129</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>download results only works for current page</text:p>
+      <text:p>`go to repo` of version-specific page points to generic repo</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
@@ -1824,7 +1018,7 @@
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>2022-05-27T16:11:13Z</text:p>
+      <text:p>2022-06-21T12:51:55Z</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
@@ -1836,180 +1030,19 @@
       <text:p>null</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>…hence the download has to be repeated for _all_ pages_x000d_<text:line-break/>_x000d_<text:line-break/>→ it should be possible to download all results by one click</text:p>
+      <text:p>if project detail pages are version-specific, I&apos;d expect to view the project&apos;s repository at that specific version. instead it always points to the latest (stable?) version of the repository</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122/timeline</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129/timeline</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I5]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/122" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/122</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123/labels{/name}</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123/comments</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123/events</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/123</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>1250935917</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>I_kwDOFr_Chc5Kj8Rt</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>123</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>“results per page” sometimes not selectable</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>[object Object]</text:p>
-     </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>open</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>false</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>2022-05-27T16:12:49Z</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>NONE</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>sometimes the option is available, sometimes not</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>[object Object]</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123/timeline</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I6]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/123" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/123</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124/labels{/name}</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124/comments</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124/events</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/124</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>1250953361</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>I_kwDOFr_Chc5KkAiR</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>124</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>ordered list of `repo host`</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>[object Object]</text:p>
-     </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>open</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>false</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>2022-05-27T16:27:04Z</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>NONE</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>so _x000d_<text:line-break/>_x000d_<text:line-break/>- repo hosts with most results appear on the top of the filter list (with number)_x000d_<text:line-break/>- repo hosts without results are now shown in the first place</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>[object Object]</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124/timeline</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>null</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I7]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/124" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/124</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/125</text:p>
      </table:table-cell>
@@ -2087,40 +1120,37 @@
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I8]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/125" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/125</text:p>
-     </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129/labels{/name}</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124/labels{/name}</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129/comments</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124/comments</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129/events</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124/events</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/129</text:p>
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/124</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>1278404264</text:p>
+      <text:p>1250953361</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>I_kwDOFr_Chc5MMuao</text:p>
+      <text:p>I_kwDOFr_Chc5KkAiR</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>129</text:p>
+      <text:p>124</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>`go to repo` of version-specific page points to generic repo</text:p>
+      <text:p>ordered list of `repo host`</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
@@ -2143,7 +1173,7 @@
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>2022-06-21T12:51:55Z</text:p>
+      <text:p>2022-05-27T16:27:04Z</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
@@ -2155,51 +1185,127 @@
       <text:p>null</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>if project detail pages are version-specific, I&apos;d expect to view the project&apos;s repository at that specific version. instead it always points to the latest (stable?) version of the repository</text:p>
+      <text:p>so _x000d_<text:line-break/>_x000d_<text:line-break/>- repo hosts with most results appear on the top of the filter list (with number)_x000d_<text:line-break/>- repo hosts without results are now shown in the first place</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/129/timeline</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/124/timeline</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I9]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/129" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/129</text:p>
-     </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130/labels{/name}</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123/labels{/name}</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130/comments</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123/comments</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130/events</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123/events</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/130</text:p>
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/123</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>1278546164</text:p>
+      <text:p>1250935917</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>I_kwDOFr_Chc5MNRD0</text:p>
+      <text:p>I_kwDOFr_Chc5Kj8Rt</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>130</text:p>
+      <text:p>123</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>OSHWA missing in list of `repo hosts`</text:p>
+      <text:p>“results per page” sometimes not selectable</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>open</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>false</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2022-05-27T16:12:49Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2022-06-21T15:12:28Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>NONE</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Issue was mentioned in a workshop, but couldn&apos;t be replicated by developers yet</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/123/timeline</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122/labels{/name}</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122/comments</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122/events</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/122</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1250934073</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I_kwDOFr_Chc5Kj705</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>122</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>download results only works for current page</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
@@ -2222,7 +1328,7 @@
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
-      <text:p>2022-06-21T14:34:43Z</text:p>
+      <text:p>2022-05-27T16:11:13Z</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
@@ -2234,30 +1340,248 @@
       <text:p>null</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>may be a crawler-related issue, since [repoHost property](https://losh.ose-germany.de/wiki/Property:P112) is missing for OSHWA projects, e.g. https://losh.ose-germany.de/wiki/Item:Q15071</text:p>
+      <text:p>…hence the download has to be repeated for _all_ pages_x000d_<text:line-break/>_x000d_<text:line-break/>→ it should be possible to download all results by one click</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>[object Object]</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/130/timeline</text:p>
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/122/timeline</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>null</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=&quot;https://github.com/wmde/LOSH-Frontend/issues/&quot;&amp;[.I10]" office:value-type="string" office:string-value="https://github.com/wmde/LOSH-Frontend/issues/130" calcext:value-type="string">
-      <text:p>https://github.com/wmde/LOSH-Frontend/issues/130</text:p>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121/labels{/name}</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121/comments</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121/events</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/121</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1138709070</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I_kwDOFr_Chc5D31JO</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>121</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>filter for open file formats (source files)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>open</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>false</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>2022-02-15T13:38:27Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>NONE</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>the current release of DIN SPEC 3105-1 makes no difference whether source files (especially CAD files) use an open or proprietary file format. However, in practice proprietary file formats require the use of proprietary software, which may be a significant barrier for OSH developers and makers (optional footnote: a basic CATIA license starts at $ 4.5k a year)_x000d_<text:line-break/>_x000d_<text:line-break/>→ would be very helpful if one could filter results for open file formats</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/121/timeline</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120/labels{/name}</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120/comments</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120/events</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/120</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1137492116</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I_kwDOFr_Chc5DzMCU</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>120</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[Feature] add counter for results</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>open</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>false</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>2022-02-14T15:48:02Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>NONE</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>would be great to know the total number of results when searching OSH_x000d_<text:line-break/>_x000d_<text:line-break/>Also, when nothing is entered in the search bar, the counter could just display the total amount of items in the DB</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/120/timeline</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118/labels{/name}</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118/comments</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118/events</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://github.com/wmde/LOSH-Frontend/issues/118</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1124501895</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I_kwDOFr_Chc5DBomH</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>118</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Project description in English, German and French</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>open</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>false</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>2022-02-04T18:39:20Z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>NONE</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For European patents (EP patents), claims have to be written in German, English and French to make a first patent search easier. _x000d_<text:line-break/>_x000d_<text:line-break/>Personally, I would like to see this at the LOSH-Frontend as well, so that it is easier to find a project. At least the project description as shown on the detail page should be displayed in English, German and French (automatically translated for older projects) under the original description._x000d_<text:line-break/></text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[object Object]</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://api.github.com/repos/wmde/LOSH-Frontend/issues/118/timeline</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>null</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
-   <table:database-ranges>
-    <table:database-range table:name="__Anonymous_Sheet_DB__2" table:target-range-address="&apos;github issue export&apos;.A1:&apos;github issue export&apos;.AC10" table:display-filter-buttons="true">
-     <table:sort>
-      <table:sort-by table:field-number="8" table:data-type="automatic"/>
-     </table:sort>
-    </table:database-range>
-   </table:database-ranges>
   </office:spreadsheet>
  </office:body>
 </office:document>
