@@ -6,15 +6,33 @@
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">23466</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">27038</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">56324</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">5739</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="results">
-       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">14</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">1</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="search terms">
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">9</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -30,27 +48,9 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
-      <config:config-item-map-entry config:name="search terms">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
-       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">15</config:config-item>
-       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
-       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
-      </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">results</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1898</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1485</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -87,7 +87,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
    <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">tQH+/0NvbG9yLUxhc2VySmV0LUNQMTUxNG4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDb2xvci1MYXNlckpldC1DUDE1MTRuAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9Q29sb3ItTGFzZXJKZXQtQ1AxNTE0bgpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUASW5wdXRTbG90OkF1dG8AUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">tQH+/0NvbG9yLUxhc2VySmV0LUNQMTUxNG4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDb2xvci1MYXNlckpldC1DUDE1MTRuAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9Q29sb3ItTGFzZXJKZXQtQ1AxNTE0bgpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQASW5wdXRTbG90OkF1dG8ARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
    <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
    <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
@@ -125,7 +125,7 @@
      <config:config-item config:name="CodeName" config:type="string">Sheet1</config:config-item>
     </config:config-item-map-entry>
     <config:config-item-map-entry config:name="results">
-     <config:config-item config:name="CodeName" config:type="string">heuristic analysis</config:config-item>
+     <config:config-item config:name="CodeName" config:type="string">results</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-named>
   </config:config-item-set>
@@ -520,26 +520,49 @@
   <number:number-style style:name="N2">
    <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1"/>
   </number:number-style>
-  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:wrap-option="wrap"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap"/>
-  </style:style>
-  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0cm"/>
   </style:style>
   <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+  </style:style>
+  <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="start" fo:margin-left="0cm"/>
   </style:style>
@@ -583,7 +606,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2022-07-27">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="18:15:56.396444393">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2022-07-28">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:15:56.838325043">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -597,27 +620,27 @@
   <office:spreadsheet>
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
    <table:table table:name="search terms" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="1017" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce13" office:value-type="string" calcext:value-type="string">
       <text:p>OHO site</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>LOSH search term</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>Validation selection</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>Legend</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1018"/>
+     <table:table-cell table:style-name="ce15" table:number-columns-repeated="1018"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -626,7 +649,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>cargo bike trailer</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="3">
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="3">
       <text:p>cargo bike</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -995,71 +1018,71 @@
     <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="1010" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>search term</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>search results</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
       <text:p>relevance of results</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:covered-table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>selected project</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
       <text:p>metadata information value</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:covered-table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
       <text:p>representativeness of metadata</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:covered-table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
       <text:p>usefulness of selected project</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:covered-table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
       <text:p>usefulness of the search functionality</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1011"/>
+     <table:covered-table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce15" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>score (1…5)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>comment</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>score (1…5)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>comment</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>score (1…5)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>comment</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>score (1…5)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>comment</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>score (1…5)</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
       <text:p>comment</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="1011"/>
+     <table:table-cell table:style-name="ce15" table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1098,7 +1121,7 @@
      <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
       <text:p>3</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="10">
+     <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="10">
       <text:p>as documented on GitHub</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
