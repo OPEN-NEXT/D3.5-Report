@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Martin Häuer</meta:initial-creator><meta:creation-date>2021-10-14T18:08:36.852140822</meta:creation-date><dc:date>2022-07-27T22:30:14.663779543</dc:date><dc:creator>Martin Häuer</dc:creator><meta:editing-duration>P1DT1H25M28S</meta:editing-duration><meta:editing-cycles>127</meta:editing-cycles><meta:generator>LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="5" meta:object-count="0" meta:page-count="15" meta:paragraph-count="356" meta:word-count="1701" meta:character-count="11160" meta:non-whitespace-character-count="9804"/><meta:user-defined meta:name="ZOTERO_PREF_1">&lt;data data-version=&quot;3&quot; zotero-version=&quot;5.0.96.3&quot;&gt;&lt;session id=&quot;j5mKuLTh&quot;/&gt;&lt;style id=&quot;http://www.zotero.org/styles/ieee&quot; locale=&quot;en-GB&quot; hasBibliography=&quot;1&quot; bibliographyStyleHasBeenSet=&quot;1&quot;/&gt;&lt;prefs&gt;&lt;pref name=&quot;fieldType&quot; value=&quot;ReferenceMark&quot;/&gt;&lt;/prefs&gt;&lt;/data&gt;</meta:user-defined></office:meta>
+ <office:meta><meta:initial-creator>Martin Häuer</meta:initial-creator><meta:creation-date>2021-10-14T18:08:36.852140822</meta:creation-date><dc:date>2022-07-28T17:26:42.334491628</dc:date><dc:creator>Martin Häuer</dc:creator><meta:editing-duration>P1DT1H36M25S</meta:editing-duration><meta:editing-cycles>128</meta:editing-cycles><meta:generator>LibreOffice/7.1.8.1$Linux_X86_64 LibreOffice_project/10$Build-1</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="5" meta:object-count="0" meta:page-count="16" meta:paragraph-count="379" meta:word-count="1844" meta:character-count="12013" meta:non-whitespace-character-count="10557"/><meta:user-defined meta:name="ZOTERO_PREF_1">&lt;data data-version=&quot;3&quot; zotero-version=&quot;5.0.96.3&quot;&gt;&lt;session id=&quot;j5mKuLTh&quot;/&gt;&lt;style id=&quot;http://www.zotero.org/styles/ieee&quot; locale=&quot;en-GB&quot; hasBibliography=&quot;1&quot; bibliographyStyleHasBeenSet=&quot;1&quot;/&gt;&lt;prefs&gt;&lt;pref name=&quot;fieldType&quot; value=&quot;ReferenceMark&quot;/&gt;&lt;/prefs&gt;&lt;/data&gt;</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">321114</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">254383</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">28434</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17443</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16649</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3314</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">327364</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">4565</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">279575</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">321114</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">254383</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">28432</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">338556</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">271030</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -95,7 +95,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">11104945</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">11196121</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -2869,65 +2869,11 @@
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af" style:font-name-complex="Calibri"/>
-  </style:style>
-  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="001f30af" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="00a1d31a" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:paragraph-rsid="001f30af" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:paragraph-rsid="001f30af" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="001f30af" officeooo:paragraph-rsid="001f30af" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a1d31a"/>
-  </style:style>
-  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00908723" officeooo:paragraph-rsid="00a1d31a"/>
-  </style:style>
-  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0025c891" officeooo:paragraph-rsid="00a1d31a"/>
-  </style:style>
-  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00908723" officeooo:paragraph-rsid="00a1d31a" style:language-asian="en" style:country-asian="US" style:language-complex="ar" style:country-complex="SA"/>
-  </style:style>
-  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="0094ceb5"/>
-  </style:style>
-  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="001f30af" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="GB" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:orphans="0" fo:widows="0"/>
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="001f30af" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="GB" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af" style:font-name-complex="Calibri"/>
-  </style:style>
-  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Calibri"/>
-  </style:style>
-  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:orphans="0" fo:widows="0"/>
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Calibri"/>
-  </style:style>
-  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Table_20_index_20_heading">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="001f30af" officeooo:paragraph-rsid="00a1d31a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Table_20_index_20_1">
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Table_20_index_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
@@ -2935,122 +2881,188 @@
    </style:paragraph-properties>
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Table_20_index_20_heading">
-   <style:paragraph-properties fo:break-before="page"/>
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Bibliography_20_1">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Bibliography_20_1">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Footer">
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Footer">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af"/>
   </style:style>
-  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Header">
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Header">
    <style:text-properties fo:color="#666666" loext:opacity="100%" fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
    <style:paragraph-properties style:page-number="1"/>
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a57cdc" officeooo:paragraph-rsid="00a57cdc"/>
   </style:style>
-  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Unnumbered_20_Pages">
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Unnumbered_20_Pages">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a972b1" officeooo:paragraph-rsid="00a972b1"/>
+  </style:style>
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="008d399a"/>
   </style:style>
-  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Subtitle" style:master-page-name="Unnumbered_20_Pages">
-   <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties fo:language="en" fo:country="GB"/>
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af" style:font-name-complex="Calibri"/>
   </style:style>
-  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Subtitle">
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="001f30af" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="00a1d31a" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:paragraph-rsid="001f30af" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:paragraph-rsid="001f30af" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="001f30af" officeooo:paragraph-rsid="001f30af" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a1d31a"/>
+  </style:style>
+  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00908723" officeooo:paragraph-rsid="00a1d31a"/>
+  </style:style>
+  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0025c891" officeooo:paragraph-rsid="00a1d31a"/>
+  </style:style>
+  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00908723" officeooo:paragraph-rsid="00a1d31a" style:language-asian="en" style:country-asian="US" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="0094ceb5"/>
+  </style:style>
+  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="001f30af" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="GB" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:orphans="0" fo:widows="0"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="001f30af" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="GB" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af" style:font-name-complex="Calibri"/>
+  </style:style>
+  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Calibri"/>
+  </style:style>
+  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:orphans="0" fo:widows="0"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="GB" officeooo:paragraph-rsid="001f30af" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Calibri"/>
+  </style:style>
+  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="001f30af" officeooo:paragraph-rsid="00a1d31a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Subtitle" style:master-page-name="Unnumbered_20_Pages">
+   <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Subtitle">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="0070a44b" officeooo:paragraph-rsid="0070a44b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Table">
-   <style:paragraph-properties fo:keep-with-next="always"/>
-  </style:style>
-  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="0094ceb5"/>
-  </style:style>
-  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00959501" officeooo:paragraph-rsid="00959501"/>
-  </style:style>
-  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="0078317e" officeooo:paragraph-rsid="0094ceb5" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0078317e" officeooo:paragraph-rsid="0094ceb5"/>
-  </style:style>
-  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0095e145" officeooo:paragraph-rsid="0095e145"/>
-  </style:style>
-  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="00a57cdc" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a57cdc"/>
-  </style:style>
-  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00aae7c0" officeooo:paragraph-rsid="00a57cdc"/>
-  </style:style>
-  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a679fb" officeooo:paragraph-rsid="00a679fb"/>
-  </style:style>
-  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a679fb"/>
-  </style:style>
-  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
+  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Subtitle">
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="0070a44b" officeooo:paragraph-rsid="0070a44b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Table">
+   <style:paragraph-properties fo:keep-with-next="always"/>
+  </style:style>
+  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="0094ceb5"/>
+  </style:style>
+  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00959501" officeooo:paragraph-rsid="00959501"/>
+  </style:style>
+  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="0078317e" officeooo:paragraph-rsid="0094ceb5" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0078317e" officeooo:paragraph-rsid="0094ceb5"/>
+  </style:style>
+  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0095e145" officeooo:paragraph-rsid="0095e145"/>
+  </style:style>
+  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:paragraph-rsid="00a57cdc" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a57cdc"/>
+  </style:style>
+  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00aae7c0" officeooo:paragraph-rsid="00a57cdc"/>
+  </style:style>
+  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a679fb" officeooo:paragraph-rsid="00a679fb"/>
+  </style:style>
+  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a679fb"/>
+  </style:style>
   <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a92d96" officeooo:paragraph-rsid="00a57cdc"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a92d96" officeooo:paragraph-rsid="00a57cdc"/>
   </style:style>
   <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0025136f" officeooo:paragraph-rsid="00a1d31a"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a1d31a"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0025136f" officeooo:paragraph-rsid="00a1d31a"/>
   </style:style>
   <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a1d31a"/>
   </style:style>
   <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a679fb" officeooo:paragraph-rsid="00a784be"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a1d31a"/>
   </style:style>
   <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="009fe88d" officeooo:paragraph-rsid="009fe88d"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a679fb" officeooo:paragraph-rsid="00a784be"/>
   </style:style>
   <style:style style:name="P148" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a784be" officeooo:paragraph-rsid="00a784be"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="009fe88d" officeooo:paragraph-rsid="009fe88d"/>
   </style:style>
   <style:style style:name="P149" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a8c71a" officeooo:paragraph-rsid="00a8c71a"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a784be" officeooo:paragraph-rsid="00a784be"/>
   </style:style>
   <style:style style:name="P150" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a972b1" officeooo:paragraph-rsid="00a8c71a"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a8c71a" officeooo:paragraph-rsid="00a8c71a"/>
   </style:style>
   <style:style style:name="P151" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a972b1" officeooo:paragraph-rsid="00a8c71a"/>
+  </style:style>
+  <style:style style:name="P152" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00aad6d9" officeooo:paragraph-rsid="00aad6d9"/>
+  </style:style>
+  <style:style style:name="P153" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="00aad6d9" officeooo:paragraph-rsid="00aad6d9"/>
+  </style:style>
+  <style:style style:name="P154" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="00aad6d9" officeooo:paragraph-rsid="00aad6d9"/>
+  </style:style>
+  <style:style style:name="P155" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
    <style:text-properties style:font-name="CMU Sans Serif" fo:font-size="16pt" fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-name-complex="Droid Sans Devanagari" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P152" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P156" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P153" style:family="paragraph" style:parent-style-name="Title">
+  <style:style style:name="P157" style:family="paragraph" style:parent-style-name="Title">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P154" style:family="paragraph">
+  <style:style style:name="P158" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
@@ -3228,6 +3240,12 @@
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0025c891"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a972b1"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties officeooo:rsid="00aad6d9"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="CMU Serif" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Droid Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -3247,6 +3265,162 @@
     <style:columns fo:column-count="1" fo:column-gap="0cm"/>
    </style:section-properties>
   </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:style style:name="gr1" style:family="graphic">
    <style:graphic-properties draw:stroke="none" svg:stroke-width="0.026cm" draw:stroke-linejoin="miter" svg:stroke-linecap="butt" draw:fill="solid" draw:fill-color="#2c2c2c" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" draw:fit-to-size="false" style:shrink-to-fit="false" fo:min-height="1.131cm" fo:min-width="1.621cm" fo:padding-top="0.127cm" fo:padding-bottom="0.127cm" fo:padding-left="0.254cm" fo:padding-right="0.254cm" fo:wrap-option="wrap" style:run-through="foreground" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="true" style:wrap-contour-mode="full" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="right" style:horizontal-rel="paragraph-content" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
@@ -3338,7 +3512,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1">
    <style:header>
-    <text:p text:style-name="P1"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="4" draw:name="Freeform: Shape 13_0" draw:style-name="gr1" draw:text-style-name="P2" svg:width="2.128cm" svg:height="1.384cm" svg:x="14.871cm" svg:y="0cm">
+    <text:p text:style-name="P1"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="5" draw:name="Freeform: Shape 13_0" draw:style-name="gr1" draw:text-style-name="P2" svg:width="2.128cm" svg:height="1.384cm" svg:x="14.871cm" svg:y="0cm">
       <text:p/>
       <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" drawooo:sub-view-size="767724 499754" draw:text-areas="0 0 ?f426 ?f427" draw:type="ooxml-non-primitive" draw:enhanced-path="M 720992 3136 C 720992 30845 725668 154687 727054 163699 L 727226 164821 739408 164821 751590 164821 751810 161459 C 753482 135880 756830 56612 757158 34872 757361 21507 757615 8515 757724 6003 L 757924 1436 739458 1436 720992 1436 720992 3136 M 72363 30935 C 71698 31014 69682 31243 67881 31446 26299 36132 2301 73133 1462 133852 564 198759 22717 237437 65124 245004 70318 245933 86436 245933 91491 245008 94989 244367 102702 242481 102986 242197 103125 242057 90909 213054 90279 212036 90072 211699 89375 211785 87131 212426 82950 213621 73536 213640 69468 212461 47179 206004 34978 179456 34982 137417 34985 93265 49377 66366 74561 63438 99149 60579 116707 82262 120789 120527 122161 133390 121354 158930 119376 165254 119196 165829 120111 165855 136528 165771 L 153872 165683 154299 161545 C 154944 155295 155252 129525 154766 122721 150908 68939 128317 37210 89871 31582 86433 31079 74813 30650 72363 30935 M 194712 138256 L 194712 242033 211773 242033 228833 242033 228833 204116 228833 166200 242189 166196 C 263264 166190 272603 165471 282599 163079 316501 154966 334390 132648 334387 98467 334381 63373 316662 42893 280876 36614 270627 34818 269358 34766 230815 34617 L 194712 34479 194712 138256 M 366348 138279 L 366348 242033 427522 242033 488697 242033 488697 226521 488697 211009 445444 211009 402191 211009 402191 180503 402191 149999 436657 149999 471122 149999 471122 134315 471122 118631 436657 118631 402191 118631 402191 92263 402191 65893 443894 65893 485596 65893 485596 50211 485596 34527 425972 34527 366348 34527 366348 138279 M 628973 79940 C 628978 136416 629070 139022 632254 172576 634092 191954 634349 195450 633893 194981 633709 194791 629344 184787 624196 172749 615916 153392 611652 144161 587336 92952 L 559839 35044 540257 34954 520674 34866 520888 129917 C 521007 182196 521196 228886 521309 233673 L 521518 242377 539141 242377 556766 242377 556682 234707 C 556636 230488 556540 207260 556470 183088 556385 154382 556202 137348 555943 133971 555298 125561 554281 114105 553006 100880 551478 85012 551235 81475 551700 81921 551900 82111 556328 92194 561541 104326 569712 123342 574803 134359 598409 184124 L 625798 241860 645344 241948 664891 242038 664673 141126 C 664554 85625 664366 38935 664259 37371 L 664062 34527 646517 34527 628971 34527 628973 79940 M 263004 64869 C 288090 67356 298759 78557 297635 101224 296582 122505 284932 133500 260934 135861 258972 136054 250946 136211 243100 136211 L 228833 136211 228833 100363 228833 64514 244134 64514 C 252548 64514 261039 64673 263004 64869 M 734105 186215 C 720167 188699 711856 199186 711860 214284 711864 233912 727609 246519 746496 242017 773682 235538 774235 193926 747229 186830 744177 186027 737036 185694 734105 186215 M 87872 394732 L 87872 498483 105639 498483 123406 498483 123276 444969 C 123130 385298 123412 393317 120262 358916 118472 339366 118359 337700 118834 337993 118993 338093 123291 347965 128386 359935 136350 378640 141502 389885 165074 440004 L 192497 498311 212043 498399 231590 498489 231590 394734 231590 290978 213821 290978 196053 290978 196181 343458 C 196324 402169 196106 395892 199204 429900 200979 449383 201159 452230 200552 451189 200362 450863 195968 440627 190786 428437 182523 408999 178031 399199 154211 348628 L 127055 290978 107464 290978 87872 290978 87872 394732 M 265711 306489 L 265711 322001 326024 322001 386337 322001 386337 306489 386337 290978 326024 290978 265711 290978 265711 306489 M 422914 291753 C 423142 292180 436023 314767 451538 341945 L 479747 391362 449432 444318 C 432759 473446 419014 497549 418890 497880 418674 498451 419746 498483 438441 498483 L 458222 498483 471204 474269 C 485592 447430 494069 430494 499763 417222 500770 414873 500971 415153 507655 428225 514633 441875 517151 446587 534020 477570 L 545392 498460 566195 498472 C 584971 498481 586978 498430 586790 497942 586675 497643 573300 474570 557067 446668 540834 418766 527179 395291 526722 394502 L 525891 393068 553523 343833 C 568723 316753 581617 293783 582178 292787 L 583198 290978 563258 290978 543317 290978 539626 298304 C 537594 302331 531669 314003 526459 324241 516967 342893 514227 348624 508656 361468 507014 365259 505455 368400 505197 368448 504890 368503 502620 364367 498764 356727 495484 350234 486335 332791 478430 317965 L 464055 291007 443279 290993 422501 290978 422914 291753 M 611738 306489 L 611738 322001 641377 322001 671018 322001 671018 410241 671018 498483 689629 498483 708240 498483 708240 410241 708240 322001 737706 322001 767175 322001 767175 306489 767175 290978 689456 290978 611738 290978 611738 306489 M 265711 390421 L 265711 406105 318615 406105 371517 406105 371517 390421 371517 374738 318615 374738 265711 374738 265711 390421 M 265711 482800 L 265711 498483 327575 498483 389439 498483 389439 482800 389439 467116 327575 467116 265711 467116 265711 482800 N">
        <draw:equation draw:name="f0" draw:formula="720992*logwidth/767724"/>
@@ -3775,7 +3949,7 @@
    <style:footer>
     <text:p text:style-name="P3"/>
     <text:p text:style-name="P3"/>
-    <text:p text:style-name="P4"><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T2"><text:page-number text:select-page="current">3</text:page-number></text:span><text:span text:style-name="T2"> of </text:span><text:span text:style-name="T2"><text:page-count>15</text:page-count></text:span><text:span text:style-name="T3"><text:tab/></text:span><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="14.672cm" svg:y="-0.728cm" svg:width="2.328cm" svg:height="0.82cm" draw:z-index="19"><draw:image draw:mime-type="image/png">
+    <text:p text:style-name="P4"><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T2"><text:page-number text:select-page="current">5</text:page-number></text:span><text:span text:style-name="T2"> of </text:span><text:span text:style-name="T2"><text:page-count>16</text:page-count></text:span><text:span text:style-name="T3"><text:tab/></text:span><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="14.672cm" svg:y="-0.728cm" svg:width="2.328cm" svg:height="0.82cm" draw:z-index="21"><draw:image draw:mime-type="image/png">
        <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAWAAAAB8CAYAAAEgBVqOAAAAAXNSR0IArs4c6QAAAARnQU1B
         AACxjwv8YQUAAAAJcEhZcwAAOw4AADsOAcy2oYMAACFuSURBVHhe7Z1NrBzVlccthYwiAZFH
         mMijeGas4CQWmMTiI3qSQ2QJgohM0ItwhCeQhEmMeEmMeCJGIBKENRZyFIsxytOEJJ5AMk7G
@@ -3953,7 +4127,7 @@
   <style:master-page style:name="Landscape" style:page-layout-name="pm8"/>
   <style:master-page style:name="Unnumbered_20_Pages" style:display-name="Unnumbered Pages" style:page-layout-name="pm9">
    <style:footer>
-    <text:p text:style-name="P4"><text:span text:style-name="T2"><text:tab/><text:tab/></text:span><draw:frame draw:style-name="fr1" draw:name="Graphic 20" text:anchor-type="char" svg:x="14.672cm" svg:y="-0.728cm" svg:width="2.328cm" svg:height="0.82cm" draw:z-index="14"><draw:image draw:mime-type="image/png">
+    <text:p text:style-name="P4"><text:span text:style-name="T2"><text:tab/><text:tab/></text:span><draw:frame draw:style-name="fr1" draw:name="Graphic 20" text:anchor-type="char" svg:x="14.672cm" svg:y="-0.728cm" svg:width="2.328cm" svg:height="0.82cm" draw:z-index="15"><draw:image draw:mime-type="image/png">
        <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAWAAAAB8CAYAAAEgBVqOAAAAAXNSR0IArs4c6QAAAARnQU1B
         AACxjwv8YQUAAAAJcEhZcwAAOw4AADsOAcy2oYMAACFuSURBVHhe7Z1NrBzVlccthYwiAZFH
         mMijeGas4CQWmMTiI3qSQ2QJgohM0ItwhCeQhEmMeEmMeCJGIBKENRZyFIsxytOEJJ5AMk7G
@@ -4146,25 +4320,25 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P126"/>
    <text:p text:style-name="P127"/>
-   <text:p text:style-name="P127"/>
-   <text:p text:style-name="P127"/>
-   <text:p text:style-name="P153">OPEN_NEXT</text:p>
-   <text:p text:style-name="P128">Annexure</text:p>
-   <text:p text:style-name="P127">Deliverable 3.<text:span text:style-name="T1">5</text:span></text:p>
-   <text:p text:style-name="P127">Finalised demonstrators - usability-tested, verified and validated demonstrators</text:p>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140"><draw:frame draw:style-name="fr4" draw:name="Graphic 1" text:anchor-type="as-char" svg:width="2.413cm" svg:height="1.609cm" draw:z-index="13"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P128"/>
+   <text:p text:style-name="P128"/>
+   <text:p text:style-name="P128"/>
+   <text:p text:style-name="P157">OPEN_NEXT</text:p>
+   <text:p text:style-name="P129">Annexure</text:p>
+   <text:p text:style-name="P128">Deliverable 3.<text:span text:style-name="T1">5</text:span></text:p>
+   <text:p text:style-name="P128">Finalised demonstrators - usability-tested, verified and validated demonstrators</text:p>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"/>
+   <text:p text:style-name="P141"><draw:frame draw:style-name="fr4" draw:name="Graphic 1" text:anchor-type="as-char" svg:width="2.413cm" svg:height="1.609cm" draw:z-index="14"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAACcQAAAaCCAYAAAF2PVwzAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAALZEAAC2RAcr65fYAAP+lSURBVHhe7P198F3lgSd20oxYaRjF
        BUHDso4os47iWLHTq+1YK6+RLbNSzItxhMs24AhCG9SDWbmNXG5WblsUNnKwukAWJWsip2Hb
@@ -5583,9 +5757,9 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P100"><text:bookmark-start text:name="_Hlk33649975"/>This project is funded by the European Union’s Horizon 2020 Research and Innovation Programme under the Grand Agreement no. 869984.<text:bookmark-end text:name="_Hlk33649975"/></text:p>
-   <text:p text:style-name="P151"><text:bookmark-start text:name="__RefHeading___Toc5791_2512574057"/>OPEN_NEXT – Transforming collaborative product <text:span text:style-name="T44">creation</text:span><text:bookmark-end text:name="__RefHeading___Toc5791_2512574057"/></text:p>
-   <text:p text:style-name="P142">Consortium:</text:p>
+   <text:p text:style-name="P110"><text:bookmark-start text:name="_Hlk33649975"/>This project is funded by the European Union’s Horizon 2020 Research and Innovation Programme under the Grand Agreement no. 869984.<text:bookmark-end text:name="_Hlk33649975"/></text:p>
+   <text:p text:style-name="P155"><text:bookmark-start text:name="__RefHeading___Toc5791_2512574057"/>OPEN_NEXT – Transforming collaborative product <text:span text:style-name="T44">creation</text:span><text:bookmark-end text:name="__RefHeading___Toc5791_2512574057"/></text:p>
+   <text:p text:style-name="P143">Consortium:</text:p>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-column table:style-name="Table1.B"/>
@@ -5593,296 +5767,296 @@
     <table:table-column table:style-name="Table1.D"/>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P111">#</text:p>
+      <text:p text:style-name="P121">#</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P112">Participant Legal Name</text:p>
+      <text:p text:style-name="P122">Participant Legal Name</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C1" office:value-type="string">
-      <text:p text:style-name="P112">Short Name</text:p>
+      <text:p text:style-name="P122">Short Name</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P112">Country</text:p>
+      <text:p text:style-name="P122">Country</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">1</text:p>
+      <text:p text:style-name="P124">1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">TECHNISCHE UNIVERSITAT BERLIN</text:p>
+      <text:p text:style-name="P125">TECHNISCHE UNIVERSITAT BERLIN</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C2" office:value-type="string">
-      <text:p text:style-name="P113">TUB</text:p>
+      <text:p text:style-name="P123">TUB</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DE</text:p>
+      <text:p text:style-name="P124">DE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">2</text:p>
+      <text:p text:style-name="P124">2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">INSTITUT POLYTECHNIQUE DE GRENOBLE</text:p>
+      <text:p text:style-name="P125">INSTITUT POLYTECHNIQUE DE GRENOBLE</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C3" office:value-type="string">
-      <text:p text:style-name="P113">GINP</text:p>
+      <text:p text:style-name="P123">GINP</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">FR</text:p>
+      <text:p text:style-name="P124">FR</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">3</text:p>
+      <text:p text:style-name="P124">3</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">ALEXANDER VON HUMBOLDT-INSTITUT FURINTERNET UND GESELLSCHAFT GGMBH</text:p>
+      <text:p text:style-name="P125">ALEXANDER VON HUMBOLDT-INSTITUT FURINTERNET UND GESELLSCHAFT GGMBH</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C4" office:value-type="string">
-      <text:p text:style-name="P113">HIIG</text:p>
+      <text:p text:style-name="P123">HIIG</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DE</text:p>
+      <text:p text:style-name="P124">DE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">4</text:p>
+      <text:p text:style-name="P124">4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">UNIVERSITY OF BATH</text:p>
+      <text:p text:style-name="P125">UNIVERSITY OF BATH</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C5" office:value-type="string">
-      <text:p text:style-name="P113">UBA</text:p>
+      <text:p text:style-name="P123">UBA</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">UK</text:p>
+      <text:p text:style-name="P124">UK</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">5</text:p>
+      <text:p text:style-name="P124">5</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">ZENTRUM FUR SOZIALE INNOVATION GMBH</text:p>
+      <text:p text:style-name="P125">ZENTRUM FUR SOZIALE INNOVATION GMBH</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C6" office:value-type="string">
-      <text:p text:style-name="P113">ZSI</text:p>
+      <text:p text:style-name="P123">ZSI</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">AT</text:p>
+      <text:p text:style-name="P124">AT</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">6</text:p>
+      <text:p text:style-name="P124">6</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.</text:p>
+      <text:p text:style-name="P125">FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C7" office:value-type="string">
-      <text:p text:style-name="P113">FHG</text:p>
+      <text:p text:style-name="P123">FHG</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DE</text:p>
+      <text:p text:style-name="P124">DE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">7</text:p>
+      <text:p text:style-name="P124">7</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">DANSK DESIGN CENTER APS</text:p>
+      <text:p text:style-name="P125">DANSK DESIGN CENTER APS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C8" office:value-type="string">
-      <text:p text:style-name="P113">DDC</text:p>
+      <text:p text:style-name="P123">DDC</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DK</text:p>
+      <text:p text:style-name="P124">DK</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">8</text:p>
+      <text:p text:style-name="P124">8</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">WIKIMEDIA DEUTSCHLAND - GESELLSCHAFT ZUR FÖRDERUNG FREIEN WISSENS EV</text:p>
+      <text:p text:style-name="P125">WIKIMEDIA DEUTSCHLAND - GESELLSCHAFT ZUR FÖRDERUNG FREIEN WISSENS EV</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C9" office:value-type="string">
-      <text:p text:style-name="P113">WMDE</text:p>
+      <text:p text:style-name="P123">WMDE</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DE</text:p>
+      <text:p text:style-name="P124">DE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">9</text:p>
+      <text:p text:style-name="P124">9</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">WIKIFACTORY EUROPE SL</text:p>
+      <text:p text:style-name="P125">WIKIFACTORY EUROPE SL</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C10" office:value-type="string">
-      <text:p text:style-name="P113">WIF</text:p>
+      <text:p text:style-name="P123">WIF</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">ES</text:p>
+      <text:p text:style-name="P124">ES</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">10</text:p>
+      <text:p text:style-name="P124">10</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">STICHTING WAAG SOCIETY</text:p>
+      <text:p text:style-name="P125">STICHTING WAAG SOCIETY</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C11" office:value-type="string">
-      <text:p text:style-name="P113">WAAG</text:p>
+      <text:p text:style-name="P123">WAAG</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">NL</text:p>
+      <text:p text:style-name="P124">NL</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">11</text:p>
+      <text:p text:style-name="P124">11</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">MAKER</text:p>
+      <text:p text:style-name="P125">MAKER</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C12" office:value-type="string">
-      <text:p text:style-name="P113">MAK</text:p>
+      <text:p text:style-name="P123">MAK</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DK</text:p>
+      <text:p text:style-name="P124">DK</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">12</text:p>
+      <text:p text:style-name="P124">12</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">AGILE HEAP EV</text:p>
+      <text:p text:style-name="P125">AGILE HEAP EV</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C13" office:value-type="string">
-      <text:p text:style-name="P113">FLB</text:p>
+      <text:p text:style-name="P123">FLB</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DE</text:p>
+      <text:p text:style-name="P124">DE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">13</text:p>
+      <text:p text:style-name="P124">13</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">SONO MOTORS GMBH</text:p>
+      <text:p text:style-name="P125">SONO MOTORS GMBH</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C14" office:value-type="string">
-      <text:p text:style-name="P113">SOM</text:p>
+      <text:p text:style-name="P123">SOM</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DE</text:p>
+      <text:p text:style-name="P124">DE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">14</text:p>
+      <text:p text:style-name="P124">14</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">OPNTEC GMBH</text:p>
+      <text:p text:style-name="P125">OPNTEC GMBH</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C15" office:value-type="string">
-      <text:p text:style-name="P113">OPT</text:p>
+      <text:p text:style-name="P123">OPT</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DE</text:p>
+      <text:p text:style-name="P124">DE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">15</text:p>
+      <text:p text:style-name="P124">15</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">STYKKA APS</text:p>
+      <text:p text:style-name="P125">STYKKA APS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C16" office:value-type="string">
-      <text:p text:style-name="P113">STY</text:p>
+      <text:p text:style-name="P123">STY</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DK</text:p>
+      <text:p text:style-name="P124">DK</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">16</text:p>
+      <text:p text:style-name="P124">16</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">TILL WOLFER</text:p>
+      <text:p text:style-name="P125">TILL WOLFER</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C17" office:value-type="string">
-      <text:p text:style-name="P113">XYZC</text:p>
+      <text:p text:style-name="P123">XYZC</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">DE</text:p>
+      <text:p text:style-name="P124">DE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">17</text:p>
+      <text:p text:style-name="P124">17</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">FICTION FACTORY</text:p>
+      <text:p text:style-name="P125">FICTION FACTORY</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C18" office:value-type="string">
-      <text:p text:style-name="P113">FIF</text:p>
+      <text:p text:style-name="P123">FIF</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">NL</text:p>
+      <text:p text:style-name="P124">NL</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">18</text:p>
+      <text:p text:style-name="P124">18</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">M2M4ALL</text:p>
+      <text:p text:style-name="P125">M2M4ALL</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C19" office:value-type="string">
-      <text:p text:style-name="P113">SOD</text:p>
+      <text:p text:style-name="P123">SOD</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">NL</text:p>
+      <text:p text:style-name="P124">NL</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">19</text:p>
+      <text:p text:style-name="P124">19</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P115">INNOC OSTERREICHISCHE GESELLSCHAFT FUR INNOVATIVE COMPUTERWISSENSCHAFTEN</text:p>
+      <text:p text:style-name="P125">INNOC OSTERREICHISCHE GESELLSCHAFT FUR INNOVATIVE COMPUTERWISSENSCHAFTEN</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C20" office:value-type="string">
-      <text:p text:style-name="P113">HAL</text:p>
+      <text:p text:style-name="P123">HAL</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P114">AT</text:p>
+      <text:p text:style-name="P124">AT</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P101"/>
-   <text:p text:style-name="P103"><text:span text:style-name="T12">Duration:</text:span> 09/2019-08/2022</text:p>
-   <text:p text:style-name="P103"><text:span text:style-name="T12">Grant:</text:span> H2020-869984 </text:p>
-   <text:p text:style-name="P103"><text:span text:style-name="T12">Contact (coordinator):</text:span> Prof Dr-Ing Roland JOCHEM</text:p>
-   <text:p text:style-name="P103">Address: Technische Universität Berlin, Sekretariat PTZ 3, Pascalstr. 8-9, 10587 Berlin</text:p>
+   <text:p text:style-name="P111"/>
+   <text:p text:style-name="P113"><text:span text:style-name="T12">Duration:</text:span> 09/2019-08/2022</text:p>
+   <text:p text:style-name="P113"><text:span text:style-name="T12">Grant:</text:span> H2020-869984 </text:p>
+   <text:p text:style-name="P113"><text:span text:style-name="T12">Contact (coordinator):</text:span> Prof Dr-Ing Roland JOCHEM</text:p>
+   <text:p text:style-name="P113">Address: Technische Universität Berlin, Sekretariat PTZ 3, Pascalstr. 8-9, 10587 Berlin</text:p>
    <text:p text:style-name="P16"><text:span text:style-name="T2">E-mail: </text:span><text:a xlink:type="simple" xlink:href="mailto:roland.jochem@tu-berlin.de" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T2">roland.jochem@tu-berlin.de</text:span></text:a></text:p>
-   <text:p text:style-name="P103"/>
-   <text:p text:style-name="P104"><text:span text:style-name="T12">Disclaimer:</text:span> The contents of this document are not intended to replace consultation of any applicable legal sources or the necessary advice of a legal expert, where appropriate. All information in this document is provided &quot;as is&quot; and no guarantee or warranty is given that the information is fit for any particular purpose. The user, therefore, uses the information at his/her sole risk and liability. For the avoidance of all doubts, the European Commission has no liability in respect of this document, which is merely representing the views of the author(s).</text:p>
-   <text:p text:style-name="P116"><text:span text:style-name="T14">D</text:span>3.<text:span text:style-name="T48">5</text:span> <text:span text:style-name="T13">– „Finalised demonstrators - usability-tested, verified and validated demonstrators</text:span>“</text:p>
+   <text:p text:style-name="P113"/>
+   <text:p text:style-name="P114"><text:span text:style-name="T12">Disclaimer:</text:span> The contents of this document are not intended to replace consultation of any applicable legal sources or the necessary advice of a legal expert, where appropriate. All information in this document is provided &quot;as is&quot; and no guarantee or warranty is given that the information is fit for any particular purpose. The user, therefore, uses the information at his/her sole risk and liability. For the avoidance of all doubts, the European Commission has no liability in respect of this document, which is merely representing the views of the author(s).</text:p>
+   <text:p text:style-name="P126"><text:span text:style-name="T14">D</text:span>3.<text:span text:style-name="T48">5</text:span> <text:span text:style-name="T13">– „Finalised demonstrators - usability-tested, verified and validated demonstrators</text:span>“</text:p>
    <text:p text:style-name="P98"/>
-   <text:p text:style-name="P143">Review and approval status:</text:p>
+   <text:p text:style-name="P144">Review and approval status:</text:p>
    <table:table table:name="Table2" table:style-name="Table2">
     <table:table-column table:style-name="Table2.A"/>
     <table:table-column table:style-name="Table2.B"/>
@@ -5890,21 +6064,21 @@
     <table:table-column table:style-name="Table2.D"/>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P106"/>
+      <text:p text:style-name="P116"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P102">Name and Surname</text:p>
+      <text:p text:style-name="P112">Name and Surname</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P102">Role in the Project</text:p>
+      <text:p text:style-name="P112">Role in the Project</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P102">Partner</text:p>
+      <text:p text:style-name="P112">Partner</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P102">Author(s)</text:p>
+      <text:p text:style-name="P112">Author(s)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="P30"><text:span text:style-name="normaltextrun"><text:span text:style-name="T53">Martin Häuer;</text:span></text:span></text:p>
@@ -5923,21 +6097,21 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A3" office:value-type="string">
-      <text:p text:style-name="P102"/>
+      <text:p text:style-name="P112"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A3" office:value-type="string">
-      <text:p text:style-name="P107">Pen</text:p>
+      <text:p text:style-name="P117">Pen</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A3" office:value-type="string">
       <text:p text:style-name="P30"><text:span text:style-name="eop"><text:span text:style-name="T53">Work </text:span></text:span><text:span text:style-name="eop"><text:span text:style-name="T56">P</text:span></text:span><text:span text:style-name="eop"><text:span text:style-name="T53">ackage </text:span></text:span><text:span text:style-name="eop"><text:span text:style-name="T56">D</text:span></text:span><text:span text:style-name="eop"><text:span text:style-name="T53">evelopment</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A3" office:value-type="string">
-      <text:p text:style-name="P107">UBA</text:p>
+      <text:p text:style-name="P117">UBA</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A3" office:value-type="string">
-      <text:p text:style-name="P102"/>
+      <text:p text:style-name="P112"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A3" office:value-type="string">
       <text:p text:style-name="P30"><text:span text:style-name="eop"><text:span text:style-name="T54">Max Kampik</text:span></text:span></text:p>
@@ -5951,7 +6125,7 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P102">Reviewed by</text:p>
+      <text:p text:style-name="P112">Reviewed by</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="P30"><text:span text:style-name="normaltextrun"><text:span text:style-name="T54">xxx</text:span></text:span></text:p>
@@ -5965,7 +6139,7 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P102"/>
+      <text:p text:style-name="P112"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="P30"><text:span text:style-name="normaltextrun"><text:span text:style-name="T54">xxx</text:span></text:span></text:p>
@@ -5979,7 +6153,7 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P102">Approved by</text:p>
+      <text:p text:style-name="P112">Approved by</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="P30"><text:span text:style-name="normaltextrun"><text:span text:style-name="T53">Robert MIES</text:span></text:span></text:p>
@@ -5992,8 +6166,8 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P144"/>
-   <text:p text:style-name="P144">History of changes:</text:p>
+   <text:p text:style-name="P145"/>
+   <text:p text:style-name="P145">History of changes:</text:p>
    <table:table table:name="Table3" table:style-name="Table3">
     <table:table-column table:style-name="Table3.A"/>
     <table:table-column table:style-name="Table3.B"/>
@@ -6001,16 +6175,16 @@
     <table:table-column table:style-name="Table3.D"/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P102">Version</text:p>
+      <text:p text:style-name="P112">Version</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P102">Date</text:p>
+      <text:p text:style-name="P112">Date</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P102">Description of changes</text:p>
+      <text:p text:style-name="P112">Description of changes</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P102">By</text:p>
+      <text:p text:style-name="P112">By</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table3.1">
@@ -6043,92 +6217,92 @@
     </table:table-row>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P108">0.3</text:p>
+      <text:p text:style-name="P118">0.3</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P107">xxx</text:p>
+      <text:p text:style-name="P117">xxx</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
       <text:p text:style-name="P30"><text:span text:style-name="normaltextrun"><text:span text:style-name="T53">Draft for review</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P108">Martin Häuer</text:p>
+      <text:p text:style-name="P118">Martin Häuer</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P108">1.0</text:p>
+      <text:p text:style-name="P118">1.0</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P107">xxx</text:p>
+      <text:p text:style-name="P117">xxx</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P106">Final document for final</text:p>
-      <text:p text:style-name="P106">project management</text:p>
-      <text:p text:style-name="P106">verification</text:p>
+      <text:p text:style-name="P116">Final document for final</text:p>
+      <text:p text:style-name="P116">project management</text:p>
+      <text:p text:style-name="P116">verification</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P108">Martin Häuer</text:p>
+      <text:p text:style-name="P118">Martin Häuer</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P144"/>
-   <text:p text:style-name="P144">Details:</text:p>
+   <text:p text:style-name="P145"/>
+   <text:p text:style-name="P145">Details:</text:p>
    <table:table table:name="Table4" table:style-name="Table4">
     <table:table-column table:style-name="Table4.A"/>
     <table:table-column table:style-name="Table4.B"/>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">Dissemination level</text:p>
+      <text:p text:style-name="P116">Dissemination level</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">Open Access</text:p>
+      <text:p text:style-name="P116">Open Access</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">Due date</text:p>
+      <text:p text:style-name="P116">Due date</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106"><text:span text:style-name="T48">31</text:span>.<text:span text:style-name="T15">10</text:span>.2021</text:p>
+      <text:p text:style-name="P116"><text:span text:style-name="T48">31</text:span>.<text:span text:style-name="T15">10</text:span>.2021</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.3">
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">Issue date</text:p>
+      <text:p text:style-name="P116">Issue date</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P109">xxx</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table4.1">
-     <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">Contract No.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">869984</text:p>
+      <text:p text:style-name="P119">xxx</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">Responsible Partner</text:p>
+      <text:p text:style-name="P116">Contract No.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">FHG</text:p>
+      <text:p text:style-name="P116">869984</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">File name</text:p>
+      <text:p text:style-name="P116">Responsible Partner</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P106">D3.5_Validation of demonstrators.odt</text:p>
+      <text:p text:style-name="P116">FHG</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table4.1">
+     <table:table-cell table:style-name="Table4.A1" office:value-type="string">
+      <text:p text:style-name="P116">File name</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table4.A1" office:value-type="string">
+      <text:p text:style-name="P116">D3.5_Validation of demonstrators.odt</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P144"/>
-   <text:p text:style-name="P144">Keywords:</text:p>
-   <text:p text:style-name="P145">Open source hardware, OSH metadata ontology, ICT for OSH, design reuse, open source development, distributed database, collaborative production</text:p>
+   <text:p text:style-name="P145"/>
+   <text:p text:style-name="P145">Keywords:</text:p>
+   <text:p text:style-name="P146">Open source hardware, OSH metadata ontology, ICT for OSH, design reuse, open source development, distributed database, collaborative production</text:p>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="3">
      <text:index-title-template text:style-name="Contents_20_Heading">Table of Contents</text:index-title-template>
@@ -6239,210 +6413,210 @@
      <text:p text:style-name="P64"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc7649_2512574057" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T2">&gt;_4 References<text:tab/>30</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:p text:style-name="P105"/>
-   <text:p text:style-name="P152"><office:annotation office:name="__Annotation__10107_2159218039" loext:resolved="false">
+   <text:p text:style-name="P115"/>
+   <text:p text:style-name="P156"><office:annotation office:name="__Annotation__10107_2159218039" loext:resolved="false">
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-05-30T17:08:35.763661253</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P154"><text:span text:style-name="T58">check</text:span></text:p>
+     <text:p text:style-name="P158"><text:span text:style-name="T60">check</text:span></text:p>
     </office:annotation>List of abbreviations and terms<office:annotation-end office:name="__Annotation__10107_2159218039"/></text:p>
    <table:table table:name="Table6" table:style-name="Table6">
     <table:table-column table:style-name="Table6.A"/>
     <table:table-column table:style-name="Table6.B"/>
     <table:table-row table:style-name="TableLine94430167814768">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">API</text:p>
+      <text:p text:style-name="P131">API</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Application Programming Interface</text:p>
+      <text:p text:style-name="P131">Application Programming Interface</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430240562928">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P131">CAD</text:p>
+      <text:p text:style-name="P132">CAD</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130"><text:span text:style-name="T43">C</text:span>omputer-<text:span text:style-name="T43">A</text:span>ided <text:span text:style-name="T43">D</text:span>esign</text:p>
+      <text:p text:style-name="P131"><text:span text:style-name="T43">C</text:span>omputer-<text:span text:style-name="T43">A</text:span>ided <text:span text:style-name="T43">D</text:span>esign</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430217080304">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P131">CE</text:p>
+      <text:p text:style-name="P132">CE</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130"><text:span text:style-name="T46">C</text:span>onformité <text:span text:style-name="T46">E</text:span>uropéenne (French for &quot;European conformity&quot;)</text:p>
+      <text:p text:style-name="P131"><text:span text:style-name="T46">C</text:span>onformité <text:span text:style-name="T46">E</text:span>uropéenne (French for &quot;European conformity&quot;)</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429868394688">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">DOI</text:p>
+      <text:p text:style-name="P131">DOI</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Digital Object Identifier</text:p>
+      <text:p text:style-name="P131">Digital Object Identifier</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430050557536">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">FOSS</text:p>
+      <text:p text:style-name="P131">FOSS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Free/Open Source Software</text:p>
+      <text:p text:style-name="P131">Free/Open Source Software</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429951922240">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P132">GNU</text:p>
+      <text:p text:style-name="P133">GNU</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">GNU’s Not Unix <text:span text:style-name="T42">(recursive acronym)</text:span></text:p>
+      <text:p text:style-name="P131">GNU’s Not Unix <text:span text:style-name="T42">(recursive acronym)</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430186093904">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P132">JSON</text:p>
+      <text:p text:style-name="P133">JSON</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P133">JavaScript Object Notation (file format)</text:p>
+      <text:p text:style-name="P134">JavaScript Object Notation (file format)</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430190739696">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P132">JSON-LD</text:p>
+      <text:p text:style-name="P133">JSON-LD</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P133">JavaScript Object Notation for Linked Data (file format)</text:p>
+      <text:p text:style-name="P134">JavaScript Object Notation for Linked Data (file format)</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429950916032">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">LOD</text:p>
+      <text:p text:style-name="P131">LOD</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Linked Open Data</text:p>
+      <text:p text:style-name="P131">Linked Open Data</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429818979808">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">LOSH</text:p>
+      <text:p text:style-name="P131">LOSH</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Library for Open Source Hardware</text:p>
+      <text:p text:style-name="P131">Library for Open Source Hardware</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430240573440">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">OKH</text:p>
+      <text:p text:style-name="P131">OKH</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Open Know-How</text:p>
+      <text:p text:style-name="P131">Open Know-How</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430166752656">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">OKHv1</text:p>
+      <text:p text:style-name="P131">OKHv1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Open Know-How Manifest Specification Version 1.0</text:p>
+      <text:p text:style-name="P131">Open Know-How Manifest Specification Version 1.0</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430202458352">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">OSH</text:p>
+      <text:p text:style-name="P131">OSH</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Open Source Hardware </text:p>
+      <text:p text:style-name="P131">Open Source Hardware </text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429875514704">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">PCB</text:p>
+      <text:p text:style-name="P131">PCB</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Printed Circuit Board</text:p>
+      <text:p text:style-name="P131">Printed Circuit Board</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430218894240">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">QR</text:p>
+      <text:p text:style-name="P131">QR</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Quick Response (used in the context of a matrix barcode (QR code)) </text:p>
+      <text:p text:style-name="P131">Quick Response (used in the context of a matrix barcode (QR code)) </text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430127871296">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">RDF</text:p>
+      <text:p text:style-name="P131">RDF</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Resource Description Framework</text:p>
+      <text:p text:style-name="P131">Resource Description Framework</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430044808064">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">RDF2WB</text:p>
+      <text:p text:style-name="P131">RDF2WB</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Resource Description Framework to Wikibase</text:p>
+      <text:p text:style-name="P131">Resource Description Framework to Wikibase</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429820534080">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">SME</text:p>
+      <text:p text:style-name="P131">SME</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Small and Medium-Sized Enterprises</text:p>
+      <text:p text:style-name="P131">Small and Medium-Sized Enterprises</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429868431232">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">SPARQL</text:p>
+      <text:p text:style-name="P131">SPARQL</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Simple Protocol and RDF Query Language</text:p>
+      <text:p text:style-name="P131">Simple Protocol and RDF Query Language</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429806069392">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P134">STEP</text:p>
+      <text:p text:style-name="P135">STEP</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Standard for the exchange of product model data <text:span text:style-name="T45">(file format)</text:span></text:p>
+      <text:p text:style-name="P131">Standard for the exchange of product model data <text:span text:style-name="T45">(file format)</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430204051104">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P134">STL</text:p>
+      <text:p text:style-name="P135">STL</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Standard Tessellation Language <text:span text:style-name="T45">(file format)</text:span></text:p>
+      <text:p text:style-name="P131">Standard Tessellation Language <text:span text:style-name="T45">(file format)</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429954029136">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P131">TsDC</text:p>
+      <text:p text:style-name="P132">TsDC</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Technology-specific Documentation Criteria</text:p>
+      <text:p text:style-name="P131">Technology-specific Documentation Criteria</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94429818127168">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P132">TOML</text:p>
+      <text:p text:style-name="P133">TOML</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P133">Tom&apos;s Obvious, Minimal Language (file format)</text:p>
+      <text:p text:style-name="P134">Tom&apos;s Obvious, Minimal Language (file format)</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="TableLine94430184456720">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P132">URL</text:p>
+      <text:p text:style-name="P133">URL</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P130">Uniform Resource Locator</text:p>
+      <text:p text:style-name="P131">Uniform Resource Locator</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P110"/>
+   <text:p text:style-name="P120"/>
    <text:illustration-index text:style-name="Sect1" text:protected="true" text:name="Table of Figures1">
     <text:illustration-index-source text:caption-sequence-name="Figure" text:caption-sequence-format="text">
      <text:index-title-template text:style-name="Figure_20_Index_20_Heading">Table of Figures</text:index-title-template>
@@ -6472,7 +6646,7 @@
      <text:p text:style-name="P67"><text:a xlink:type="simple" xlink:href="#Figure!11|sequence" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T2">Figure 12: LOSH frontend structure<text:tab/>27</text:span></text:a></text:p>
     </text:index-body>
    </text:illustration-index>
-   <text:p text:style-name="P105"/>
+   <text:p text:style-name="P115"/>
    <text:table-index text:style-name="Sect1" text:protected="true" text:name="Index of Tables1">
     <text:table-index-source text:caption-sequence-name="Table" text:caption-sequence-format="text">
      <text:index-title-template text:style-name="Table_20_index_20_heading">Index of Tables</text:index-title-template>
@@ -6484,16 +6658,81 @@
     </text:table-index-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="Index of Tables1_Head">
-      <text:p text:style-name="P118">Index of Tables</text:p>
+      <text:p text:style-name="P100">Index of Tables</text:p>
      </text:index-title>
-     <text:p text:style-name="P117">Table 1: Key findings for LOSH from the research carried out in T2.3<text:tab/>2</text:p>
-     <text:p text:style-name="P117">Table 2: File paths to raw data<text:tab/>17</text:p>
+     <text:p text:style-name="P101">Table 1: Key findings for LOSH from the research carried out in T2.3<text:tab/>2</text:p>
+     <text:p text:style-name="P101">Table 2: File paths to raw data<text:tab/>17</text:p>
     </text:index-body>
    </text:table-index>
-   <text:p text:style-name="P105"/>
-   <text:h text:style-name="P122" text:outline-level="1">LOSH Search</text:h>
-   <text:h text:style-name="P124" text:outline-level="2">Analytical findings and suggested improvements</text:h>
-   <text:p text:style-name="P146">Free feedback from the workshop, survey comments or findings from the heuristic analysis were clustered and documented as technical issues on GitHub. <text:span text:style-name="T51">During the analysis of the findings, the severity of issues and the potential value of suggested solutions has been rated on a scale from 1 (lowest) to 5 (highest).</text:span> <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refTable0">Table 1</text:sequence-ref><text:s/>shows a conclusion. <text:span text:style-name="T51">T</text:span>he raw data can be found in <text:span text:style-name="T51">the folder “GitHub-export“ in the folder “raw data” attached to this report.</text:span></text:p>
+   <text:p text:style-name="P115"/>
+   <text:h text:style-name="P105" text:outline-level="1">LOSH Search</text:h>
+   <text:h text:style-name="P108" text:outline-level="2">Search terms and <text:span text:style-name="T59">results</text:span></text:h>
+   <text:p text:style-name="P152"><text:span text:style-name="T58">D</text:span><text:span text:style-name="T2">uring the user testing participants entered the following search terms:</text:span></text:p>
+   <text:list xml:id="list4076866378" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">pinhole camera,</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">washing machine,</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">beehive,</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">pcr,</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">microscope,</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">telescope,</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">whistle,</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">ship,</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P153"><text:span text:style-name="T2">gun.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P152"><text:span text:style-name="T2">For the heuristic analysis the top 10 search terms from the technology-neutral OSH search engine </text:span><text:a xlink:type="simple" xlink:href="http://oho.wiki/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T2">OHO.wiki</text:span></text:a><text:span text:style-name="T2"> have been used:</text:span></text:p>
+   <text:list xml:id="list3362676372" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="P154">cargo bike,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">corn mill,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">hot water collector,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">water turbine,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">brick machine,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">power hammer,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">lathe,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">water pump,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">lattice tower,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P154">concrete mixer.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P152"><text:soft-page-break/>Participants uploaded their search results into the survey. Please find the raw data in the upload folders in the folder “Export-LOSH-survey-all” in “raw data” attached to this report. The original list of top OHO search terms is included in the file “LOSH-search-heuristic-analysis.fods” as well as all exported search results in the folder “LOSH-search-heuristic-analysis” also in the folder “raw data”.</text:p>
+   <text:h text:style-name="P107" text:outline-level="2">Analytical findings and suggested improvements</text:h>
+   <text:p text:style-name="P147">Free feedback from the workshop, survey comments or findings from the heuristic analysis were clustered and documented as technical issues on GitHub. <text:span text:style-name="T51">During the analysis of the findings, the severity of issues and the potential value of suggested solutions has been rated on a scale from 1 (lowest) to 5 (highest).</text:span> <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refTable0">Table 1</text:sequence-ref><text:s/>shows a conclusion. <text:span text:style-name="T51">T</text:span>he raw data can be found in <text:span text:style-name="T51">the folder “GitHub-export“ in the folder “raw data” attached to this report.</text:span></text:p>
    <text:p text:style-name="P75">Table <text:sequence text:ref-name="refTable0" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">1</text:sequence>: Overview of documented issues regarding LOSH search functions</text:p>
    <table:table table:name="Table5" table:style-name="Table5">
     <table:table-column table:style-name="Table5.A"/>
@@ -6504,211 +6743,90 @@
     <table:table-column table:style-name="Table5.F"/>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P135">Issue ID</text:p>
+      <text:p text:style-name="P136">Issue ID</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P135">Content</text:p>
+      <text:p text:style-name="P136">Content</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P135">Type</text:p>
+      <text:p text:style-name="P136">Type</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P135">Severity/Value</text:p>
+      <text:p text:style-name="P136">Severity/Value</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P135">Comment</text:p>
+      <text:p text:style-name="P136">Comment</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F1" office:value-type="string">
-      <text:p text:style-name="P135">Source</text:p>
+      <text:p text:style-name="P136">Source</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">118</text:p>
+      <text:p text:style-name="P137">118</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">automatic content translation into most common languages used for European patents</text:p>
+      <text:p text:style-name="P137">automatic content translation into most common languages used for European patents</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">feature request</text:p>
+      <text:p text:style-name="P137">feature request</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">4</text:p>
+      <text:p text:style-name="P137">4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">improves accessibility of search results, specifically for patent attorneys</text:p>
+      <text:p text:style-name="P137">improves accessibility of search results, specifically for patent attorneys</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">Community</text:p>
+      <text:p text:style-name="P137">Community</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">120</text:p>
+      <text:p text:style-name="P137">120</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">add counter for total search results</text:p>
+      <text:p text:style-name="P137">add counter for total search results</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">feature request</text:p>
+      <text:p text:style-name="P137">feature request</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">3</text:p>
+      <text:p text:style-name="P137">3</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">quick statistical information about how many OSH designs are available a) for a certain search term or b) on a specific platform</text:p>
+      <text:p text:style-name="P137">quick statistical information about how many OSH designs are available a) for a certain search term or b) on a specific platform</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">Heuristic analysis</text:p>
+      <text:p text:style-name="P137">Heuristic analysis</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">121</text:p>
+      <text:p text:style-name="P137">121</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">filter results for open file formats, identify</text:p>
+      <text:p text:style-name="P137">filter results for open file formats, identify</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">feature request</text:p>
+      <text:p text:style-name="P137">feature request</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">4</text:p>
+      <text:p text:style-name="P137">4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">allows to quickly filter for modifiable designs and assess documentation readiness</text:p>
+      <text:p text:style-name="P137">allows to quickly filter for modifiable designs and assess documentation readiness</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">Heuristic analysis</text:p>
+      <text:p text:style-name="P137">Heuristic analysis</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">122</text:p>
+      <text:p text:style-name="P137">122</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">download results only works for current page</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">bug report</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">5</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">download feature thereby practically broken for most users</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">User testing</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table5.1">
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">123</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">“results per page” sometimes not selectable</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">bug report</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">2</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">may result in an inconvenient view, but does not affect the search functionality</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">User testing</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table5.1">
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">124</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">order “repo hosts” by number of search results (omitting repo hosts without results)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">feature request</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">4</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">would significantly increase the value of this filter function</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">User testing</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <text:soft-page-break/>
-    <table:table-row table:style-name="Table5.1">
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">125</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">add thumbnails for the results on the search page</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">feature request</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">4</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">would allow for much faster assessment of relevance of search results</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">User testing</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table5.1">
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">129</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">“go to repo” of version-specific page always points to the latest version of the repository</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">bug report</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">4</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">feature essentially broken; likely causes confusion; however, does not break essential functions of the search functionality</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">Heuristic analysis</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table5.1">
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">130</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">“OSHWA” missing in “repo hosts” filter</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">bug report</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">5</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">important source of metadata not available through the filter</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">Heuristic analysis</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table5.1">
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P136">137</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P137">side crashes when <text:span text:style-name="T50">searching for „lab“</text:span></text:p>
+      <text:p text:style-name="P137">download results only works for current page</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="P137">bug report</text:p>
@@ -6717,38 +6835,119 @@
       <text:p text:style-name="P137">5</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">unknown cause; could happen for other search terms as well</text:p>
+      <text:p text:style-name="P137">download feature thereby practically broken for most users</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">Heuristic analysis</text:p>
+      <text:p text:style-name="P137">User testing</text:p>
      </table:table-cell>
     </table:table-row>
+    <text:soft-page-break/>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">138</text:p>
+      <text:p text:style-name="P137">123</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P137">Mostly unrelated results from page 3 onwards</text:p>
+      <text:p text:style-name="P137">“results per page” sometimes not selectable</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="P137">bug report</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">4</text:p>
+      <text:p text:style-name="P137">2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">search results include a large vari<text:span text:style-name="T51">e</text:span>ty of irrelevant designs; the share of irrelevant results is almost equal to 1 after from page 3 onwards using any search term</text:p>
+      <text:p text:style-name="P137">may result in an inconvenient view, but does not affect the search functionality</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P139">Heuristic analysis</text:p>
+      <text:p text:style-name="P137">User testing</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">139</text:p>
+      <text:p text:style-name="P137">124</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P137">no option for multiple filters nor filtering out</text:p>
+      <text:p text:style-name="P137">order “repo hosts” by number of search results (omitting repo hosts without results)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">feature request</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">would significantly increase the value of this filter function</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
+      <text:p text:style-name="P137">User testing</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table5.1">
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">125</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">add thumbnails for the results on the search page</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">feature request</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">would allow for much faster assessment of relevance of search results</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
+      <text:p text:style-name="P137">User testing</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table5.1">
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">129</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">“go to repo” of version-specific page always points to the latest version of the repository</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">bug report</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">feature essentially broken; likely causes confusion; however, does not break essential functions of the search functionality</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
+      <text:p text:style-name="P137">Heuristic analysis</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table5.1">
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">130</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">“OSHWA” missing in “repo hosts” filter</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">bug report</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">important source of metadata not available through the filter</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
+      <text:p text:style-name="P137">Heuristic analysis</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table5.1">
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P137">137</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P138">side crashes when <text:span text:style-name="T50">searching for „lab“</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="P138">bug report</text:p>
@@ -6757,38 +6956,78 @@
       <text:p text:style-name="P138">5</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">search results are flooded by thingiverse results, making it very hard to identify relevant results from other repo hosts</text:p>
+      <text:p text:style-name="P139">unknown cause; could happen for other search terms as well</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P139">User testing</text:p>
+      <text:p text:style-name="P137">Heuristic analysis</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">140</text:p>
+      <text:p text:style-name="P139">138</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">versions or duplicates of the same hardware are not grouped or omitted</text:p>
+      <text:p text:style-name="P138">Mostly unrelated results from page 3 onwards</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="P138">bug report</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">5</text:p>
+      <text:p text:style-name="P139">4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P138">search results are flooded by duplicates or different versions of the same OSH design</text:p>
+      <text:p text:style-name="P139">search results include a large vari<text:span text:style-name="T51">e</text:span>ty of irrelevant designs; the share of irrelevant results is almost equal to 1 after from page 3 onwards using any search term</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P136">User testing</text:p>
+      <text:p text:style-name="P140">Heuristic analysis</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table5.1">
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">139</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P138">no option for multiple filters nor filtering out</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">bug report</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">search results are flooded by thingiverse results, making it very hard to identify relevant results from other repo hosts</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
+      <text:p text:style-name="P140">User testing</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table5.1">
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">140</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">versions or duplicates of the same hardware are not grouped or omitted</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">bug report</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A2" office:value-type="string">
+      <text:p text:style-name="P139">search results are flooded by duplicates or different versions of the same OSH design</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.F2" office:value-type="string">
+      <text:p text:style-name="P137">User testing</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P141"/>
-   <text:p text:style-name="P148">As shown, the scores for severity/potential value are overall high. Most issues were very easy to identify and affected the usability and added value of the service directly, while some of these issues are connected. An example for this is issue #139: “no option for multiple filters nor filtering out” with a severity score of 5. As shown in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure0">Figure 1</text:sequence-ref>, search result pages contain a large variety of unrelated results (which is documented in issue #138). This latter issue could be mitigated if individual repository hosts (e.g. thingiverse) could be filtered out if those are found to be irrelevant for the performed search.</text:p>
-   <text:p text:style-name="P148"><draw:frame draw:style-name="fr2" draw:name="Frame1" text:anchor-type="paragraph" svg:width="17cm" draw:z-index="20">
+   <text:p text:style-name="P142"/>
+   <text:p text:style-name="P149"><text:soft-page-break/>As shown, the scores for severity/potential value are overall high. Most issues were very easy to identify and affected the usability and added value of the service directly, while some of these issues are connected. An example for this is issue #139: “no option for multiple filters nor filtering out” with a severity score of 5. As shown in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure0">Figure 1</text:sequence-ref>, search result pages contain a large variety of unrelated results (which is documented in issue #138). This latter issue could be mitigated if individual repository hosts (e.g. thingiverse) could be filtered out if those are found to be irrelevant for the performed search.</text:p>
+   <text:p text:style-name="P149"><draw:frame draw:style-name="fr2" draw:name="Frame1" text:anchor-type="paragraph" svg:width="17cm" draw:z-index="22">
      <draw:text-box fo:min-height="9.088cm">
-      <text:p text:style-name="Figure"><draw:frame draw:style-name="fr3" draw:name="Image2" text:anchor-type="paragraph" svg:width="17cm" style:rel-width="100%" svg:height="9.088cm" style:rel-height="scale" draw:z-index="21"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="Figure"><draw:frame draw:style-name="fr3" draw:name="Image2" text:anchor-type="paragraph" svg:width="17cm" style:rel-width="100%" svg:height="9.088cm" style:rel-height="scale" draw:z-index="23"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABn8AAAN5CAYAAADJuS7QAAAABHNCSVQICAgIfAhkiAAAABl0
           RVh0U29mdHdhcmUAZ25vbWUtc2NyZWVuc2hvdO8Dvz4AACAASURBVHic7N15fE3X/v/x98nJ
           PJBEIq6EEKSIqaJqJimlI622SlvVRluzolpKVduvFq221xClhraIoUrpRLW/VFUHrumSiiTm
@@ -9328,11 +9567,11 @@
         </draw:image>
        </draw:frame>Figure <text:sequence text:ref-name="refFigure0" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">1</text:sequence>: Screenshot of irrelevant results when searching for &quot;lathe&quot;</text:p>
      </draw:text-box>
-    </draw:frame><text:soft-page-break/></text:p>
-   <text:p text:style-name="P149">Similarly, search results often include a quantity of duplicates or different versions of the same OSH designs, flooding the lists (issue #140). An example is shown in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure1">Figure 2</text:sequence-ref><text:s/>below.</text:p>
-   <text:p text:style-name="P150"><draw:frame draw:style-name="fr2" draw:name="Frame2" text:anchor-type="paragraph" svg:width="17cm" draw:z-index="22">
+    </draw:frame></text:p>
+   <text:p text:style-name="P150">Similarly, search results often include a quantity of duplicates or different versions of the same OSH designs, flooding the lists (issue #140). An example is shown in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure1">Figure 2</text:sequence-ref><text:s/>below.</text:p>
+   <text:p text:style-name="P151"><draw:frame draw:style-name="fr2" draw:name="Frame2" text:anchor-type="paragraph" svg:width="17cm" draw:z-index="24">
      <draw:text-box fo:min-height="8.555cm">
-      <text:p text:style-name="Figure"><draw:frame draw:style-name="fr3" draw:name="Image3" text:anchor-type="paragraph" svg:width="17cm" style:rel-width="100%" svg:height="8.555cm" style:rel-height="scale" draw:z-index="23"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="Figure"><draw:frame draw:style-name="fr3" draw:name="Image3" text:anchor-type="paragraph" svg:width="17cm" style:rel-width="100%" svg:height="8.555cm" style:rel-height="scale" draw:z-index="25"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABp8AAANVCAYAAACONebsAAAABHNCSVQICAgIfAhkiAAAABl0
           RVh0U29mdHdhcmUAZ25vbWUtc2NyZWVuc2hvdO8Dvz4AACAASURBVHic7N15eEx3///x12Sy
           LySRoLYQxBJ71BZb1FLduKtuRYtv0wVVbXWj3Opuq7W05bZEadHFTm1dfi23qqYtjaJKKiSI
@@ -12342,23 +12581,23 @@
         </draw:image>
        </draw:frame>Figure <text:sequence text:ref-name="refFigure1" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">2</text:sequence>: Screenshot of duplicate entries when searching for &quot;brick machine&quot;</text:p>
      </draw:text-box>
-    </draw:frame></text:p>
-   <text:h text:style-name="P125" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc52034_1257931312"/><text:soft-page-break/>Summary and Outlook<text:bookmark-end text:name="__RefHeading___Toc52034_1257931312"/></text:h>
-   <text:p text:style-name="P147">xxx</text:p>
-   <text:h text:style-name="P123" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc7649_2512574057"/>References<text:bookmark-end text:name="__RefHeading___Toc7649_2512574057"/></text:h>
+    </draw:frame><text:soft-page-break/></text:p>
+   <text:h text:style-name="P109" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc52034_1257931312"/>Summary and Outlook<text:bookmark-end text:name="__RefHeading___Toc52034_1257931312"/></text:h>
+   <text:p text:style-name="P148">xxx</text:p>
+   <text:h text:style-name="P106" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc7649_2512574057"/>References<text:bookmark-end text:name="__RefHeading___Toc7649_2512574057"/></text:h>
    <text:section text:style-name="Sect1" text:name="ZOTERO_BIBL {&quot;uncited&quot;:[],&quot;omitted&quot;:[],&quot;custom&quot;:[]} CSL_BIBLIOGRAPHY RND71gSdSqr0g">
-    <text:p text:style-name="P119">[1]<text:tab/>A. Ezoji, J. F. Boujut, and R. Pinquié, ‘Requirements for design reuse in open-source hardware: a state of the art’, <text:span text:style-name="T26">Procedia CIRP</text:span>, vol. 100, pp. 792–797, 2021, doi: 10.1016/j.procir.2021.05.042.</text:p>
-    <text:p text:style-name="P119">[2]<text:tab/>J. Bonvoisin, J. Molloy, M. Haeuer, and T. Wenzel, ‘Standardisation of practices in Open Source Hardware’, <text:span text:style-name="T26">arXiv:2004.07143 [physics]</text:span>, Apr. 2020, Accessed: Aug. 18, 2020. [Online]. Available: http://arxiv.org/abs/2004.07143</text:p>
-    <text:p text:style-name="P119">[3]<text:tab/>‘OSHWA Definition (English)’, <text:span text:style-name="T26">Open Source Hardware Association</text:span>. https://www.oshwa.org/definition/ (accessed Mar. 20, 2021).</text:p>
-    <text:p text:style-name="P119">[4]<text:tab/>‘DIN SPEC 3105-1:2020-07, Open Source Hardware_- Teil_1: Anforderungen an die technische Dokumentation; Text Englisch’, Beuth Verlag GmbH. doi: 10.31030/3173063.</text:p>
-    <text:p text:style-name="P119">[5]<text:tab/>MakerNetAlliance, ‘OpenKnowHow’, <text:span text:style-name="T26">StandardsRepo</text:span>. https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow (accessed Sep. 21, 2021).</text:p>
-    <text:p text:style-name="P119">[6]<text:tab/>MakerNetAlliance, ‘OpenKnowHow - YAML discussion’, <text:span text:style-name="T26">StandardsRepo</text:span>. https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow (accessed Sep. 21, 2021).</text:p>
-    <text:p text:style-name="P119">[7]<text:tab/><text:span text:style-name="T26">Open Know-How Search - List of Manifest Files 10/2020</text:span>. Open Know-How, 2021. Accessed: Sep. 21, 2021. [Online]. Available: https://github.com/OpenKnowHow/okh-search/blob/b9e7301f4e00b4021fa089822983ab36236bafee/projects_okhs.csv</text:p>
-    <text:p text:style-name="P119">[8]<text:tab/>Hoijui, <text:span text:style-name="T26">OPEN-NEXT/OKH-LOSH-YAML-stats: v1.0.0</text:span>. Zenodo, 2021. doi: 10.5281/ZENODO.5534241.</text:p>
-    <text:p text:style-name="P119">[9]<text:tab/>A. Narduzzo and A. Rossi, ‘Modular Design and the Development of Complex Artifacts: Lessons from Free/Open Source Software’, p. 40.</text:p>
-    <text:p text:style-name="P119">[10]<text:tab/>‘OpenKnowHow - Manifest Online Form’. https://okh.makernet.org/form (accessed Sep. 23, 2021).</text:p>
+    <text:p text:style-name="P102">[1]<text:tab/>A. Ezoji, J. F. Boujut, and R. Pinquié, ‘Requirements for design reuse in open-source hardware: a state of the art’, <text:span text:style-name="T26">Procedia CIRP</text:span>, vol. 100, pp. 792–797, 2021, doi: 10.1016/j.procir.2021.05.042.</text:p>
+    <text:p text:style-name="P102">[2]<text:tab/>J. Bonvoisin, J. Molloy, M. Haeuer, and T. Wenzel, ‘Standardisation of practices in Open Source Hardware’, <text:span text:style-name="T26">arXiv:2004.07143 [physics]</text:span>, Apr. 2020, Accessed: Aug. 18, 2020. [Online]. Available: http://arxiv.org/abs/2004.07143</text:p>
+    <text:p text:style-name="P102">[3]<text:tab/>‘OSHWA Definition (English)’, <text:span text:style-name="T26">Open Source Hardware Association</text:span>. https://www.oshwa.org/definition/ (accessed Mar. 20, 2021).</text:p>
+    <text:p text:style-name="P102">[4]<text:tab/>‘DIN SPEC 3105-1:2020-07, Open Source Hardware_- Teil_1: Anforderungen an die technische Dokumentation; Text Englisch’, Beuth Verlag GmbH. doi: 10.31030/3173063.</text:p>
+    <text:p text:style-name="P102">[5]<text:tab/>MakerNetAlliance, ‘OpenKnowHow’, <text:span text:style-name="T26">StandardsRepo</text:span>. https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow (accessed Sep. 21, 2021).</text:p>
+    <text:p text:style-name="P102">[6]<text:tab/>MakerNetAlliance, ‘OpenKnowHow - YAML discussion’, <text:span text:style-name="T26">StandardsRepo</text:span>. https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow (accessed Sep. 21, 2021).</text:p>
+    <text:p text:style-name="P102">[7]<text:tab/><text:span text:style-name="T26">Open Know-How Search - List of Manifest Files 10/2020</text:span>. Open Know-How, 2021. Accessed: Sep. 21, 2021. [Online]. Available: https://github.com/OpenKnowHow/okh-search/blob/b9e7301f4e00b4021fa089822983ab36236bafee/projects_okhs.csv</text:p>
+    <text:p text:style-name="P102">[8]<text:tab/>Hoijui, <text:span text:style-name="T26">OPEN-NEXT/OKH-LOSH-YAML-stats: v1.0.0</text:span>. Zenodo, 2021. doi: 10.5281/ZENODO.5534241.</text:p>
+    <text:p text:style-name="P102">[9]<text:tab/>A. Narduzzo and A. Rossi, ‘Modular Design and the Development of Complex Artifacts: Lessons from Free/Open Source Software’, p. 40.</text:p>
+    <text:p text:style-name="P102">[10]<text:tab/>‘OpenKnowHow - Manifest Online Form’. https://okh.makernet.org/form (accessed Sep. 23, 2021).</text:p>
    </text:section>
-   <text:p text:style-name="P140"/>
+   <text:p text:style-name="P141"/>
   </office:text>
  </office:body>
 </office:document>
