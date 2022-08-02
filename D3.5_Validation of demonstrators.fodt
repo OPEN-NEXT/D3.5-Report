@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Martin Häuer</meta:initial-creator><meta:creation-date>2021-10-14T18:08:36.852140822</meta:creation-date><dc:date>2022-08-01T18:49:17.415653304</dc:date><dc:creator>Pen-Yuan Hsing</dc:creator><meta:editing-duration>P1DT13H11M20S</meta:editing-duration><meta:editing-cycles>197</meta:editing-cycles><meta:generator>LibreOffice/7.3.5.2$Linux_X86_64 LibreOffice_project/184fe81b8c8c30d8b5082578aee2fed2ea847c01</meta:generator><meta:document-statistic meta:table-count="11" meta:image-count="31" meta:object-count="1" meta:page-count="40" meta:paragraph-count="654" meta:word-count="6413" meta:character-count="41446" meta:non-whitespace-character-count="35725"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:user-defined meta:name="ZOTERO_PREF_1">&lt;data data-version=&quot;3&quot; zotero-version=&quot;6.0.4&quot;&gt;&lt;session id=&quot;TKDhrcOz&quot;/&gt;&lt;style id=&quot;http://www.zotero.org/styles/apa&quot; locale=&quot;en-GB&quot; hasBibliography=&quot;1&quot; bibliographyStyleHasBeenSet=&quot;1&quot;/&gt;&lt;prefs&gt;&lt;pref name=&quot;fieldType&quot; value=&quot;ReferenceMark&quot;/&gt;&lt;/prefs&gt;&lt;/data&gt;</meta:user-defined></office:meta>
+ <office:meta><meta:initial-creator>Martin Häuer</meta:initial-creator><meta:creation-date>2021-10-14T18:08:36.852140822</meta:creation-date><dc:date>2022-08-02T18:07:55.681639791</dc:date><dc:creator>Pen-Yuan Hsing</dc:creator><meta:editing-duration>P1DT13H15M</meta:editing-duration><meta:editing-cycles>198</meta:editing-cycles><meta:generator>LibreOffice/7.3.5.2$Linux_X86_64 LibreOffice_project/184fe81b8c8c30d8b5082578aee2fed2ea847c01</meta:generator><meta:document-statistic meta:table-count="11" meta:image-count="31" meta:object-count="1" meta:page-count="40" meta:paragraph-count="654" meta:word-count="6415" meta:character-count="41457" meta:non-whitespace-character-count="35734"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:user-defined meta:name="ZOTERO_PREF_1">&lt;data data-version=&quot;3&quot; zotero-version=&quot;6.0.4&quot;&gt;&lt;session id=&quot;TKDhrcOz&quot;/&gt;&lt;style id=&quot;http://www.zotero.org/styles/apa&quot; locale=&quot;en-GB&quot; hasBibliography=&quot;1&quot; bibliographyStyleHasBeenSet=&quot;1&quot;/&gt;&lt;prefs&gt;&lt;pref name=&quot;fieldType&quot; value=&quot;ReferenceMark&quot;/&gt;&lt;/prefs&gt;&lt;/data&gt;</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">539731</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">29127</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">18441</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">464492</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">811</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">25707</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17383</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16986</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">553978</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">539731</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">29125</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">558170</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">5002</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">468764</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">811</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">464492</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">26517</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">481873</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -104,7 +104,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">12809537</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">12869092</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -177,7 +177,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="CMU Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Droid Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -3113,149 +3113,146 @@
   <style:style style:name="P162" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="00c2f429" officeooo:paragraph-rsid="00c2f429"/>
   </style:style>
-  <style:style style:name="P163" style:family="paragraph" style:parent-style-name="Subtitle" style:master-page-name="Unnumbered_20_Pages">
+  <style:style style:name="P163" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00c37541" officeooo:paragraph-rsid="00c37541"/>
+  </style:style>
+  <style:style style:name="P164" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00c37541"/>
+  </style:style>
+  <style:style style:name="P165" style:family="paragraph" style:parent-style-name="Subtitle" style:master-page-name="Unnumbered_20_Pages">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P164" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+  <style:style style:name="P166" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
    <style:paragraph-properties style:page-number="1"/>
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P165" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P167" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a290f9" officeooo:paragraph-rsid="00a290f9"/>
   </style:style>
-  <style:style style:name="P166" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P168" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P167" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Unnumbered_20_Pages">
+  <style:style style:name="P169" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Unnumbered_20_Pages">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P168" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="009d4c1b" officeooo:paragraph-rsid="009d4c1b"/>
   </style:style>
-  <style:style style:name="P169" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a290f9"/>
   </style:style>
-  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0094b5cb" officeooo:paragraph-rsid="0094b5cb"/>
   </style:style>
-  <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P174" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="009fa257"/>
   </style:style>
-  <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P175" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P174" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P176" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0098cf61" officeooo:paragraph-rsid="009fa257"/>
   </style:style>
-  <style:style style:name="P175" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P176" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a290f9"/>
-  </style:style>
   <style:style style:name="P177" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0094b5cb" officeooo:paragraph-rsid="00a290f9"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P178" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="0095db66"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a290f9"/>
   </style:style>
   <style:style style:name="P179" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00add73b"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0094b5cb" officeooo:paragraph-rsid="00a290f9"/>
   </style:style>
   <style:style style:name="P180" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0098cf61" officeooo:paragraph-rsid="00a290f9"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="0095db66"/>
   </style:style>
   <style:style style:name="P181" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00add73b"/>
+  </style:style>
+  <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0098cf61" officeooo:paragraph-rsid="00a290f9"/>
+  </style:style>
+  <style:style style:name="P183" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="009e5014" officeooo:paragraph-rsid="00a290f9"/>
   </style:style>
-  <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Heading_20_5">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P183" style:family="paragraph" style:parent-style-name="Heading_20_5">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a3c1df"/>
-  </style:style>
   <style:style style:name="P184" style:family="paragraph" style:parent-style-name="Heading_20_5">
-   <style:text-properties officeooo:rsid="00b82133" officeooo:paragraph-rsid="00b82133"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P185" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00a3c1df"/>
+  </style:style>
+  <style:style style:name="P186" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties officeooo:rsid="00b82133" officeooo:paragraph-rsid="00b82133"/>
+  </style:style>
+  <style:style style:name="P187" style:family="paragraph" style:parent-style-name="Heading_20_5">
    <style:text-properties officeooo:paragraph-rsid="00bf8067"/>
   </style:style>
-  <style:style style:name="P186" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P188" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="009e5014" officeooo:paragraph-rsid="009e5014"/>
   </style:style>
-  <style:style style:name="P187" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P189" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P188" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00c15aa8" officeooo:paragraph-rsid="00c15aa8"/>
-  </style:style>
-  <style:style style:name="P189" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00c17f89" officeooo:paragraph-rsid="00c17f89"/>
   </style:style>
   <style:style style:name="P190" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00c15aa8" officeooo:paragraph-rsid="00c15aa8"/>
+  </style:style>
+  <style:style style:name="P191" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00c17f89" officeooo:paragraph-rsid="00c17f89"/>
+  </style:style>
+  <style:style style:name="P192" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00c17f89" officeooo:paragraph-rsid="00c26ffa"/>
   </style:style>
-  <style:style style:name="P191" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P193" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P192" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+  <style:style style:name="P194" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P193" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+  <style:style style:name="P195" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a39320" officeooo:paragraph-rsid="00a39320"/>
   </style:style>
-  <style:style style:name="P194" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
+  <style:style style:name="P196" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00a39320" officeooo:paragraph-rsid="00a39320"/>
   </style:style>
-  <style:style style:name="P195" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10">
+  <style:style style:name="P197" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00b044f4" officeooo:paragraph-rsid="00b044f4"/>
   </style:style>
-  <style:style style:name="P196" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L12">
+  <style:style style:name="P198" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L12">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00b044f4" officeooo:paragraph-rsid="00b82133"/>
   </style:style>
-  <style:style style:name="P197" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11">
+  <style:style style:name="P199" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00b82133" officeooo:paragraph-rsid="00b82133"/>
   </style:style>
-  <style:style style:name="P198" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P200" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="00a341e3" officeooo:paragraph-rsid="00add73b"/>
   </style:style>
-  <style:style style:name="P199" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P201" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="00c2f429" officeooo:paragraph-rsid="00c2f429"/>
   </style:style>
-  <style:style style:name="P200" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7"/>
-  <style:style style:name="P201" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11">
-   <style:text-properties officeooo:rsid="00b82133" officeooo:paragraph-rsid="00b82133"/>
-  </style:style>
-  <style:style style:name="P202" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L13">
-   <style:text-properties officeooo:paragraph-rsid="00bf8067"/>
-  </style:style>
-  <style:style style:name="P203" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L13">
-   <style:text-properties officeooo:rsid="00bb728c" officeooo:paragraph-rsid="00bf8067"/>
-  </style:style>
-  <style:style style:name="P204" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L14"/>
-  <style:style style:name="P205" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P202" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="00c37541" officeooo:paragraph-rsid="00c37541"/>
   </style:style>
-  <style:style style:name="P206" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="00c37541"/>
+  <style:style style:name="P203" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7"/>
+  <style:style style:name="P204" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11">
+   <style:text-properties officeooo:rsid="00b82133" officeooo:paragraph-rsid="00b82133"/>
   </style:style>
-  <style:style style:name="P207" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false"/>
+  <style:style style:name="P205" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L13">
+   <style:text-properties officeooo:paragraph-rsid="00bf8067"/>
   </style:style>
+  <style:style style:name="P206" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L13">
+   <style:text-properties officeooo:rsid="00bb728c" officeooo:paragraph-rsid="00bf8067"/>
+  </style:style>
+  <style:style style:name="P207" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L14"/>
   <style:style style:name="P208" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
@@ -3536,10 +3533,10 @@
    <style:text-properties officeooo:rsid="00c37541"/>
   </style:style>
   <style:style style:name="T92" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="CMU Serif" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Droid Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties officeooo:rsid="00c45de4"/>
   </style:style>
   <style:style style:name="T93" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="CMU Serif" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Droid Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="CMU Serif" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Droid Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T94" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="CMU Serif" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Droid Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
@@ -4782,7 +4779,7 @@
    <style:footer>
     <text:p text:style-name="P3"/>
     <text:p text:style-name="P3"/>
-    <text:p text:style-name="P4"><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T3"><text:page-number text:select-page="current">20</text:page-number></text:span><text:span text:style-name="T3"> of </text:span><text:span text:style-name="T3"><text:page-count>40</text:page-count></text:span><text:span text:style-name="T4"><text:tab/></text:span><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="5.7764in" svg:y="-0.2866in" svg:width="0.9165in" svg:height="0.3228in" draw:z-index="39"><draw:image draw:mime-type="image/png">
+    <text:p text:style-name="P4"><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T3"><text:page-number text:select-page="current">30</text:page-number></text:span><text:span text:style-name="T3"> of </text:span><text:span text:style-name="T3"><text:page-count>40</text:page-count></text:span><text:span text:style-name="T4"><text:tab/></text:span><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="5.7764in" svg:y="-0.2866in" svg:width="0.9165in" svg:height="0.3228in" draw:z-index="39"><draw:image draw:mime-type="image/png">
        <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAWAAAAB8CAYAAAEgBVqOAAAAAXNSR0IArs4c6QAAAARnQU1B
         AACxjwv8YQUAAAAJcEhZcwAAOw4AADsOAcy2oYMAACFuSURBVHhe7Z1NrBzVlccthYwiAZFH
         mMijeGas4CQWmMTiI3qSQ2QJgohM0ItwhCeQhEmMeEmMeCJGIBKENRZyFIsxytOEJJ5AMk7G
@@ -5137,7 +5134,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P163"/>
+   <text:p text:style-name="P165"/>
    <text:p text:style-name="P90"/>
    <text:p text:style-name="P90"/>
    <text:p text:style-name="P90"/>
@@ -7125,7 +7122,7 @@
    <text:p text:style-name="P16"><text:span text:style-name="T28">Executive Summary</text:span>:</text:p>
    <table:table table:name="Table5" table:style-name="Table5">
     <table:table-column table:style-name="Table5.A"/>
-    <table:table-row table:style-name="TableLine94463085327808">
+    <table:table-row table:style-name="TableLine94511110761296">
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
       <text:p text:style-name="P78">xxx</text:p>
      </table:table-cell>
@@ -7248,12 +7245,12 @@
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-05-30T17:06:20.049046050</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T92">check</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T93">check</text:span></text:p>
     </office:annotation>List of abbreviations and terms<office:annotation-end office:name="__Annotation__7791_2159218039"/></text:p>
    <table:table table:name="Table6" table:style-name="Table6">
     <table:table-column table:style-name="Table6.A"/>
     <table:table-column table:style-name="Table6.B"/>
-    <table:table-row table:style-name="TableLine94463085329568">
+    <table:table-row table:style-name="TableLine94511110763056">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="P112">API</text:p>
      </table:table-cell>
@@ -7261,7 +7258,7 @@
       <text:p text:style-name="P112">Application programming interface</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085423664">
+    <table:table-row table:style-name="TableLine94511110857520">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="P117">CAD</text:p>
      </table:table-cell>
@@ -7269,7 +7266,7 @@
       <text:p text:style-name="P117">Computer aided design</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085424288">
+    <table:table-row table:style-name="TableLine94511110858144">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="P80">LOSH</text:p>
      </table:table-cell>
@@ -7277,7 +7274,7 @@
       <text:p text:style-name="P80">Library for Open Source Hardware</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085424912">
+    <table:table-row table:style-name="TableLine94511110858768">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="P84">NER</text:p>
      </table:table-cell>
@@ -7285,7 +7282,7 @@
       <text:p text:style-name="P80">Named Entity Recognition</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085425696">
+    <table:table-row table:style-name="TableLine94511110859552">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="P80">OKH</text:p>
      </table:table-cell>
@@ -7293,7 +7290,7 @@
       <text:p text:style-name="P80">Open Know-How</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085426480">
+    <table:table-row table:style-name="TableLine94511110860336">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="P80">OSH</text:p>
      </table:table-cell>
@@ -7301,7 +7298,7 @@
       <text:p text:style-name="P80">Open Source Hardware </text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085427264">
+    <table:table-row table:style-name="TableLine94511110861120">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="P80">SME</text:p>
      </table:table-cell>
@@ -7309,7 +7306,7 @@
       <text:p text:style-name="P80">Small and Medium-Sized Enterprises</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085428048">
+    <table:table-row table:style-name="TableLine94511110861904">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="P22">URL</text:p>
      </table:table-cell>
@@ -7366,7 +7363,7 @@
     </text:index-body>
    </text:table-index>
    <text:p text:style-name="P19"/>
-   <text:h text:style-name="P164" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc5795_2512574057"/>Introduction<text:bookmark-end text:name="__RefHeading___Toc5795_2512574057"/></text:h>
+   <text:h text:style-name="P166" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc5795_2512574057"/>Introduction<text:bookmark-end text:name="__RefHeading___Toc5795_2512574057"/></text:h>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc7678_1338357660"/>Target <text:span text:style-name="T56">g</text:span>roup <text:span text:style-name="T56">r</text:span>equirements<text:bookmark-end text:name="__RefHeading___Toc7678_1338357660"/></text:h>
    <text:p text:style-name="P49">Target group of WP3</text:p>
    <text:p text:style-name="P49"><draw:frame draw:style-name="fr13" draw:name="Image2" text:anchor-type="char" svg:width="5.2098in" svg:height="2.1264in" draw:z-index="78"><draw:image draw:mime-type="image/png">
@@ -8301,15 +8298,15 @@
    <text:p text:style-name="P49">→ what MVPs/features did we want to validate? <text:span text:style-name="T55">(see table in section Testing Plan)</text:span></text:p>
    <text:h text:style-name="P96" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc21714_2159218039"/>Testing <text:span text:style-name="T56">p</text:span>lan<text:bookmark-end text:name="__RefHeading___Toc21714_2159218039"/></text:h>
    <text:p text:style-name="P49">In order to validate <text:span text:style-name="T54">the features summarised in chapter </text:span><text:span text:style-name="T54"><text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading___Toc7678_1338357660">1.1</text:bookmark-ref></text:span><text:span text:style-name="T54"> the methods listed in Table </text:span><text:span text:style-name="T54"><text:sequence-ref text:reference-format="value" text:ref-name="refTable0">1</text:sequence-ref></text:span><text:span text:style-name="T54"> have been chosen. Since the tools differ in use case, target group and development status, dedicated testing plan</text:span><text:span text:style-name="T60">s</text:span><text:span text:style-name="T54"> </text:span><text:span text:style-name="T60">have been </text:span><text:span text:style-name="T54">desigend </text:span><text:span text:style-name="T60">for </text:span><text:span text:style-name="T54">each tool. </text:span><text:span text:style-name="T55">For further details regarding the tools and their development, please refer to the corresponding deliverable reports:</text:span></text:p>
-   <text:list xml:id="list1918916090" text:style-name="L1">
+   <text:list xml:id="list1702846596" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P186">D3.2 „Platform demonstrator“ report <text:span text:style-name="T58">xxx</text:span></text:p>
+     <text:p text:style-name="P188">D3.2 „Platform demonstrator“ report <text:span text:style-name="T58">xxx</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P187"><text:span text:style-name="T55">D3.3 „Wikibase instance demonstrator“ report </text:span><text:reference-mark-start text:name="ZOTERO_ITEM CSL_CITATION {&quot;citationID&quot;:&quot;xZzDVY6L&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;(H\\uc0\\u228{}uer &amp; Sonika Gogineni, 2021)&quot;,&quot;plainCitation&quot;:&quot;(Häuer &amp; Sonika Gogineni, 2021)&quot;,&quot;noteIndex&quot;:0},&quot;citationItems&quot;:[{&quot;id&quot;:416,&quot;uris&quot;:[&quot;http://zotero.org/users/6726287/items/QULE7FNP&quot;],&quot;itemData&quot;:{&quot;id&quot;:416,&quot;type&quot;:&quot;report&quot;,&quot;abstract&quot;:&quot;changelog: minor format changes applied &lt;strong&gt;Find the complete export package in the ZIP file here ↓&lt;/strong&gt;&quot;,&quot;note&quot;:&quot;version: v1.0.2\nDOI: 10.5281/ZENODO.5638687&quot;,&quot;publisher&quot;:&quot;Zenodo&quot;,&quot;source&quot;:&quot;DOI.org (Datacite)&quot;,&quot;title&quot;:&quot;OPEN-NEXT/D3.3-Report: v1.0.2&quot;,&quot;title-short&quot;:&quot;OPEN-NEXT/D3.3-Report&quot;,&quot;URL&quot;:&quot;https://zenodo.org/record/5638687&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Häuer&quot;,&quot;given&quot;:&quot;Martin&quot;},{&quot;family&quot;:&quot;Sonika Gogineni&quot;,&quot;given&quot;:&quot;&quot;}],&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2022&quot;,6,7]]},&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2021&quot;,11,2]]},&quot;citation-key&quot;:&quot;hauerOPENNEXTD33Report2021&quot;}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;} RND1EqedQYBZH"/><text:span text:style-name="T50">(Häuer &amp; Sonika Gogineni, 2021)</text:span><text:reference-mark-end text:name="ZOTERO_ITEM CSL_CITATION {&quot;citationID&quot;:&quot;xZzDVY6L&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;(H\\uc0\\u228{}uer &amp; Sonika Gogineni, 2021)&quot;,&quot;plainCitation&quot;:&quot;(Häuer &amp; Sonika Gogineni, 2021)&quot;,&quot;noteIndex&quot;:0},&quot;citationItems&quot;:[{&quot;id&quot;:416,&quot;uris&quot;:[&quot;http://zotero.org/users/6726287/items/QULE7FNP&quot;],&quot;itemData&quot;:{&quot;id&quot;:416,&quot;type&quot;:&quot;report&quot;,&quot;abstract&quot;:&quot;changelog: minor format changes applied &lt;strong&gt;Find the complete export package in the ZIP file here ↓&lt;/strong&gt;&quot;,&quot;note&quot;:&quot;version: v1.0.2\nDOI: 10.5281/ZENODO.5638687&quot;,&quot;publisher&quot;:&quot;Zenodo&quot;,&quot;source&quot;:&quot;DOI.org (Datacite)&quot;,&quot;title&quot;:&quot;OPEN-NEXT/D3.3-Report: v1.0.2&quot;,&quot;title-short&quot;:&quot;OPEN-NEXT/D3.3-Report&quot;,&quot;URL&quot;:&quot;https://zenodo.org/record/5638687&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Häuer&quot;,&quot;given&quot;:&quot;Martin&quot;},{&quot;family&quot;:&quot;Sonika Gogineni&quot;,&quot;given&quot;:&quot;&quot;}],&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2022&quot;,6,7]]},&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2021&quot;,11,2]]},&quot;citation-key&quot;:&quot;hauerOPENNEXTD33Report2021&quot;}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;} RND1EqedQYBZH"/></text:p>
+     <text:p text:style-name="P189"><text:span text:style-name="T55">D3.3 „Wikibase instance demonstrator“ report </text:span><text:reference-mark-start text:name="ZOTERO_ITEM CSL_CITATION {&quot;citationID&quot;:&quot;xZzDVY6L&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;(H\\uc0\\u228{}uer &amp; Sonika Gogineni, 2021)&quot;,&quot;plainCitation&quot;:&quot;(Häuer &amp; Sonika Gogineni, 2021)&quot;,&quot;noteIndex&quot;:0},&quot;citationItems&quot;:[{&quot;id&quot;:416,&quot;uris&quot;:[&quot;http://zotero.org/users/6726287/items/QULE7FNP&quot;],&quot;itemData&quot;:{&quot;id&quot;:416,&quot;type&quot;:&quot;report&quot;,&quot;abstract&quot;:&quot;changelog: minor format changes applied &lt;strong&gt;Find the complete export package in the ZIP file here ↓&lt;/strong&gt;&quot;,&quot;note&quot;:&quot;version: v1.0.2\nDOI: 10.5281/ZENODO.5638687&quot;,&quot;publisher&quot;:&quot;Zenodo&quot;,&quot;source&quot;:&quot;DOI.org (Datacite)&quot;,&quot;title&quot;:&quot;OPEN-NEXT/D3.3-Report: v1.0.2&quot;,&quot;title-short&quot;:&quot;OPEN-NEXT/D3.3-Report&quot;,&quot;URL&quot;:&quot;https://zenodo.org/record/5638687&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Häuer&quot;,&quot;given&quot;:&quot;Martin&quot;},{&quot;family&quot;:&quot;Sonika Gogineni&quot;,&quot;given&quot;:&quot;&quot;}],&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2022&quot;,6,7]]},&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2021&quot;,11,2]]},&quot;citation-key&quot;:&quot;hauerOPENNEXTD33Report2021&quot;}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;} RND1EqedQYBZH"/><text:span text:style-name="T50">(Häuer &amp; Sonika Gogineni, 2021)</text:span><text:reference-mark-end text:name="ZOTERO_ITEM CSL_CITATION {&quot;citationID&quot;:&quot;xZzDVY6L&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;(H\\uc0\\u228{}uer &amp; Sonika Gogineni, 2021)&quot;,&quot;plainCitation&quot;:&quot;(Häuer &amp; Sonika Gogineni, 2021)&quot;,&quot;noteIndex&quot;:0},&quot;citationItems&quot;:[{&quot;id&quot;:416,&quot;uris&quot;:[&quot;http://zotero.org/users/6726287/items/QULE7FNP&quot;],&quot;itemData&quot;:{&quot;id&quot;:416,&quot;type&quot;:&quot;report&quot;,&quot;abstract&quot;:&quot;changelog: minor format changes applied &lt;strong&gt;Find the complete export package in the ZIP file here ↓&lt;/strong&gt;&quot;,&quot;note&quot;:&quot;version: v1.0.2\nDOI: 10.5281/ZENODO.5638687&quot;,&quot;publisher&quot;:&quot;Zenodo&quot;,&quot;source&quot;:&quot;DOI.org (Datacite)&quot;,&quot;title&quot;:&quot;OPEN-NEXT/D3.3-Report: v1.0.2&quot;,&quot;title-short&quot;:&quot;OPEN-NEXT/D3.3-Report&quot;,&quot;URL&quot;:&quot;https://zenodo.org/record/5638687&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Häuer&quot;,&quot;given&quot;:&quot;Martin&quot;},{&quot;family&quot;:&quot;Sonika Gogineni&quot;,&quot;given&quot;:&quot;&quot;}],&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2022&quot;,6,7]]},&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2021&quot;,11,2]]},&quot;citation-key&quot;:&quot;hauerOPENNEXTD33Report2021&quot;}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;} RND1EqedQYBZH"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P186">D3.4 „Populated database“ report <text:span text:style-name="T58">xxx</text:span></text:p>
+     <text:p text:style-name="P188">D3.4 „Populated database“ report <text:span text:style-name="T58">xxx</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P36">Table <text:sequence text:ref-name="refTable0" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">1</text:sequence>: Overview of <text:span text:style-name="T55">validation </text:span>methods <text:span text:style-name="T55">per tool</text:span></text:p>
@@ -8317,7 +8314,7 @@
     <table:table-column table:style-name="Table7.A"/>
     <table:table-column table:style-name="Table7.B"/>
     <table:table-column table:style-name="Table7.C"/>
-    <table:table-row table:style-name="TableLine94463085434208">
+    <table:table-row table:style-name="TableLine94511110868064">
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
       <text:p text:style-name="P27">Tool</text:p>
      </table:table-cell>
@@ -8328,7 +8325,7 @@
       <text:p text:style-name="P27">Related deliverable</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085616544">
+    <table:table-row table:style-name="TableLine94511111512192">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">Wikifactory <text:span text:style-name="T58">frontend</text:span></text:p>
      </table:table-cell>
@@ -8339,7 +8336,7 @@
       <text:p text:style-name="P54">D3.2</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085618608">
+    <table:table-row table:style-name="TableLine94511111514256">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">Wikifactory Request-for-quotation system</text:p>
      </table:table-cell>
@@ -8350,7 +8347,7 @@
       <text:p text:style-name="P54">D3.2</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085619440">
+    <table:table-row table:style-name="TableLine94511111515088">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">Wikifactory import/export tool</text:p>
      </table:table-cell>
@@ -8361,7 +8358,7 @@
       <text:p text:style-name="P54"/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085620304">
+    <table:table-row table:style-name="TableLine94511111515952">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">Dashboard</text:p>
      </table:table-cell>
@@ -8372,7 +8369,7 @@
       <text:p text:style-name="P54">D2.2</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085621328">
+    <table:table-row table:style-name="TableLine94511111516976">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">Skill-based matchmaking</text:p>
      </table:table-cell>
@@ -8383,7 +8380,7 @@
       <text:p text:style-name="P54">D3.2</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085622224">
+    <table:table-row table:style-name="TableLine94511111517872">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">ML-based identification of <text:s/><text:soft-page-break/>production metadata</text:p>
      </table:table-cell>
@@ -8394,7 +8391,7 @@
       <text:p text:style-name="P54">D3.2</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085623168">
+    <table:table-row table:style-name="TableLine94511111518816">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">LOSH search</text:p>
      </table:table-cell>
@@ -8405,7 +8402,7 @@
       <text:p text:style-name="P54">D3.3/D3.4</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085624112">
+    <table:table-row table:style-name="TableLine94511111519760">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P81">LOSH backend<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
          <text:p text:style-name="P88"><text:span text:style-name="T61">This i</text:span>ncludes the following software modules: Wikibase, RDF2WB, Appropedia scraper and the crawler modules for GitHub, Wikifactory, OSHWA and Thingiverse including all related scripts.</text:p></text:note-body></text:note></text:p>
@@ -8417,7 +8414,7 @@
       <text:p text:style-name="P55">D3.3/D3.4</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085624976">
+    <table:table-row table:style-name="TableLine94511111520624">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">LOSH <text:span text:style-name="T56">manifest file creator</text:span></text:p>
      </table:table-cell>
@@ -8428,7 +8425,7 @@
       <text:p text:style-name="P54">D3.4</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085625920">
+    <table:table-row table:style-name="TableLine94511111521568">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">OSH <text:span text:style-name="T58">repository checker</text:span></text:p>
      </table:table-cell>
@@ -8439,7 +8436,7 @@
       <text:p text:style-name="P54">D3.3</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463085627392">
+    <table:table-row table:style-name="TableLine94511111523040">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
       <text:p text:style-name="P54">LOSH reporter</text:p>
      </table:table-cell>
@@ -8484,12 +8481,12 @@
    <text:p text:style-name="P9">In the OSH community, there are several methods for collecting and documenting information about projects. The style and structure are different and result in unstructured documentation. It is impossible for collaborators to get an overview of the project and obtain necessary information without reading the entire documentation. To tackle this challenge, an application is created that uses Named Entity Recognition (NER) to identify selected metadata properties of LOSH, namely manufacturing process, machine type, material, and dimensions. The NER algorithm is created by running the NER detection model from spacy (spacy.io). The model is evaluated with some test websites from Appropedia (appropedia.org) and the accuracy values are obtained.</text:p>
    <text:h text:style-name="P11" text:outline-level="4">Validation method</text:h>
    <text:p text:style-name="P135">Validation was performed for the two aspects of the solution:</text:p>
-   <text:list xml:id="list518899698" text:style-name="L2">
+   <text:list xml:id="list4052395099" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P198"><text:soft-page-break/>Word Cloud: Appropedia websites were identified for the word cloud. Appropedia websites have a section for keywords that was manually filled in. The automatically generated word clouds are compared to see if they match.</text:p>
+     <text:p text:style-name="P200"><text:soft-page-break/>Word Cloud: Appropedia websites were identified for the word cloud. Appropedia websites have a section for keywords that was manually filled in. The automatically generated word clouds are compared to see if they match.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P198"><text:span text:style-name="T3">NER algorithm: NER is evaluated based on the precision, recall and f-score of the training model. The hyperparameters of the model are set to obtain the best </text:span><text:span text:style-name="T17">accuracy </text:span><text:span text:style-name="T3">values.</text:span></text:p>
+     <text:p text:style-name="P200"><text:span text:style-name="T3">NER algorithm: NER is evaluated based on the precision, recall and f-score of the training model. The hyperparameters of the model are set to obtain the best </text:span><text:span text:style-name="T17">accuracy </text:span><text:span text:style-name="T3">values.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P11" text:outline-level="4">Validation results</text:h>
@@ -12724,176 +12721,12 @@
    <text:h text:style-name="P11" text:outline-level="4">Short <text:span text:style-name="T58">d</text:span>escription</text:h>
    <text:p text:style-name="P115"><text:span text:style-name="T29">Note</text:span><text:span text:style-name="T28">: </text:span><text:span text:style-name="T39">The primary work on the process facilitation dashboard takes place in Open!Next </text:span><text:span text:style-name="T42">T</text:span><text:span text:style-name="T39">2.2 with two deliverables D2.3 and D2.5. Please refer to those deliverables for details on the development, implementation, and delivery of the dashboard. Here, we will briefly describe the overall concept </text:span><text:span text:style-name="T44">of T2.2</text:span><text:span text:style-name="T39">, and the step in D2.5’s development that was </text:span><text:span text:style-name="T43">opportunistically </text:span><text:span text:style-name="T39">validated along with other tools in deliverable D3.5</text:span><text:span text:style-name="T89">.</text:span></text:p>
    <text:p text:style-name="P115">The <text:span text:style-name="T90">T2.2 </text:span><text:span text:style-name="T87">process facilitation</text:span> dashboard concept is a visualisation of various “health” indicators showing the evolution of an OSH project; its design activities; or progress towards success based on project goals. To this end, <text:span text:style-name="T85">T</text:span>2.2 conducted the following phases of development: </text:p>
-   <text:list xml:id="list1892076630" text:style-name="L3">
+   <text:list xml:id="list2557859316" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P188">Proof-of-concept in D2.<text:span text:style-name="T86">3</text:span> where we delivered a technical demonstrator that mines the metadata from various OSH repositories hosted on Wikifactory and GitHub. It calculates metrics related to the health of the projects and shows simple visualisations. This demonstrator puts into action the conceptual workflow of deriving and showing project status metrics. <text:span text:style-name="T86">The fully open source code behind this initial proof-of-concept was published as part of D2.3.</text:span></text:p>
+     <text:p text:style-name="P190">Proof-of-concept in D2.<text:span text:style-name="T86">3</text:span> where we delivered a technical demonstrator that mines the metadata from various OSH repositories hosted on Wikifactory and GitHub. It calculates metrics related to the health of the projects and shows simple visualisations. This demonstrator puts into action the conceptual workflow of deriving and showing project status metrics. <text:span text:style-name="T86">The fully open source code behind this initial proof-of-concept was published as part of D2.3.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P189"><text:soft-page-break/>Re-architect the technical infrastructure of the dashboard with a clear separation between backend and frontend <text:span text:style-name="T91">(Figure x)</text:span>. The backend is a “behind the scenes” application programming interface (API) hosted on a web server. It programmatically receives requests for project health metrics regarding a specific OSH repository hosted on Wikifactory or GitHub. The backend will then query the Wikfactory or GitHub APIs to obtain raw metadata about said repository, calculate the metrics, and send the results. The frontend would be a user-facing web interface that makes API calls to the backend and visualises the information from the backend. T2.2 has developed an updated backend for this purpose to be delivered in D2.5. It will also include a demo frontend as a technical demonstrator of the capabilities, plus a “real life” implementation of the frontend by Wikifactory and put into production on their platform. <text:span text:style-name="T86"><text:line-break/></text:span><text:span text:style-name="T86"><draw:frame draw:style-name="fr7" draw:name="Image3" text:anchor-type="as-char" svg:width="4.5882in" svg:height="1.8445in" draw:z-index="107"><draw:image draw:mime-type="image/svg+xml">
-         <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+
-          CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8p
-          IC0tPgoKPHN2ZwogICB3aWR0aD0iMjI5LjM4NDcybW0iCiAgIGhlaWdodD0iOTIuMjIwNzQ5
-          bW0iCiAgIHZpZXdCb3g9IjAgMCA4NjYuOTY1ODggMzQ4LjU1MDg3IgogICB2ZXJzaW9uPSIx
-          LjEiCiAgIGlkPSJzdmc1IgogICBpbmtzY2FwZTp2ZXJzaW9uPSIxLjIuMSAoOWM2ZDQxZTQx
-          MCwgMjAyMi0wNy0xNCkiCiAgIHNvZGlwb2RpOmRvY25hbWU9ImRhc2hib2FyZCBhcmNoaXRl
-          Y3R1cmUuc3ZnIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcv
-          bmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9k
-          aS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDov
-          L3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcv
-          MjAwMC9zdmciCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1y
-          ZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6Y2M9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3Jn
-          L25zIyIKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIj4K
-          ICA8c29kaXBvZGk6bmFtZWR2aWV3CiAgICAgaWQ9Im5hbWVkdmlldzciCiAgICAgcGFnZWNv
-          bG9yPSIjZmZmZmZmIgogICAgIGJvcmRlcmNvbG9yPSIjNjY2NjY2IgogICAgIGJvcmRlcm9w
-          YWNpdHk9IjEuMCIKICAgICBpbmtzY2FwZTpzaG93cGFnZXNoYWRvdz0iMiIKICAgICBpbmtz
-          Y2FwZTpwYWdlb3BhY2l0eT0iMC4wIgogICAgIGlua3NjYXBlOnBhZ2VjaGVja2VyYm9hcmQ9
-          IjAiCiAgICAgaW5rc2NhcGU6ZGVza2NvbG9yPSIjZDFkMWQxIgogICAgIGlua3NjYXBlOmRv
-          Y3VtZW50LXVuaXRzPSJtbSIKICAgICBzaG93Z3JpZD0iZmFsc2UiCiAgICAgaW5rc2NhcGU6
-          em9vbT0iMS4xODkzNjUxIgogICAgIGlua3NjYXBlOmN4PSI0NTQuMDIzNzYiCiAgICAgaW5r
-          c2NhcGU6Y3k9IjI4MC44MjIxIgogICAgIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTkyMCIK
-          ICAgICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSIxMTM2IgogICAgIGlua3NjYXBlOndpbmRv
-          dy14PSIwIgogICAgIGlua3NjYXBlOndpbmRvdy15PSIyNyIKICAgICBpbmtzY2FwZTp3aW5k
-          b3ctbWF4aW1pemVkPSIxIgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9ImxheWVyMSIg
-          Lz4KICA8ZGVmcwogICAgIGlkPSJkZWZzMiI+CiAgICA8cmVjdAogICAgICAgeD0iMjgxLjEz
-          NDgiCiAgICAgICB5PSI1OS40NjAxMTQiCiAgICAgICB3aWR0aD0iMTY5LjU5MzI4IgogICAg
-          ICAgaGVpZ2h0PSI2My44NDk1MjUiCiAgICAgICBpZD0icmVjdDE1NTMiIC8+CiAgICA8bWFy
-          a2VyCiAgICAgICBzdHlsZT0ib3ZlcmZsb3c6dmlzaWJsZSIKICAgICAgIGlkPSJUcmlhbmds
-          ZVN0YXJ0IgogICAgICAgcmVmWD0iMCIKICAgICAgIHJlZlk9IjAiCiAgICAgICBvcmllbnQ9
-          ImF1dG8tc3RhcnQtcmV2ZXJzZSIKICAgICAgIGlua3NjYXBlOnN0b2NraWQ9IlRyaWFuZ2xl
-          U3RhcnQiCiAgICAgICBtYXJrZXJXaWR0aD0iNS4zMjQ0MDgxIgogICAgICAgbWFya2VySGVp
-          Z2h0PSI2LjE1NTM4NSIKICAgICAgIHZpZXdCb3g9IjAgMCA1LjMyNDQwODEgNi4xNTUzODUx
-          IgogICAgICAgaW5rc2NhcGU6aXNzdG9jaz0idHJ1ZSIKICAgICAgIGlua3NjYXBlOmNvbGxl
-          Y3Q9ImFsd2F5cyIKICAgICAgIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KICAg
-          ICAgPHBhdGgKICAgICAgICAgdHJhbnNmb3JtPSJzY2FsZSgwLjUpIgogICAgICAgICBzdHls
-          ZT0iZmlsbDpjb250ZXh0LXN0cm9rZTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6Y29udGV4
-          dC1zdHJva2U7c3Ryb2tlLXdpZHRoOjFwdCIKICAgICAgICAgZD0iTSA1Ljc3LDAgLTIuODgs
-          NSBWIC01IFoiCiAgICAgICAgIGlkPSJwYXRoMTM1IiAvPgogICAgPC9tYXJrZXI+CiAgICA8
-          cmVjdAogICAgICAgeD0iMzE3LjIwNDkzIgogICAgICAgeT0iNDA3LjE2MDU4IgogICAgICAg
-          d2lkdGg9IjYzMS42ODc1IgogICAgICAgaGVpZ2h0PSIxNjMuMjM1NjEiCiAgICAgICBpZD0i
-          cmVjdDExNjgiIC8+CiAgICA8cmVjdAogICAgICAgeD0iMjA3LjI2OTIzIgogICAgICAgeT0i
-          MjA5LjgyNzE5IgogICAgICAgd2lkdGg9IjMwMi43MDU4MSIKICAgICAgIGhlaWdodD0iNTcu
-          OTM3OTg4IgogICAgICAgaWQ9InJlY3QxMDA0IiAvPgogICAgPHJlY3QKICAgICAgIHg9IjIw
-          Ny4yNjkyMyIKICAgICAgIHk9IjIwOS44MjcxOSIKICAgICAgIHdpZHRoPSIzMDIuNzA1ODEi
-          CiAgICAgICBoZWlnaHQ9IjU3LjkzNzk4OCIKICAgICAgIGlkPSJyZWN0MTExMCIgLz4KICAg
-          IDxyZWN0CiAgICAgICB4PSIyODEuMTM0OCIKICAgICAgIHk9IjU5LjQ2MDExNCIKICAgICAg
-          IHdpZHRoPSIyNzAuNzk3NjEiCiAgICAgICBoZWlnaHQ9IjYyLjI1MzA0OCIKICAgICAgIGlk
-          PSJyZWN0MTcwNSIgLz4KICA8L2RlZnM+CiAgPGcKICAgICBpbmtzY2FwZTpsYWJlbD0iTGF5
-          ZXIgMSIKICAgICBpbmtzY2FwZTpncm91cG1vZGU9ImxheWVyIgogICAgIGlkPSJsYXllcjEi
-          CiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEyNS44NjAxMywtNjUuNjg3Njc2KSI+CiAg
-          ICA8ZwogICAgICAgaWQ9ImcxOTA2Ij4KICAgICAgPGcKICAgICAgICAgaWQ9ImcxMTAwIgog
-          ICAgICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDEwNS4wNzM5NSkiPgogICAgICAgIDxy
-          ZWN0CiAgICAgICAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6IzAwMDAwMDtzdHJva2Ut
-          d2lkdGg6Mi44MDA1O3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utb3BhY2l0eToxIgog
-          ICAgICAgICAgIGlkPSJyZWN0MTYzIgogICAgICAgICAgIHdpZHRoPSIzMzQuNDc3MTQiCiAg
-          ICAgICAgICAgaGVpZ2h0PSIxNjYuMzUzNDciCiAgICAgICAgICAgeD0iMTI3LjI2MDM4Igog
-          ICAgICAgICAgIHk9IjE0MS40MTA4NyIKICAgICAgICAgICByeT0iMjIuNzEwMjc0IiAvPgog
-          ICAgICAgIDx0ZXh0CiAgICAgICAgICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgICAgICAg
-          ICBpZD0idGV4dDEwMDIiCiAgICAgICAgICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2Zv
-          bnQtd2VpZ2h0Om5vcm1hbDtmb250LXNpemU6NDBweDtsaW5lLWhlaWdodDoxLjI1O2ZvbnQt
-          ZmFtaWx5OnNhbnMtc2VyaWY7d2hpdGUtc3BhY2U6cHJlO3NoYXBlLWluc2lkZTp1cmwoI3Jl
-          Y3QxMDA0KTtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmUiCiAgICAg
-          ICAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTUwLjY2MTIxMSwtOC4zNjU1MTI0KSI+PHRz
-          cGFuCiAgICAgICAgICAgICB4PSIyMDcuMjY5NTMiCiAgICAgICAgICAgICB5PSIyNDcuMzI4
-          MTIiCiAgICAgICAgICAgICBpZD0idHNwYW4zNDcyIj48dHNwYW4KICAgICAgICAgICAgICAg
-          c3R5bGU9ImZvbnQtZmFtaWx5OidSb3V0ZWQgR290aGljIFdpZGUnOy1pbmtzY2FwZS1mb250
-          LXNwZWNpZmljYXRpb246J1JvdXRlZCBHb3RoaWMgV2lkZSciCiAgICAgICAgICAgICAgIGlk
-          PSJ0c3BhbjM0NzAiPkZST05URU5EPC90c3Bhbj48L3RzcGFuPjwvdGV4dD4KICAgICAgPC9n
-          PgogICAgICA8ZwogICAgICAgICBpZD0iZzExMDgiCiAgICAgICAgIHRyYW5zZm9ybT0idHJh
-          bnNsYXRlKDQyNi43NDE5NSwxMDUuMDczOTUpIj4KICAgICAgICA8cmVjdAogICAgICAgICAg
-          IHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjIuODAwNTtz
-          dHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgICAgICBpZD0i
-          cmVjdDExMDIiCiAgICAgICAgICAgd2lkdGg9IjMzNC40NzcxNCIKICAgICAgICAgICBoZWln
-          aHQ9IjE2Ni4zNTM0NyIKICAgICAgICAgICB4PSIyMzAuMjA2NjgiCiAgICAgICAgICAgeT0i
-          MTQxLjQxMDg3IgogICAgICAgICAgIHJ5PSIyMi43MTAyNzQiIC8+CiAgICAgICAgPHRleHQK
-          ICAgICAgICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgICAgICAgIGlkPSJ0ZXh0MTEw
-          NiIKICAgICAgICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC13ZWlnaHQ6bm9y
-          bWFsO2ZvbnQtc2l6ZTo0MHB4O2xpbmUtaGVpZ2h0OjEuMjU7Zm9udC1mYW1pbHk6c2Fucy1z
-          ZXJpZjt3aGl0ZS1zcGFjZTpwcmU7c2hhcGUtaW5zaWRlOnVybCgjcmVjdDExMTApO2ZpbGw6
-          IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZSIKICAgICAgICAgICB0cmFuc2Zv
-          cm09InRyYW5zbGF0ZSg3MS45MTQwMDgsLTguMzY1NTEyNCkiPjx0c3BhbgogICAgICAgICAg
-          ICAgeD0iMjA3LjI2OTUzIgogICAgICAgICAgICAgeT0iMjQ3LjMyODEyIgogICAgICAgICAg
-          ICAgaWQ9InRzcGFuMzQ3NiI+PHRzcGFuCiAgICAgICAgICAgICAgIHN0eWxlPSJmb250LWZh
-          bWlseTonUm91dGVkIEdvdGhpYyBXaWRlJzstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9u
-          OidSb3V0ZWQgR290aGljIFdpZGUnIgogICAgICAgICAgICAgICBpZD0idHNwYW4zNDc0Ij5C
-          QUNLRU5EPC90c3Bhbj48L3RzcGFuPjwvdGV4dD4KICAgICAgICA8cmVjdAogICAgICAgICAg
-          IHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOiMwMDAwMDA7c3Ry
-          b2tlLXdpZHRoOjEuODg5NzY7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1vcGFjaXR5
-          OjEiCiAgICAgICAgICAgaWQ9InJlY3QxMTY0IgogICAgICAgICAgIHdpZHRoPSI0OC4wOTA1
-          MDQiCiAgICAgICAgICAgaGVpZ2h0PSIxMjUuNDY0OTkiCiAgICAgICAgICAgeD0iMjA2LjAy
-          ODU5IgogICAgICAgICAgIHk9IjE2MS44NTUxMiIKICAgICAgICAgICByeT0iMCIgLz4KICAg
-          ICAgICA8dGV4dAogICAgICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgICAgICAg
-          dHJhbnNmb3JtPSJtYXRyaXgoMCwtMS4yMjE5NTk0LDEuMjIxOTU5NCwwLC0yODIuODc2MDIs
-          NjYxLjQwNTEzKSIKICAgICAgICAgICBpZD0idGV4dDExNjYiCiAgICAgICAgICAgc3R5bGU9
-          ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXNpemU6MjEuODIy
-          OXB4O2xpbmUtaGVpZ2h0OjEuMjU7Zm9udC1mYW1pbHk6c2Fucy1zZXJpZjt3aGl0ZS1zcGFj
-          ZTpwcmU7c2hhcGUtaW5zaWRlOnVybCgjcmVjdDExNjgpO2ZpbGw6IzAwMDAwMDtmaWxsLW9w
-          YWNpdHk6MTtzdHJva2U6bm9uZSI+PHRzcGFuCiAgICAgICAgICAgICB4PSIzMTcuMjA1MDgi
-          CiAgICAgICAgICAgICB5PSI0MjcuNjE5MTMiCiAgICAgICAgICAgICBpZD0idHNwYW4zNDgw
-          Ij48dHNwYW4KICAgICAgICAgICAgICAgc3R5bGU9ImZvbnQtZmFtaWx5OidSb3V0ZWQgR290
-          aGljIE5hcnJvdyc7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjonUm91dGVkIEdvdGhp
-          YyBOYXJyb3cnIgogICAgICAgICAgICAgICBpZD0idHNwYW4zNDc4Ij5SRVNUIEFQSTwvdHNw
-          YW4+PC90c3Bhbj48L3RleHQ+CiAgICAgIDwvZz4KICAgICAgPHBhdGgKICAgICAgICAgc3R5
-          bGU9ImZpbGw6bm9uZTtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6NS42NjkyOTtzdHJv
-          a2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2UtZGFzaGFycmF5
-          Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MTttYXJrZXItZW5kOnVybCgjVHJpYW5nbGVTdGFydCki
-          CiAgICAgICAgIGQ9Ik0gNjMzLjUwMTA4LDMyOS42NjE1NiBIIDQ4My4wNjEwNyIKICAgICAg
-          ICAgaWQ9InBhdGgxMjgyIiAvPgogICAgICA8ZwogICAgICAgICBpZD0iZzE4MjMiCiAgICAg
-          ICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMwLjU3NjU3Nyw3LjEzNTYzNzgpIj4KICAgICAg
-          ICA8dGV4dAogICAgICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgICAgICAgaWQ9
-          InRleHQxNTUxIgogICAgICAgICAgIHN0eWxlPSJmb250LXN0eWxlOm5vcm1hbDtmb250LXdl
-          aWdodDpub3JtYWw7Zm9udC1zaXplOjQ1LjMzMzNweDtsaW5lLWhlaWdodDoxLjI1O2ZvbnQt
-          ZmFtaWx5OnNhbnMtc2VyaWY7d2hpdGUtc3BhY2U6cHJlO3NoYXBlLWluc2lkZTp1cmwoI3Jl
-          Y3QxNTUzKTtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmUiCiAgICAg
-          ICAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDA0LjMxMjg3LDU2Ljk0NDk2MykiPjx0c3Bh
-          bgogICAgICAgICAgICAgeD0iMjgxLjEzNDc3IgogICAgICAgICAgICAgeT0iOTkuNTcwMjg0
-          IgogICAgICAgICAgICAgaWQ9InRzcGFuMzQ4NCI+PHRzcGFuCiAgICAgICAgICAgICAgIHN0
-          eWxlPSJmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OidOaW1idXMgU2Fucyc7LWlua3Nj
-          YXBlLWZvbnQtc3BlY2lmaWNhdGlvbjonTmltYnVzIFNhbnMgQm9sZCciCiAgICAgICAgICAg
-          ICAgIGlkPSJ0c3BhbjM0ODIiPkdpdEh1YjwvdHNwYW4+PC90c3Bhbj48L3RleHQ+CiAgICAg
-          ICAgPHRleHQKICAgICAgICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgICAgICAgIGlk
-          PSJ0ZXh0MTcwMyIKICAgICAgICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC13
-          ZWlnaHQ6bm9ybWFsO2ZvbnQtc2l6ZTo0NS4zMzMzcHg7bGluZS1oZWlnaHQ6MS4yNTtmb250
-          LWZhbWlseTpzYW5zLXNlcmlmO3doaXRlLXNwYWNlOnByZTtzaGFwZS1pbnNpZGU6dXJsKCNy
-          ZWN0MTcwNSk7ZmlsbDojMDAwMDAwO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lIgogICAg
-          ICAgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQwNS42Mjc1NCwtNy45NzAyNjk3KSI+PHRz
-          cGFuCiAgICAgICAgICAgICB4PSIyODEuMTM0NzciCiAgICAgICAgICAgICB5PSI5OS41NzAy
-          ODQiCiAgICAgICAgICAgICBpZD0idHNwYW4zNDg4Ij48dHNwYW4KICAgICAgICAgICAgICAg
-          c3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6J05pbWJ1cyBTYW5zJzstaW5r
-          c2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOidOaW1idXMgU2FucyBCb2xkJyIKICAgICAgICAg
-          ICAgICAgaWQ9InRzcGFuMzQ4NiI+V2lraWZhY3Rvcnk8L3RzcGFuPjwvdHNwYW4+PC90ZXh0
-          PgogICAgICA8L2c+CiAgICAgIDxwYXRoCiAgICAgICAgIHN0eWxlPSJmaWxsOm5vbmU7c3Ry
-          b2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjUuNjY5Mjk7c3Ryb2tlLWxpbmVjYXA6YnV0dDtz
-          dHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1vcGFj
-          aXR5OjE7bWFya2VyLWVuZDp1cmwoI1RyaWFuZ2xlU3RhcnQpIgogICAgICAgICBkPSJtIDgw
-          NS4zNDk4NiwxODQuMDE2ODMgdiA0Mi4yOTEyIgogICAgICAgICBpZD0icGF0aDE4MjUiIC8+
-          CiAgICAgIDxwYXRoCiAgICAgICAgIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7
-          c3Ryb2tlLXdpZHRoOjUuNjY5Mjk7c3Ryb2tlLWxpbmVjYXA6YnV0dDtzdHJva2UtbGluZWpv
-          aW46bWl0ZXI7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1vcGFjaXR5OjE7bWFya2Vy
-          LWVuZDp1cmwoI1RyaWFuZ2xlU3RhcnQpIgogICAgICAgICBkPSJNIDkwNC41NTg2NiwxMjMu
-          OTE2NzUgViAyMjUuNTE5MzkiCiAgICAgICAgIGlkPSJwYXRoMTgzOSIgLz4KICAgIDwvZz4K
-          ICA8L2c+CiAgPG1ldGFkYXRhCiAgICAgaWQ9Im1ldGFkYXRhMjI5MSI+CiAgICA8cmRmOlJE
-          Rj4KICAgICAgPGNjOldvcmsKICAgICAgICAgcmRmOmFib3V0PSIiPgogICAgICAgIDxjYzps
-          aWNlbnNlCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vY3JlYXRpdmVjb21tb25z
-          Lm9yZy9saWNlbnNlcy9ieS1zYS80LjAvIiAvPgogICAgICAgIDxkYzpjcmVhdG9yPgogICAg
-          ICAgICAgPGNjOkFnZW50PgogICAgICAgICAgICA8ZGM6dGl0bGU+UGVuLVl1YW4gSHNpbmc8
-          L2RjOnRpdGxlPgogICAgICAgICAgPC9jYzpBZ2VudD4KICAgICAgICA8L2RjOmNyZWF0b3I+
-          CiAgICAgIDwvY2M6V29yaz4KICAgICAgPGNjOkxpY2Vuc2UKICAgICAgICAgcmRmOmFib3V0
-          PSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1zYS80LjAvIj4KICAg
-          ICAgICA8Y2M6cGVybWl0cwogICAgICAgICAgIHJkZjpyZXNvdXJjZT0iaHR0cDovL2NyZWF0
-          aXZlY29tbW9ucy5vcmcvbnMjUmVwcm9kdWN0aW9uIiAvPgogICAgICAgIDxjYzpwZXJtaXRz
-          CiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9u
-          cyNEaXN0cmlidXRpb24iIC8+CiAgICAgICAgPGNjOnJlcXVpcmVzCiAgICAgICAgICAgcmRm
-          OnJlc291cmNlPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyNOb3RpY2UiIC8+CiAg
-          ICAgICAgPGNjOnJlcXVpcmVzCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vY3Jl
-          YXRpdmVjb21tb25zLm9yZy9ucyNBdHRyaWJ1dGlvbiIgLz4KICAgICAgICA8Y2M6cGVybWl0
-          cwogICAgICAgICAgIHJkZjpyZXNvdXJjZT0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcv
-          bnMjRGVyaXZhdGl2ZVdvcmtzIiAvPgogICAgICAgIDxjYzpyZXF1aXJlcwogICAgICAgICAg
-          IHJkZjpyZXNvdXJjZT0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjU2hhcmVBbGlr
-          ZSIgLz4KICAgICAgPC9jYzpMaWNlbnNlPgogICAgPC9yZGY6UkRGPgogIDwvbWV0YWRhdGE+
-          Cjwvc3ZnPgo=
-         </office:binary-data>
-        </draw:image>
-        <draw:image draw:mime-type="image/png">
+     <text:p text:style-name="P191"><text:soft-page-break/>Re-architect the technical infrastructure of the dashboard with a clear separation between backend and frontend <text:span text:style-name="T91">(Figure x)</text:span>. The backend is a “behind the scenes” application programming interface (API) hosted on a web server. It programmatically receives requests for project health metrics regarding a specific OSH repository hosted on Wikifactory or GitHub. The backend will then query the Wikfactory or GitHub APIs to obtain raw metadata about said repository, calculate the metrics, and send the results. The frontend would be a user-facing web interface that makes API calls to the backend and visualises the information from the backend. T2.2 has developed an updated backend for this purpose to be delivered in D2.5. It will also include a demo frontend as a technical demonstrator of the capabilities, plus a “real life” implementation of the frontend by Wikifactory and put into production on their platform. <text:span text:style-name="T86"><text:line-break/></text:span><text:span text:style-name="T86"><draw:frame draw:style-name="fr7" draw:name="Image3" text:anchor-type="as-char" svg:width="4.5882in" svg:height="1.8445in" draw:z-index="107"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA2MAAAFdCAYAAACO3rX9AABgJklEQVR4nO3dB5gT1dfH8QBL
           B+kqShOkCoKASJVeBKQIiIAi0juIojRFkI5IU7rSpEgRUFE6KE3pTSlSBEGQKtL7u799n+E/
           xpndJJvsJOz38zyBZCaZubvJTubMPffcsHv37rkAAADguSVLllR54YUXvrdalydPnl9/+eWX
@@ -13356,13 +13189,13 @@
        </draw:frame></text:span><text:span text:style-name="T86"><text:line-break/></text:span><text:span text:style-name="T34">Figure x.</text:span><text:span text:style-name="T91"> Updated technical architecture for T2.2 process facilitation dashboard.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P189">With the goal of delivering dashboard elements integrated into Wikifactory, we conducted a requirements capture study. This was done with OSH experts within Open!Next and Wikifactory as a practice partner. During this process, we enumerated (a) nine key stakeholder types related to Wikfactory; (b) six categories of information needs by those stakeholders; and (c) 50 possible dashboard features which fulfil the information needs (and, by extension, the stakeholders). Of the 50 features, we prioritised a list of the top 10 through a focus group including Wikifactory. Of the 10, two were implemented as a starting point for the next phase.</text:p>
+     <text:p text:style-name="P191">With the goal of delivering dashboard elements integrated into Wikifactory, we conducted a requirements capture study. This was done with OSH experts within Open!Next and Wikifactory as a practice partner. During this process, we enumerated (a) nine key stakeholder types related to Wikfactory; (b) six categories of information needs by those stakeholders; and (c) 50 possible dashboard features which fulfil the information needs (and, by extension, the stakeholders). Of the 50 features, we prioritised a list of the top 10 through a focus group including Wikifactory. Of the 10, two were implemented as a starting point for the next phase.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P190">Conduct <text:span text:style-name="T87">evaluations in the form of </text:span>online surveys and validation events coordinated between T2.2 and T3.1. For the T2.2 dashboard, these actions serve to obtain feedback from OSH practitioners on the 10 features from the requirements capture study. The feedback can then be used to order the 10 features for them to be developed and implemented in a stepwise faction by Wikifactory.</text:p>
+     <text:p text:style-name="P192">Conduct <text:span text:style-name="T87">evaluations in the form of </text:span>online surveys and validation events coordinated between T2.2 and T3.1. For the T2.2 dashboard, these actions serve to obtain feedback from OSH practitioners on the 10 features from the requirements capture study. The feedback can then be used to order the 10 features for them to be developed and implemented in a stepwise faction by Wikifactory.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P189"><text:soft-page-break/>As Wikifactory continues to implement the 10 <text:span text:style-name="T86">dashboard features and put </text:span><text:span text:style-name="T87">more of</text:span><text:span text:style-name="T86"> them into production, T2.2 has produced a new demo frontend that shows a comparable set of dashboard features but derived from OSH repositories hosted on GitHub. This demonstrates the applicability of the dashboard beyond GitHub, and provides an actionable blueprint for other platforms. In addition, individual OSH projects can selectively self-host the stack, frontend and/or backend, to implement the dashboard on their own. </text:span><text:span text:style-name="T87">Please refer to D2.5 for details.</text:span></text:p>
+     <text:p text:style-name="P191"><text:soft-page-break/>As Wikifactory continues to implement the 10 <text:span text:style-name="T86">dashboard features and put </text:span><text:span text:style-name="T87">more of</text:span><text:span text:style-name="T86"> them into production, T2.2 has produced a new demo frontend that shows a comparable set of dashboard features but derived from OSH repositories hosted on GitHub. This demonstrates the applicability of the dashboard beyond GitHub, and provides an actionable blueprint for other platforms. In addition, individual OSH projects can selectively self-host the stack, frontend and/or backend, to implement the dashboard on their own. </text:span><text:span text:style-name="T87">Please refer to D2.5 for details.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P113"><text:span text:style-name="T86">As mentioned above in 4., T2.2 conducted various evaluations of the dashboard features. As part of that effort, T2.2 joined a validation day hosted by T3.1 involving OSH practitioners. </text:span>The rest of this section will describe the specific validation effort taken by T2.2 to make use of the validation day organised by T3.1 to obtain feedback.</text:p>
@@ -13372,23 +13205,23 @@
      <dc:creator>Pen-Yuan Hsing</dc:creator>
      <dc:date>2022-08-01T18:39:21.894335434</dc:date>
      <meta:creator-initials>PYH</meta:creator-initials>
-     <text:p text:style-name="P208"><text:span text:style-name="T93">@Moe: I think detailed implementation details of the validation day would already be described before this section? If so, I don’t think we need to repeat it here. Let me know if I should change something.</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T94">@Moe: I think detailed implementation details of the validation day would already be described before this section? If so, I don’t think we need to repeat it here. Let me know if I should change something.</text:span></text:p>
     </office:annotation>This validation day occurred on <text:span text:style-name="T87">27 May 2022 where T3.1 invited OSH practitioners both within and outside of the Open!Next project. </text:span><text:span text:style-name="T91">Details are described earlier in this report</text:span><text:span text:style-name="T87">. </text:span><office:annotation-end office:name="__Annotation__3613_284868590"/><text:span text:style-name="T91">The validation day</text:span><text:span text:style-name="T87"> was an interactive virtual session to provide feedback on design concepts of T2.2 dashboard features and ICT tools developed by WP3</text:span>.</text:p>
    <text:p text:style-name="P118">During the validation day, about one hour was dedicated to feedback about the dashboard. Participants were shown screenshots or mockups and given to chance to provide verbal feedback, plus complete an online survey to give written feedback and scores <text:span text:style-name="T91">and rankings</text:span> to each feature.</text:p>
    <text:h text:style-name="P61" text:outline-level="4">Validation results</text:h>
    <text:p text:style-name="P160"><text:span text:style-name="T22">Note</text:span><text:span text:style-name="T21">: </text:span><text:span text:style-name="T24">D</text:span><text:span text:style-name="T23">etailed results are in D2.5</text:span><text:span text:style-name="T3">.</text:span></text:p>
    <text:p text:style-name="P161">Also, the validation day confirmed that the two initial features <text:span text:style-name="T87">planned</text:span> by T2.2 <text:span text:style-name="T87">to be deployed</text:span> into production on Wikifactory are generally useful for OSH practitioners. <text:span text:style-name="T87">These features</text:span> are: </text:p>
-   <text:list xml:id="list10441786" text:style-name="L4">
+   <text:list xml:id="list2747504486" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P199">Detailed license information about a project – In addition to detecting and displaying the name of the open source license (e.g. CERN-OHL-S), high level explanations of each term in the license is displayed in an interactive manner.</text:p>
+     <text:p text:style-name="P201">Detailed license information about a project – In addition to detecting and displaying the name of the open source license (e.g. CERN-OHL-S), high level explanations of each term in the license is displayed in an interactive manner.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P199"><text:soft-page-break/>Breakdown of file types – A visualisation of primary file types in the repository organised by category: electrical CAD, mechanical CAD, images, data, documents, and others. This would give visitors to the project a sense of where its primary work is focused on (e.g. an electrical engineering-focused project).</text:p>
+     <text:p text:style-name="P201"><text:soft-page-break/>Breakdown of file types – A visualisation of primary file types in the repository organised by category: electrical CAD, mechanical CAD, images, data, documents, and others. This would give visitors to the project a sense of where its primary work is focused on (e.g. an electrical engineering-focused project).</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P11" text:outline-level="4">Summary &amp; outlook</text:h>
-   <text:p text:style-name="P205">After the validation. The two initial validated dashboard features described above were implemented on the frontend of Wikifactory, and are now live <text:span text:style-name="T39">in production</text:span>. This frontend is tied into the backend server developed within T2.2, which also demonstrates the practicality of D2.5 in a real-world scenario. The surveys we received feedback for during the validation day also informed a revised version that was more widely distributed to OSH communities. This feedback will allow us to prioritise the other features to be developed in T2.2 and Wikifactory.</text:p>
-   <text:p text:style-name="P206"><text:span text:style-name="T91">While the absolute number of people who completed the survey and attended the validation day was limited, we believe our pioneering efforts are a healthy start given the relative young age of the OSH community especially in contrast to more mature open source software communities.</text:span></text:p>
+   <text:p text:style-name="P163">After the validation, <text:span text:style-name="T92">t</text:span>he two initial validated dashboard features described above were implemented on the frontend of Wikifactory, and are now live <text:span text:style-name="T39">in production</text:span>. This frontend is tied into <text:span text:style-name="T92">a deployment of </text:span>the backend server developed within T2.2, which demonstrates the practicality of D2.5 in a real-world scenario. The surveys we received feedback for during the validation day also informed a revised version that was more widely distributed to OSH communities. This feedback will allow us to prioritise the other features to be developed in T2.2 and Wikifactory.</text:p>
+   <text:p text:style-name="P163">While the absolute number of people who completed the survey and attended the validation day was limited, we believe our pioneering efforts are a healthy start given the relative young age of the OSH community especially in contrast to more mature open source software communities.</text:p>
    <text:p text:style-name="P160">In any case, we have realised, through <text:span text:style-name="T91">T</text:span>2.2 and D2.5, real business value by putting the developed dashboard components into production on Wikifactory to benefit its users. This benefit will continue to materialise, even after the Open!Next project, as more of the prioritised and user-tested features are implemented by Wikifactory.</text:p>
    <text:h text:style-name="P97" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc21728_2159218039"/>Skill-based <text:span text:style-name="T56">m</text:span>atchmaking<text:bookmark-end text:name="__RefHeading___Toc21728_2159218039"/></text:h>
    <text:h text:style-name="P11" text:outline-level="4">Short <text:span text:style-name="T58">d</text:span>escription</text:h>
@@ -13415,54 +13248,54 @@
    <text:h text:style-name="P11" text:outline-level="4">Short <text:span text:style-name="T58">d</text:span>escription</text:h>
    <text:p text:style-name="P43"><text:bookmark text:name="docs-internal-guid-453888dc-7fff-3454-f9a2-c32363360c8c"/>The “Library of Open Source Hardware” (LOSH) features a distributed knowledge base for OSH designs. The knowledge base is fed automatically by a crawler and from different online platforms, automatic quality checks are performed on that data before uploading it.</text:p>
    <text:p text:style-name="P43">LOSH as a free-of-charge online service has been designed to support users to:</text:p>
-   <text:list xml:id="list3123623440" text:style-name="L5">
+   <text:list xml:id="list727933790" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P191">find existing OSH solutions for design reuse or replication;</text:p>
+     <text:p text:style-name="P193">find existing OSH solutions for design reuse or replication;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P191">identify relevant communities in a specific field of technology;</text:p>
+     <text:p text:style-name="P193">identify relevant communities in a specific field of technology;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P191">scan the OSH market faster (e.g. to identify gaps and overlaps) in order to pilot new business cases.</text:p>
+     <text:p text:style-name="P193">scan the OSH market faster (e.g. to identify gaps and overlaps) in order to pilot new business cases.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P152"><office:annotation office:name="__Annotation__3533_512302415" loext:resolved="false">
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-07-26T19:17:45.253389645</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T94">add drawings.odg here</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T94">add drawings.odg here</text:span></text:p>
     </office:annotation><text:span text:style-name="T3">xxx</text:span><office:annotation-end office:name="__Annotation__3533_512302415"/></text:p>
    <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="T3">Target groups of related ICT solutions are OSH communities (including fab labs and SMEs) and platform owners (such as </text:span><text:a xlink:type="simple" xlink:href="https://wikifactory.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">Wikifactory</text:span></text:a><text:span text:style-name="T3">). The knowledge base will be explorable through an intuitive frontend and an advanced query service.</text:span></text:p>
    <text:p text:style-name="P43">For instance, SMEs can use LOSH during ideation to explore what has been done, how and by whom. This helps to:</text:p>
-   <text:list xml:id="list3719565734" text:style-name="L6">
+   <text:list xml:id="list1752967100" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P192">find a feasible design for a specific problem, while considering practical limits visible in existent, similar solutions;</text:p>
+     <text:p text:style-name="P194">find a feasible design for a specific problem, while considering practical limits visible in existent, similar solutions;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P192">reduce development efforts by (possibly) directly copying (parts of) existent solutions for the desired use case;</text:p>
+     <text:p text:style-name="P194">reduce development efforts by (possibly) directly copying (parts of) existent solutions for the desired use case;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P192">get connected with the communities behind relevant solutions in order to collaborate on joint efforts.</text:p>
+     <text:p text:style-name="P194">get connected with the communities behind relevant solutions in order to collaborate on joint efforts.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P43">References (linked)</text:p>
-   <text:list xml:id="list2349595901" text:style-name="L7">
+   <text:list xml:id="list3513178138" text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P200"><text:a xlink:type="simple" xlink:href="https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OKH-LOSH.md" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">Metadata specification</text:span></text:a><text:span text:style-name="T3"> and computable </text:span><text:a xlink:type="simple" xlink:href="https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OKH-LOSH.ttl" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">data model (ontology)</text:span></text:a></text:p>
+     <text:p text:style-name="P203"><text:a xlink:type="simple" xlink:href="https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OKH-LOSH.md" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">Metadata specification</text:span></text:a><text:span text:style-name="T3"> and computable </text:span><text:a xlink:type="simple" xlink:href="https://github.com/OPEN-NEXT/OKH-LOSH/blob/master/OKH-LOSH.ttl" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">data model (ontology)</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P200"><text:a xlink:type="simple" xlink:href="https://losh.ose-germany.de/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">Wikibase instance (backend)</text:span></text:a><text:span text:style-name="T3"> with </text:span><text:a xlink:type="simple" xlink:href="https://losh.ose-germany.de/qs" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">advanced query service</text:span></text:a></text:p>
+     <text:p text:style-name="P203"><text:a xlink:type="simple" xlink:href="https://losh.ose-germany.de/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">Wikibase instance (backend)</text:span></text:a><text:span text:style-name="T3"> with </text:span><text:a xlink:type="simple" xlink:href="https://losh.ose-germany.de/qs" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">advanced query service</text:span></text:a></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">current </text:span><text:a xlink:type="simple" xlink:href="https://zen-stonebraker-a93ddf.netlify.app/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">mock-up of the frontend</text:span></text:a><text:span text:style-name="T3"> (</text:span><text:a xlink:type="simple" xlink:href="https://github.com/wmde/LOSH-Frontend/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">code</text:span></text:a><text:span text:style-name="T3">)</text:span></text:p>
    <text:h text:style-name="P11" text:outline-level="4">Validation method</text:h>
    <text:p text:style-name="P134"><text:span text:style-name="T3">The search functionality of LOSH has been identified a key feature in previous tasks of the work package (for further details please refer to the reports for D3.1 „User stories of collaborative engineering needs“ and D3.3 „Wikibase instance demonstrator“). </text:span><text:span text:style-name="T16">The function has been tested in its production environment (hosted under </text:span><text:a xlink:type="simple" xlink:href="http://losh.opennext.eu/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T16">http://losh.opennext.eu/</text:span></text:a><text:span text:style-name="T16">) by:</text:span></text:p>
-   <text:list xml:id="list1989638767" text:style-name="L8">
+   <text:list xml:id="list3772547896" text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P193"><text:span text:style-name="T67">representatives of the</text:span> target groups to assess the practical value of the tool,</text:p>
+     <text:p text:style-name="P195"><text:span text:style-name="T67">representatives of the</text:span> target groups to assess the practical value of the tool,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P193">internally using the heuristic analysis method resulting in more detailed outputs and suggestions to facilitate further developments and bug fixing.</text:p>
+     <text:p text:style-name="P195">internally using the heuristic analysis method resulting in more detailed outputs and suggestions to facilitate further developments and bug fixing.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P77">Representatives of the target groups (“user testing”) had no or only minor experience with LOSH and related tools and material, such as the OKH-LOSH specification<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
@@ -13470,17 +13303,17 @@
         <dc:creator>Martin Häuer</dc:creator>
         <dc:date>2022-07-26T18:39:30.001977389</dc:date>
         <meta:creator-initials>MH</meta:creator-initials>
-        <text:p text:style-name="P207"><text:span text:style-name="T94">add ref</text:span></text:p>
+        <text:p text:style-name="P208"><text:span text:style-name="T94">add ref</text:span></text:p>
        </office:annotation>d3.3<office:annotation-end office:name="__Annotation__3548_596918137"/>). Users that are familiar with the specification are expected to have a much better understanding of how LOSH tools work and are hence likely to use them differently than users without that knowledge.</text:p></text:note-body></text:note> and where thereby treated as independent users that had no contact with LOSH before the testing.</text:p>
    <text:h text:style-name="P101" text:outline-level="5">User testing</text:h>
    <text:p text:style-name="P63">The user testing with the target groups has been carried out in two sessions:</text:p>
-   <text:list xml:id="list3690358815" text:style-name="L9">
+   <text:list xml:id="list3982335250" text:style-name="L9">
     <text:list-item>
-     <text:p text:style-name="P194"><text:soft-page-break/>in an internal workshop with SMEs piloting open-source-based business models in OPEN_NEXT to give space for committed representatives of the primary target group of this project to provide high-quality feedback; <text:span text:style-name="T59">for data input a survey was used, further feedback was directly documented in the form of issues in the respective GitHub repository</text:span><text:span text:style-name="T59"><text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
+     <text:p text:style-name="P196"><text:soft-page-break/>in an internal workshop with SMEs piloting open-source-based business models in OPEN_NEXT to give space for committed representatives of the primary target group of this project to provide high-quality feedback; <text:span text:style-name="T59">for data input a survey was used, further feedback was directly documented in the form of issues in the respective GitHub repository</text:span><text:span text:style-name="T59"><text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
          <text:p text:style-name="P143">see <text:a xlink:type="simple" xlink:href="https://github.com/wmde/LOSH-Frontend/issues" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/wmde/LOSH-Frontend/issues</text:a> </text:p></text:note-body></text:note></text:span><text:span text:style-name="T59">;</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P194">with a larger group of actors in the field of OSH (SMEs, makerspaces, researchers and community representatives) using only a survey with instructions and small tasks to complete while using the LOSH search functionality. <text:span text:style-name="T69">Invitation eMails to the survey were send after the self-explanatory nature of the survey, hence allowing for independent input, was validated during the workshop.</text:span></text:p>
+     <text:p text:style-name="P196">with a larger group of actors in the field of OSH (SMEs, makerspaces, researchers and community representatives) using only a survey with instructions and small tasks to complete while using the LOSH search functionality. <text:span text:style-name="T69">Invitation eMails to the survey were send after the self-explanatory nature of the survey, hence allowing for independent input, was validated during the workshop.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P63">The latter <text:span text:style-name="T59">on the one hand brought unbiased feedback from representatives of a target group that have never been in contact with LOSH before and on the other helped to communicate the release of LOSH. The surveys used for data input were identical in both sessions.</text:span></text:p>
@@ -13491,7 +13324,7 @@
     <table:table-column table:style-name="Table9.B"/>
     <table:table-column table:style-name="Table9.C"/>
     <table:table-column table:style-name="Table9.D"/>
-    <table:table-row table:style-name="TableLine94463085527376">
+    <table:table-row table:style-name="TableLine94511112320976">
      <table:table-cell table:style-name="Table9.A1" office:value-type="string">
       <text:p text:style-name="P29">Name</text:p>
      </table:table-cell>
@@ -13505,7 +13338,7 @@
       <text:p text:style-name="P29">Returns</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463086875856">
+    <table:table-row table:style-name="TableLine94511113304448">
      <table:table-cell table:style-name="Table9.A2" table:number-rows-spanned="4" office:value-type="string">
       <text:p text:style-name="P47">OPEN<text:span text:style-name="T61">_</text:span>NEXT Consortium + Demonstrators</text:p>
      </table:table-cell>
@@ -13519,7 +13352,7 @@
       <text:p text:style-name="P76">1</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463086878416">
+    <table:table-row table:style-name="TableLine94511113307008">
      <table:covered-table-cell table:style-name="Table9.A2"/>
      <table:table-cell table:style-name="Table9.A2" office:value-type="string">
       <text:p text:style-name="P47">OSH research</text:p>
@@ -13531,7 +13364,7 @@
       <text:p text:style-name="P76">1</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463086880064">
+    <table:table-row table:style-name="TableLine94511113308656">
      <table:covered-table-cell table:style-name="Table9.A2"/>
      <table:table-cell table:style-name="Table9.A2" office:value-type="string">
       <text:p text:style-name="P47">fablab/makerspace</text:p>
@@ -13543,7 +13376,7 @@
       <text:p text:style-name="P76">0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463086882496">
+    <table:table-row table:style-name="TableLine94511113310960">
      <table:covered-table-cell table:style-name="Table9.A2"/>
      <table:table-cell table:style-name="Table9.A2" office:value-type="string">
       <text:p text:style-name="P47">other consortium partner</text:p>
@@ -13555,7 +13388,7 @@
       <text:p text:style-name="P76">0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463086885200">
+    <table:table-row table:style-name="TableLine94511114222800">
      <table:table-cell table:style-name="Table9.A2" office:value-type="string">
       <text:p text:style-name="P47">Open Source Ecology Germany</text:p>
      </table:table-cell>
@@ -13569,7 +13402,7 @@
       <text:p text:style-name="P76">1</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463086887248">
+    <table:table-row table:style-name="TableLine94511114224848">
      <table:table-cell table:style-name="Table9.A2" table:number-rows-spanned="3" office:value-type="string">
       <text:p text:style-name="P47">D3.1 interviewees</text:p>
      </table:table-cell>
@@ -13583,7 +13416,7 @@
       <text:p text:style-name="P76">0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463086889312">
+    <table:table-row table:style-name="TableLine94511114226912">
      <table:covered-table-cell table:style-name="Table9.A2"/>
      <table:table-cell table:style-name="Table9.A2" office:value-type="string">
       <text:p text:style-name="P47">fablab/makerspace</text:p>
@@ -13595,7 +13428,7 @@
       <text:p text:style-name="P76">0</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463086891936">
+    <table:table-row table:style-name="TableLine94511114229536">
      <table:covered-table-cell table:style-name="Table9.A2"/>
      <table:table-cell table:style-name="Table9.A2" office:value-type="string">
       <text:p text:style-name="P48">OSH community (OSH <text:span text:style-name="T59">projects</text:span> <text:span text:style-name="T59">yet </text:span>without relevant commercial use)</text:p>
@@ -13615,7 +13448,7 @@
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-06-16T19:34:17.465747943</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T92">add reference</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T93">add reference</text:span></text:p>
     </office:annotation>ref<office:annotation-end office:name="__Annotation__2313_2601921316"/>). However, dedicated evaluation of the search functionality was not carried out for D3.4.</text:p>
    <text:p text:style-name="P66">To test the search functionality of LOSH, the instructions and tasks from the survey for the user testing (see the previous section) have been followed internally <text:span text:style-name="T63">by developers of LOSH</text:span>, while errors and potential flaws have been documented as issues in the GitHub repository of the LOSH frontend. <text:span text:style-name="T61">For this, the perspective of an SME has been taken, seeking to reuse OSH documentation for commercial use; at best by replicating the OSH design (or parts of it) directly or using it as source of inspiration to develop a respective product.</text:span></text:p>
    <text:p text:style-name="P66">To use representative search terms, the <text:span text:style-name="T63">10 </text:span>most frequent search term<text:span text:style-name="T63">s</text:span> from the general purpose OSH search engine „Open Hardware Observatory“ (OHO) have been used<text:note text:id="ftn4" text:note-class="footnote"><text:note-citation>4</text:note-citation><text:note-body>
@@ -13623,52 +13456,52 @@
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-07-28T17:18:53.711589142</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T94">add ref</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T94">add ref</text:span></text:p>
     </office:annotation><text:span text:style-name="T82">xxx</text:span><office:annotation-end office:name="__Annotation__6824_512302415"/><text:span text:style-name="T82"> in the annexure.</text:span></text:p>
    <text:h text:style-name="P11" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc3069_596918137"/>Validation results<text:bookmark-end text:name="__RefHeading___Toc3069_596918137"/></text:h>
    <text:h text:style-name="Heading_20_5" text:outline-level="5">Overview</text:h>
    <text:p text:style-name="P103">In the survey, participants were asked to:</text:p>
-   <text:list xml:id="list3464208404" text:style-name="L10">
+   <text:list xml:id="list2006579909" text:style-name="L10">
     <text:list-item>
-     <text:p text:style-name="P195">search for OSH designs of any kind, <text:span text:style-name="T70">optionally using filters</text:span>,</text:p>
+     <text:p text:style-name="P197">search for OSH designs of any kind, <text:span text:style-name="T70">optionally using filters</text:span>,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P195">analyse the search results and check the original repositories of most relevant results,</text:p>
+     <text:p text:style-name="P197">analyse the search results and check the original repositories of most relevant results,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P195">document their impressions and import all relevant data to the survey form.</text:p>
+     <text:p text:style-name="P197">document their impressions and import all relevant data to the survey form.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P105">The results did not show any significant correlation to whether the participant was part of the OPEN_NEXT project or not. Also the heuristic analysis came to very similar results, consequently results have been analysed jointly as one dataset.</text:p>
    <text:p text:style-name="P106">Where participants asked to rate a specific attribute (e.g. usefulness of available search functions), integers between 1 and 5 were allowed.</text:p>
    <text:h text:style-name="P147" text:outline-level="5"><text:soft-page-break/>Relevance of search results and maturity of search functionality</text:h>
    <text:p text:style-name="P104">In the survey, participants were asked to:</text:p>
-   <text:list xml:id="list1299712925" text:style-name="L11">
+   <text:list xml:id="list3069926817" text:style-name="L11">
     <text:list-item>
-     <text:p text:style-name="P201">search for any technology (entered search terms were for instance “washing machine” or “microscope”),</text:p>
+     <text:p text:style-name="P204">search for any technology (entered search terms were for instance “washing machine” or “microscope”),</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P201">rate their first impression of the search results,</text:p>
+     <text:p text:style-name="P204">rate their first impression of the search results,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P201">identify one results that they find most relevant,</text:p>
+     <text:p text:style-name="P204">identify one results that they find most relevant,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P197">analyse it in more details and rate its relevance for them.</text:p>
+     <text:p text:style-name="P199">analyse it in more details and rate its relevance for them.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P104">This <text:span text:style-name="T70">features the default scenario of the intended use of the LOSH search interface (as illustrated in </text:span><office:annotation office:name="__Annotation__3534_512302415" loext:resolved="false">
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-07-26T19:18:46.935510281</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T94">reference to graphic above once added</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T94">reference to graphic above once added</text:span></text:p>
     </office:annotation><text:span text:style-name="T70">xxx</text:span><office:annotation-end office:name="__Annotation__3534_512302415"/><text:span text:style-name="T70"> above), covering all relevant functions. D</text:span><text:span text:style-name="T67">uring the workshop, participants </text:span>could follow the survey and fulfil the tasks without any questions. Free feedback regarding the usability of features did not mention any uncertainties, issues or confusion when using the LOSH interface; this was the case for both, input during the workshop and independent input. Neither was confusion about survey tasks or questions mentioned. It was concluded that:</text:p>
-   <text:list xml:id="list458458515" text:style-name="L12">
+   <text:list xml:id="list3572246923" text:style-name="L12">
     <text:list-item>
-     <text:p text:style-name="P196">the survey was clear for participants and</text:p>
+     <text:p text:style-name="P198">the survey was clear for participants and</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P196">the LOSH search interface allowed for an intuitive, independent use.</text:p>
+     <text:p text:style-name="P198">the LOSH search interface allowed for an intuitive, independent use.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P148"/>
@@ -13969,7 +13802,7 @@
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-07-27T22:12:34.297774849</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T94">add reference</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T94">add reference</text:span></text:p>
     </office:annotation><text:span text:style-name="T82">xxx</text:span><office:annotation-end office:name="__Annotation__6537_512302415"/><text:span text:style-name="T82"> in the annexure of this report.</text:span></text:p>
    <text:p text:style-name="P109">Despite of that it is to mention that the search service was very stable during testing<text:note text:id="ftn6" text:note-class="footnote"><text:note-citation>6</text:note-citation><text:note-body>
       <text:p text:style-name="P146">Only one crash has been reported by a community member, see <text:a xlink:type="simple" xlink:href="https://github.com/wmde/LOSH-Frontend/issues/137" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/wmde/LOSH-Frontend/issues/137</text:a> .</text:p></text:note-body></text:note>. Neither dead links/references, nor empty repositories or non-OSH was identified during the evaluation.</text:p>
@@ -13978,13 +13811,13 @@
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-07-28T17:40:15.838281806</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T94">add ref</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T94">add ref</text:span></text:p>
     </office:annotation>D3.3 and D3.4<office:annotation-end office:name="__Annotation__7269_512302415"/>, please refer to them for further details.</text:p>
    <text:p text:style-name="P110"><office:annotation office:name="__Annotation__7135_512302415" loext:resolved="false">
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-07-28T17:31:33.667804131</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T94">fill section</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T94">fill section</text:span></text:p>
     </office:annotation>What repo hosts?<office:annotation-end office:name="__Annotation__7135_512302415"/></text:p>
    <text:p text:style-name="P109">informative? (average)</text:p>
    <text:p text:style-name="P109">reflects OSH?</text:p>
@@ -13998,19 +13831,19 @@
    <text:p text:style-name="P71">–</text:p>
    <text:h text:style-name="P150" text:outline-level="5">Conclusions</text:h>
    <text:p text:style-name="P156">This data and the insightful comments from the surveys led to the following conclusions:</text:p>
-   <text:list xml:id="list3088481750" text:style-name="L13">
+   <text:list xml:id="list2902479731" text:style-name="L13">
     <text:list-item>
-     <text:p text:style-name="P202"><text:span text:style-name="T30">T</text:span><text:span text:style-name="T31">he LOSH knowledge base includes enough </text:span><text:span text:style-name="T30">high-quality OSH designs to be relevant for technology research.</text:span><text:span text:style-name="T76"> Within the sample, this was the case </text:span><text:span text:style-name="T41">independent from the type of technology that was searched</text:span><text:span text:style-name="T76">, which might qualify LOSH for a general-purpose meta search engine for OSH designs.</text:span></text:p>
+     <text:p text:style-name="P205"><text:span text:style-name="T30">T</text:span><text:span text:style-name="T31">he LOSH knowledge base includes enough </text:span><text:span text:style-name="T30">high-quality OSH designs to be relevant for technology research.</text:span><text:span text:style-name="T76"> Within the sample, this was the case </text:span><text:span text:style-name="T41">independent from the type of technology that was searched</text:span><text:span text:style-name="T76">, which might qualify LOSH for a general-purpose meta search engine for OSH designs.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P203"><text:span text:style-name="T32">Search results are better than expected at first. </text:span>The <text:span text:style-name="T79">average </text:span>relevance of ultimately selected most relevant search results was significantly higher than user expected from the first impression of initially displayed search results.</text:p>
+     <text:p text:style-name="P206"><text:span text:style-name="T32">Search results are better than expected at first. </text:span>The <text:span text:style-name="T79">average </text:span>relevance of ultimately selected most relevant search results was significantly higher than user expected from the first impression of initially displayed search results.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P203"><text:span text:style-name="T29">The LOSH search service </text:span><text:span text:style-name="T33">fulfils the use case, but </text:span><text:span text:style-name="T29">would greatly benefit from an improvements of the search functionality.</text:span> <text:span text:style-name="T82">Available </text:span><text:span text:style-name="T72">search functions demonstrated that they enable users to find relevant OSH designs, </text:span><text:span text:style-name="T82">but</text:span><text:span text:style-name="T72"> </text:span><text:span text:style-name="T82">users often</text:span> to separate relevant from irrelevant results. However, <office:annotation office:name="__Annotation__4663_512302415" loext:resolved="false">
+     <text:p text:style-name="P206"><text:span text:style-name="T29">The LOSH search service </text:span><text:span text:style-name="T33">fulfils the use case, but </text:span><text:span text:style-name="T29">would greatly benefit from an improvements of the search functionality.</text:span> <text:span text:style-name="T82">Available </text:span><text:span text:style-name="T72">search functions demonstrated that they enable users to find relevant OSH designs, </text:span><text:span text:style-name="T82">but</text:span><text:span text:style-name="T72"> </text:span><text:span text:style-name="T82">users often</text:span> to separate relevant from irrelevant results. However, <office:annotation office:name="__Annotation__4663_512302415" loext:resolved="false">
        <dc:creator>Martin Häuer</dc:creator>
        <dc:date>2022-07-27T19:41:48.988865433</dc:date>
        <meta:creator-initials>MH</meta:creator-initials>
-       <text:p text:style-name="P207"><text:span text:style-name="T94">or annex?</text:span></text:p>
+       <text:p text:style-name="P208"><text:span text:style-name="T94">or annex?</text:span></text:p>
       </office:annotation>as suggested in the subsequent section<office:annotation-end office:name="__Annotation__4663_512302415"/>, a small set of features and bug fixes could already mitigate this issue significantly.<text:span text:style-name="T76"> </text:span></text:p>
     </text:list-item>
    </text:list>
@@ -14829,7 +14662,7 @@
    <text:p text:style-name="P132">Deployment of the tool is done using GitLab’s “continuous deployment” functionality. Hence, no further installation steps are required to use the tool.</text:p>
    <text:p text:style-name="P132">With the OKH-LOSH Manifest File Creator users can create, edit and validate manifest files without needing to read and understand the OKH-LOSH specification or the required syntax for the defined data fields. The tool can be accessed under the following URL and runs in the browser: <text:a xlink:type="simple" xlink:href="https://manifest.opennext.eu/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://manifest.opennext.eu/</text:a> .</text:p>
    <text:p text:style-name="P132">The interface is kept minimalist and is split into two sides, as shown in <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFigure4">Figure 5</text:sequence-ref>.</text:p>
-   <text:p text:style-name="P132"><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="paragraph" svg:width="6.6929in" draw:z-index="94">
+   <text:p text:style-name="P132"><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="paragraph" svg:width="6.6929in" draw:z-index="83">
      <draw:text-box fo:min-height="3.6575in">
       <text:p text:style-name="Figure"><draw:frame draw:style-name="fr10" draw:name="Image8" text:anchor-type="paragraph" svg:width="6.6929in" style:rel-width="100%" svg:height="3.6575in" style:rel-height="scale" draw:z-index="95"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABesAAAM8CAYAAADHjvudAAAABHNCSVQICAgIfAhkiAAAABl0
@@ -22776,24 +22609,24 @@
      </draw:text-box>
     </draw:frame><text:soft-page-break/></text:p>
    <text:p text:style-name="Text_20_body">Adhering to such practices has several benefits for different user groups when dealing with the technical documentation of the project, e.g.:</text:p>
-   <text:list xml:id="list2706436819" text:style-name="L14">
+   <text:list xml:id="list161156345" text:style-name="L14">
     <text:list-item>
-     <text:p text:style-name="P204">higher familiarity for users/replicators, external contributors, manufacturers and reviewers (e.g. from conformity assessment bodies according to DIN SPEC 3105-2);</text:p>
+     <text:p text:style-name="P207">higher familiarity for users/replicators, external contributors, manufacturers and reviewers (e.g. from conformity assessment bodies according to DIN SPEC 3105-2);</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P204">improved efficiency for git-based services (smaller, easier to handle repositories, meaningful diffs);</text:p>
+     <text:p text:style-name="P207">improved efficiency for git-based services (smaller, easier to handle repositories, meaningful diffs);</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P204">any software dealing with the content can recognise project metadata and essential files (e.g. source files) much easier;</text:p>
+     <text:p text:style-name="P207">any software dealing with the content can recognise project metadata and essential files (e.g. source files) much easier;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P204">content can be easier ported to other hosting platfo^rms (or any other system dealing with projects) (less lock-in effect);</text:p>
+     <text:p text:style-name="P207">content can be easier ported to other hosting platfo^rms (or any other system dealing with projects) (less lock-in effect);</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P204">improved comparability among OSH projects;</text:p>
+     <text:p text:style-name="P207">improved comparability among OSH projects;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P204">improved reusability e.g. when used as a module within another OSH project (e.g. an open source phone using an open source GPS module).</text:p>
+     <text:p text:style-name="P207">improved reusability e.g. when used as a module within another OSH project (e.g. an open source phone using an open source GPS module).</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">The source code has been documented and published under a free/open licence through the following GitLab-repository: <text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://gitlab.com/OSEGermany/osh-tool</text:a> .</text:p>
@@ -22815,7 +22648,7 @@
      <dc:creator>Martin Häuer</dc:creator>
      <dc:date>2022-05-30T17:07:06.662285278</dc:date>
      <meta:creator-initials>MH</meta:creator-initials>
-     <text:p text:style-name="P207"><text:span text:style-name="T92">check</text:span></text:p>
+     <text:p text:style-name="P208"><text:span text:style-name="T93">check</text:span></text:p>
     </office:annotation><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard">free/open licenses:</text:a><office:annotation-end office:name="__Annotation__7821_2159218039"/></text:p>
    <table:table table:name="Table8" table:style-name="Table8">
     <table:table-column table:style-name="Table8.A"/>
@@ -22823,7 +22656,7 @@
     <table:table-column table:style-name="Table8.C"/>
     <table:table-column table:style-name="Table8.D"/>
     <table:table-header-rows>
-     <table:table-row table:style-name="TableLine94463087822640">
+     <table:table-row table:style-name="TableLine94511115146288">
       <table:table-cell table:style-name="Table8.A1" office:value-type="string">
        <text:p text:style-name="P26"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard">Image</text:a></text:p>
       </table:table-cell>
@@ -22838,9 +22671,9 @@
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
-    <table:table-row table:style-name="TableLine94463087967712">
+    <table:table-row table:style-name="TableLine94511115291024">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image13" text:anchor-type="as-char" svg:width="0.4835in" svg:height="0.6256in" draw:z-index="83"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image13" text:anchor-type="as-char" svg:width="0.4835in" svg:height="0.6256in" draw:z-index="84"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAEQAAABYCAYAAABMB1FSAAAC4klEQVR4nO2czcoSURjHGxz8
           uIP86h66iWilJoQrbaUuglaViahoRH6tBBfZSl2JkNZKvAnvwUy9g0pIe5+FEA+v73hmzuR7
           Dv8fiAMjzzz8OOd45s8w5uFwMNrt9pter/dytVo9eqAQwWBwm8lkhrVarerz+X7LqGl2Op3X
@@ -22870,9 +22703,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095568176">
+    <table:table-row table:style-name="TableLine94511122633616">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image14" text:anchor-type="as-char" svg:width="0.6165in" svg:height="0.5252in" draw:z-index="84"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image14" text:anchor-type="as-char" svg:width="0.6165in" svg:height="0.5252in" draw:z-index="85"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAF8AAABRCAYAAAC0RnqFAAAK6UlEQVR4nO2cd2wURxTGA5je
           TDcQqiHUAKEEUUQHx4DpvZeAFUMCQkpAkJDQLIoUBQggqk0xvfdOgoAIQg2hF9Nb6L2T/P6Y
           y/q48+3uze7cmfukJyEfuzPzdubNK99M0Lt37z4KQA2CVHfgQ0ZA+QoRUL5CBJSvEAHlK0RA
@@ -22940,9 +22773,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095569072">
+    <table:table-row table:style-name="TableLine94511122634448">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image15" text:anchor-type="as-char" svg:width="0.6598in" svg:height="0.6484in" draw:z-index="85"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image15" text:anchor-type="as-char" svg:width="0.6598in" svg:height="0.6484in" draw:z-index="86"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAGIAAABgCAYAAADmbacFAAAPl0lEQVR4nO2dBbTUyhnHCyzu
           Tinu7lC0uLu7u7tbcXd3Ly5FWtzt4U5xd3fvffxez7yThklWJ9n7Lv9zcvZukp2Z5Jv5/Jvr
           CAgI+JM/49mzZ9E3bdpUmuPy5cspbt26lfDjx49hYsWK9Thu3Lj3EyZMeCtp0qTX4sePfyda
@@ -23032,9 +22865,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463094909264">
+    <table:table-row table:style-name="TableLine94511122635344">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image16" text:anchor-type="as-char" svg:width="0.6866in" svg:height="0.4236in" draw:z-index="86"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image16" text:anchor-type="as-char" svg:width="0.6866in" svg:height="0.4236in" draw:z-index="87"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAC8AAAAdCAYAAAA6lTUKAAACeUlEQVR4nO2YPchSURzGKw/o
           oBgo6JyioKnttVVCOIUOgkrZIIi6RYmIVshLiptF4OAHKjQUTiKkbrqrqaCkc0KCkYOCH/kf
           Lojd79fuzXif5XDuuefhxznPOfevaLfbXcPTfD6/mc/nnyyXSxHuCzxKIBBs3G53FhG9kEql
@@ -23062,9 +22895,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463094910432">
+    <table:table-row table:style-name="TableLine94511122636240">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr8" draw:name="Image17" text:anchor-type="as-char" svg:width="1.0291in" svg:height="0.7134in" draw:z-index="87"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr8" draw:name="Image17" text:anchor-type="as-char" svg:width="1.0291in" svg:height="0.7134in" draw:z-index="88"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAALoAAACBCAYAAAB3s6CfAAA9c0lEQVR4nO2dBVhUWRvH7wTD
           0K0gHUoIgt2BBTaoKO7auXbr2rWu3bV2r926NtiFrTQWooR0D1Pf/K97cBinQNj9XOf/PPPM
           nXvPLfjd977nPe85hy0WiymNNPqvi/1vX4BGGv0T0oCu0Q8hDega/RDSgK7RD6EfHvTH2cIm
@@ -23372,9 +23205,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">GPLv3</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463094911280">
+    <table:table-row table:style-name="TableLine94511122637088">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image18" text:anchor-type="as-char" svg:width="0.4992in" svg:height="0.6252in" draw:z-index="88"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image18" text:anchor-type="as-char" svg:width="0.4992in" svg:height="0.6252in" draw:z-index="89"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAJsAAADCCAYAAABe4LCzAAAabElEQVR4nO2dB3QUVfvGFSKK
           oEKoIqg0BZReFOk9BBQjoIAg5aNEo1KkCSqfKEhvioIIgiBFQERpCS2EKr1IkRYwgNQgCqII
           +Oe3/3PzTZbsZnczZWfyPufcM2VnZ282z9659y3PG/Lvv//e4VT89ttv2X799dcHExMTQ9m/
@@ -23516,9 +23349,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463094912176">
+    <table:table-row table:style-name="TableLine94511122637984">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image19" text:anchor-type="as-char" svg:width="0.6047in" svg:height="0.5665in" draw:z-index="89"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr9" draw:name="Image19" text:anchor-type="as-char" svg:width="0.6047in" svg:height="0.5665in" draw:z-index="90"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAEYAAABCCAYAAADqv6CSAAANdUlEQVR4nN2cBZQVyxGGA1xc
           gnuA4O7u7hDc3TVAILg83AnuHtzd3d2Du0tw97ffeel7epvxO3fDe3XOnN2Z6enpqe6q+kv6
           er5///6noKJnz55FPX78eBaOEydOZL5//37c58+fR3nx4kVk/gaMJVjkyJFfRIkS5TlH7Nix
@@ -23598,9 +23431,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463094913072">
+    <table:table-row table:style-name="TableLine94511122638880">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image20" text:anchor-type="as-char" svg:width="0.7681in" svg:height="0.3555in" draw:z-index="90"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image20" text:anchor-type="as-char" svg:width="0.7681in" svg:height="0.3555in" draw:z-index="91"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAFsAAAAqCAYAAADcSCf9AAAK0klEQVR4nM2bBXBUVxSGAywS
           tFjw4ppSOrhLKBasUNwCwYq7U1IkWKFogOJuxZIApRQSCgSKdSjF3b1YsBAC5Uvn0WV59z7Z
           9zI9M29md6+de969R/5z1vH27VsPdyg6Ojrh6dOnC5w9ezbf7du3Mz59+jQ5v3t6er7w8vK6
@@ -23668,9 +23501,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463094914496">
+    <table:table-row table:style-name="TableLine94511122640304">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image21" text:anchor-type="as-char" svg:width="0.5717in" svg:height="0.5717in" draw:z-index="91"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image21" text:anchor-type="as-char" svg:width="0.5717in" svg:height="0.5717in" draw:z-index="92"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAEEAAABBCAYAAACO98lFAAAMQ0lEQVR4nO1beXBTxxnffTqt
           wye+bxvfJwYbsGMDaUNCXRIaEtI0zTHNpM2QhrZJ00zaHEynuZtM06ZJh86k0xCaTo7ptNOZ
           HASMjY3BNhY+8G1jfEo+ZEuybult9z2QbdlP75AvZsrvL2n3293v/bTft7/dpxUjhMD/O8Qb
@@ -23746,9 +23579,9 @@
      </table:table-cell>
     </table:table-row>
     <text:soft-page-break/>
-    <table:table-row table:style-name="TableLine94463094915392">
+    <table:table-row table:style-name="TableLine94511122641200">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image22" text:anchor-type="as-char" svg:width="0.5299in" svg:height="0.5299in" draw:z-index="92"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image22" text:anchor-type="as-char" svg:width="0.5299in" svg:height="0.5299in" draw:z-index="93"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAD2ElEQVR4nJ1WXUhTYRhuerQQ
           mWumtpTAH3C5dRFmc86LlIUIg0EXiYpj6NI5EWJqBGqEFohuIoSm8wfZyNALQRAilObFptMM
           L3TToBQkfzJTJxH+TNeewZHT3NlcLxy2837f+zzf9/4ewul0XvInW1tb0dPT04KNjQ3O7u7u
@@ -23783,9 +23616,9 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">NOT FREE (fair use) https://github.com/logos</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463094916288">
+    <table:table-row table:style-name="TableLine94511123301760">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image23" text:anchor-type="as-char" svg:width="0.6043in" svg:height="0.6043in" draw:z-index="93"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image23" text:anchor-type="as-char" svg:width="0.6043in" svg:height="0.6043in" draw:z-index="94"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAABiklEQVR4nGP5//8/Awxcu3ZN
           a8eOHR6/f/9mZaAAxMXFLZKUlHwO47PAGDdv3lS3tLQ87u3tvZWXl/czuRasWLEiwsnJaR9W
           S0A+MDY2Prts2bIoci0Agb179zqji8Et+fnzJ/uhQ4fsPD09t1Pik5cvX4pXVla25+XlTfLz
@@ -23809,7 +23642,7 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463094917184">
+    <table:table-row table:style-name="TableLine94511123302656">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image24" text:anchor-type="as-char" svg:width="0.5602in" svg:height="0.7382in" draw:z-index="40"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAACMAAAAuCAYAAACiR6CHAAAExElEQVR4nO1YCUhlZRROfKaZ
@@ -23850,7 +23683,7 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095578016">
+    <table:table-row table:style-name="TableLine94511123303552">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="P83"><draw:frame draw:style-name="fr8" draw:name="Image25" text:anchor-type="as-char" svg:width="0.7063in" svg:height="0.5472in" draw:z-index="41"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAqgAAAIPCAYAAAC/oSwKAABgqklEQVR4nO3dBZhV5fr+8SPd
@@ -24327,7 +24160,7 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095578912">
+    <table:table-row table:style-name="TableLine94511123304448">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="P83"><draw:frame draw:style-name="fr8" draw:name="Image26" text:anchor-type="as-char" svg:width="0.4in" svg:height="0.9811in" draw:z-index="42"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAGQAAAD2CAYAAAAgTCIcAAAUEklEQVR4nO2dB5gURRqGPZ0F
@@ -24441,7 +24274,7 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095579808">
+    <table:table-row table:style-name="TableLine94511123305344">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image27" text:anchor-type="as-char" svg:width="0.7217in" svg:height="0.2854in" draw:z-index="43"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAFYAAAAiCAYAAADF5S4gAAAI+UlEQVR4nL2ad0xWVxjGq36k
@@ -24502,7 +24335,7 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095580784">
+    <table:table-row table:style-name="TableLine94511123306320">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image28" text:anchor-type="as-char" svg:width="0.6035in" svg:height="0.3811in" draw:z-index="44"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAADoAAAAlCAYAAAATO/pmAAABwElEQVR4nGP5//8/Azq4dOmS
@@ -24529,7 +24362,7 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095582880">
+    <table:table-row table:style-name="TableLine94511123308416">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image29" text:anchor-type="as-char" svg:width="0.672in" svg:height="0.248in" draw:z-index="45"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAFUAAAAgCAYAAABjGjQoAAAHC0lEQVR4nNVaCTBdVxguHqra
@@ -24581,7 +24414,7 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095583936">
+    <table:table-row table:style-name="TableLine94511123309472">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image30" text:anchor-type="as-char" svg:width="0.739in" svg:height="0.1791in" draw:z-index="46"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAyQAAADDCAYAAABzo9WjAAAhX0lEQVR4nO3dd3yNd//H8TtD
@@ -24758,7 +24591,7 @@
       <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"><text:span text:style-name="T3">CC BY 3.0</text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94463095584992">
+    <table:table-row table:style-name="TableLine94511123310528">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="P83"><draw:frame draw:style-name="fr7" draw:name="Image31" text:anchor-type="as-char" svg:width="0.3807in" svg:height="0.4035in" draw:z-index="47"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAADAAAAAzCAYAAADRlospAAACrElEQVR4nO2YSc4SQRTHRXsF
@@ -24791,7 +24624,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard"/></text:p>
-   <text:h text:style-name="P167" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc7649_2512574057"/><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard">References</text:a><text:bookmark-end text:name="__RefHeading___Toc7649_2512574057"/></text:h>
+   <text:h text:style-name="P169" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc7649_2512574057"/><text:a xlink:type="simple" xlink:href="https://gitlab.com/OSEGermany/osh-tool" text:style-name="Standard" text:visited-style-name="Standard">References</text:a><text:bookmark-end text:name="__RefHeading___Toc7649_2512574057"/></text:h>
    <text:section text:style-name="Sect1" text:name="ZOTERO_BIBL {&quot;uncited&quot;:[],&quot;omitted&quot;:[],&quot;custom&quot;:[]} CSL_BIBLIOGRAPHY RNDdk0Rtsllat">
     <text:p text:style-name="Bibliography_20_1">Häuer, M., &amp; Sonika Gogineni. (2021). <text:span text:style-name="T38">OPEN-NEXT/D3.3-Report: V1.0.2</text:span> (v1.0.2). Zenodo. https://doi.org/10.5281/ZENODO.5638687</text:p>
     <text:p text:style-name="Bibliography_20_1">Mies, R., Bonvoisin, J., &amp; Stark, R. (2020). DEVELOPMENT OF OPEN SOURCE HARDWARE IN ONLINE COMMUNITIES: INVESTIGATING REQUIREMENTS FOR GROUPWARE. <text:span text:style-name="T38">Proceedings of the Design Society: DESIGN Conference</text:span>, <text:span text:style-name="T38">1</text:span>, 997–1006. https://doi.org/10.1017/dsd.2020.38</text:p>
