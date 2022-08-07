@@ -9,7 +9,6 @@ Report for the D3.5 deliverable ("Finalised demonstrators - usability-tested, ve
 - raw data used for this report (`raw data`)
 - images used in this report (`images`)
 - export of all references used in this report ([references.json](references.json)) (import into your reference management system, e.g. [Zotero](https://www.zotero.org/)
-- a summary of all image attributions ([ATTRIBUTIONS.md](ATTRIBUTIONS.md))
 - the licensing terms for this repository (free/open source, permissive) ([CC BY 4.0](LICENSE))
 
 Please find the PDF exports of report and annexure in the [release](https://github.com/OPEN-NEXT/D3.5-Report/releases/tag/v1.0.0).
