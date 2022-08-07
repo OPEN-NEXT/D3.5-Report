@@ -1,0 +1,213 @@
+[
+	{
+		"id": "http://zotero.org/users/6726287/items/QULE7FNP",
+		"type": "report",
+		"abstract": "changelog: minor format changes applied <strong>Find the complete export package in the ZIP file here ↓</strong>",
+		"note": "version: v1.0.2\nDOI: 10.5281/ZENODO.5638687",
+		"publisher": "Zenodo",
+		"source": "DOI.org (Datacite)",
+		"title": "OPEN-NEXT/D3.3-Report: v1.0.2",
+		"title-short": "OPEN-NEXT/D3.3-Report",
+		"URL": "https://zenodo.org/record/5638687",
+		"author": [
+			{
+				"family": "Häuer",
+				"given": "Martin"
+			},
+			{
+				"family": "Sonika Gogineni",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					6,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6726287/items/8IVI377M",
+		"type": "article-journal",
+		"abstract": "Abstract\n            Open source hardware is hardware whose design is shared online so that anyone can study, modify, distribute, make, and sell it. In spite of the increasing popularity of this alternative IP management approach, the field of OSH remains fragmented of diverse practices seeking for settlement. This challenges providers of groupware solutions to capture the specific needs of open source product development practitioners. This contribution therefore delivers a list of basic requirements and verifies them by comparing offered functions of existing groupware solutions.",
+		"container-title": "Proceedings of the Design Society: DESIGN Conference",
+		"DOI": "10.1017/dsd.2020.38",
+		"ISSN": "2633-7762",
+		"journalAbbreviation": "Proc. Des. Soc.: Des. Conf.",
+		"language": "en",
+		"page": "997-1006",
+		"source": "DOI.org (Crossref)",
+		"title": "DEVELOPMENT OF OPEN SOURCE HARDWARE IN ONLINE COMMUNITIES: INVESTIGATING REQUIREMENTS FOR GROUPWARE",
+		"title-short": "DEVELOPMENT OF OPEN SOURCE HARDWARE IN ONLINE COMMUNITIES",
+		"URL": "https://www.cambridge.org/core/product/identifier/S2633776220000382/type/journal_article",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Mies",
+				"given": "R."
+			},
+			{
+				"family": "Bonvoisin",
+				"given": "J."
+			},
+			{
+				"family": "Stark",
+				"given": "R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					6,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6726287/items/V5UCRGYZ",
+		"type": "article-journal",
+		"container-title": "Procedia CIRP",
+		"DOI": "10.1016/j.procir.2022.05.306",
+		"ISSN": "22128271",
+		"journalAbbreviation": "Procedia CIRP",
+		"language": "en",
+		"page": "635-640",
+		"source": "DOI.org (Crossref)",
+		"title": "Introducing readiness scales for effective reuse of open source hardware",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S2212827122007557",
+		"volume": "109",
+		"author": [
+			{
+				"family": "Mies",
+				"given": "Robert"
+			},
+			{
+				"family": "Häuer",
+				"given": "Martin"
+			},
+			{
+				"family": "Hassan",
+				"given": "Mehera"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					6,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6726287/items/I2VVSXTP",
+		"type": "report",
+		"abstract": "Report for the D3.3 deliverable",
+		"note": "language: en\nDOI: 10.5281/ZENODO.6950056",
+		"publisher": "Zenodo",
+		"source": "DOI.org (Datacite)",
+		"title": "OPEN-NEXT/D3.4-Report: v1.0.0",
+		"title-short": "OPEN-NEXT/D3.4-Report",
+		"URL": "https://zenodo.org/record/6950056",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6726287/items/GGHCZP56",
+		"type": "article-journal",
+		"abstract": "Report of the D3.2 deliverable",
+		"DOI": "10.5281/ZENODO.6950103",
+		"language": "en",
+		"note": "publisher: Zenodo\nversion: v1.0.0",
+		"source": "DOI.org (Datacite)",
+		"title": "OPEN-NEXT/D3.2-Report: v1.0.0-copy",
+		"title-short": "OPEN-NEXT/D3.2-Report",
+		"URL": "https://zenodo.org/record/6950103",
+		"author": [
+			{
+				"family": "Sonika Gogineni",
+				"given": ""
+			},
+			{
+				"family": "Häuer",
+				"given": "Martin"
+			},
+			{
+				"family": "Konietzko",
+				"given": "Erik Paul"
+			},
+			{
+				"family": "Tanrikulu",
+				"given": "Cansu"
+			},
+			{
+				"family": "Kampik",
+				"given": "Max"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					1
+				]
+			]
+		}
+	}
+]
