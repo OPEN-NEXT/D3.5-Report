@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="229.38472mm"
+   height="92.220749mm"
+   viewBox="0 0 866.96588 348.55087"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="dashboard architecture.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1893651"
+     inkscape:cx="454.02376"
+     inkscape:cy="280.8221"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="281.1348"
+       y="59.460114"
+       width="169.59328"
+       height="63.849525"
+       id="rect1553" />
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="317.20493"
+       y="407.16058"
+       width="631.6875"
+       height="163.23561"
+       id="rect1168" />
+    <rect
+       x="207.26923"
+       y="209.82719"
+       width="302.70581"
+       height="57.937988"
+       id="rect1004" />
+    <rect
+       x="207.26923"
+       y="209.82719"
+       width="302.70581"
+       height="57.937988"
+       id="rect1110" />
+    <rect
+       x="281.1348"
+       y="59.460114"
+       width="270.79761"
+       height="62.253048"
+       id="rect1705" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-125.86013,-65.687676)">
+    <g
+       id="g1906">
+      <g
+         id="g1100"
+         transform="translate(0,105.07395)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:2.8005;stroke-dasharray:none;stroke-opacity:1"
+           id="rect163"
+           width="334.47714"
+           height="166.35347"
+           x="127.26038"
+           y="141.41087"
+           ry="22.710274" />
+        <text
+           xml:space="preserve"
+           id="text1002"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1004);fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(-50.661211,-8.3655124)"><tspan
+             x="207.26953"
+             y="247.32812"
+             id="tspan3472"><tspan
+               style="font-family:'Routed Gothic Wide';-inkscape-font-specification:'Routed Gothic Wide'"
+               id="tspan3470">FRONTEND</tspan></tspan></text>
+      </g>
+      <g
+         id="g1108"
+         transform="translate(426.74195,105.07395)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:2.8005;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1102"
+           width="334.47714"
+           height="166.35347"
+           x="230.20668"
+           y="141.41087"
+           ry="22.710274" />
+        <text
+           xml:space="preserve"
+           id="text1106"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1110);fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(71.914008,-8.3655124)"><tspan
+             x="207.26953"
+             y="247.32812"
+             id="tspan3476"><tspan
+               style="font-family:'Routed Gothic Wide';-inkscape-font-specification:'Routed Gothic Wide'"
+               id="tspan3474">BACKEND</tspan></tspan></text>
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1164"
+           width="48.090504"
+           height="125.46499"
+           x="206.02859"
+           y="161.85512"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0,-1.2219594,1.2219594,0,-282.87602,661.40513)"
+           id="text1166"
+           style="font-style:normal;font-weight:normal;font-size:21.8229px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1168);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="317.20508"
+             y="427.61913"
+             id="tspan3480"><tspan
+               style="font-family:'Routed Gothic Narrow';-inkscape-font-specification:'Routed Gothic Narrow'"
+               id="tspan3478">REST API</tspan></tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.66929;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="M 633.50108,329.66156 H 483.06107"
+         id="path1282" />
+      <g
+         id="g1823"
+         transform="translate(30.576577,7.1356378)">
+        <text
+           xml:space="preserve"
+           id="text1551"
+           style="font-style:normal;font-weight:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1553);fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(404.31287,56.944963)"><tspan
+             x="281.13477"
+             y="99.570284"
+             id="tspan3484"><tspan
+               style="font-weight:bold;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold'"
+               id="tspan3482">GitHub</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text1703"
+           style="font-style:normal;font-weight:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1705);fill:#000000;fill-opacity:1;stroke:none"
+           transform="translate(405.62754,-7.9702697)"><tspan
+             x="281.13477"
+             y="99.570284"
+             id="tspan3488"><tspan
+               style="font-weight:bold;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold'"
+               id="tspan3486">Wikifactory</tspan></tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.66929;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="m 805.34986,184.01683 v 42.2912"
+         id="path1825" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.66929;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="M 904.55866,123.91675 V 225.51939"
+         id="path1839" />
+    </g>
+  </g>
+  <metadata
+     id="metadata2291">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Pen-Yuan Hsing</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
