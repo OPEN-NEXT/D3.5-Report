@@ -209,5 +209,88 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/6726287/items/8KEIHIMG",
+		"type": "book",
+		"abstract": "This is largely identical to the initial release for the OPENNEXT project work package 2 task 2.2's month 18 deliverable, but with additional documentation in the form of a step-by-step walkthrough of setting up the data-mining scripts and demo dashboard on your server. It will be simultaneously archived on Zenodo.org.",
+		"note": "language: en\nDOI: 10.5281/ZENODO.4560580",
+		"publisher": "Zenodo",
+		"source": "DOI.org (Datacite)",
+		"title": "OPEN-NEXT/wp2.2_dev: Add step-by-step walkthrough",
+		"title-short": "OPEN-NEXT/wp2.2_dev",
+		"URL": "https://zenodo.org/record/4560580",
+		"version": "v0.2.0",
+		"author": [
+			{
+				"family": "Penyuan",
+				"given": ""
+			},
+			{
+				"family": "Mkampik",
+				"given": ""
+			},
+			{
+				"family": "Bonvoisin",
+				"given": "Jérémy"
+			},
+			{
+				"family": "Jean-Francois Boujut",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6726287/items/MBPGRPKC",
+		"type": "report",
+		"abstract": "This document is a deliverable (3.1) of project OPEN_NEXT. This deliverable report describes and summarizes the activities carried out and their results in Task 3.1: Assessing the needs, which belongs to work package (WP) 3. The work package aims at developing information and communication technology (ICT) infrastructure to support open source hardware (OSH) and collaborative engineering in company-community collaboration (C3). Hence, the activities mentioned in this deliverable report is the first step to find and understand the needs for developing the required ICT infrastructure. This deliverable document delivers the following results, which are further detailed in later sections:  Collecting and accessing needs: An outline of twenty in-depth interviews conducted to assess community needs.  Development of user stories: A summary of the user stories generated from the interviews. The user stories act as the first step to translate the needs into solutions for filling the current ICT infrastructure gaps.  Data flow architecture development: Analysis and development of data flow architecture to understand the activities and processes of OSH development in C3.",
+		"language": "en",
+		"note": "DOI: 10.14279/DEPOSITONCE-9852",
+		"publisher": "Technische Universität Berlin",
+		"source": "DOI.org (Datacite)",
+		"title": "Deliverable 3.1 - User stories of collaborative engineering needs",
+		"URL": "https://depositonce.tu-berlin.de/handle/11303/10962",
+		"author": [
+			{
+				"family": "Gogineni",
+				"given": "Sonika"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					1
+				]
+			]
+		}
 	}
 ]
